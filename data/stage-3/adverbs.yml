@@ -1,0 +1,599 @@
+afar:
+  d: very, immensely, ever so, highly, most
+  p: 117
+aftur:
+  d: back, backwards
+  p: 16
+aldeilis:
+  d: completely, totally
+  p: 146
+aldrei:
+  d: never, at no time
+  p: 20
+algerlega:
+  d: Alternative form of algjörlega
+  p: 176
+algjörlega:
+  d: totally, completely
+  p: 160
+alls:
+  d: altogether, in all
+  p: 76
+alltaf:
+  d: always
+  p: 34
+alltof:
+  d: far too
+  p: 188
+alvarlega:
+  d: seriously
+  p: 155
+alveg:
+  d: entirely, completely
+  p: 50
+andskoti:
+  d: damn, bloody (curse word used for emphasis, often positive)
+  p: 199
+annars:
+  d: or else, otherwise
+  p: 66
+ansi:
+  d: pretty, pretty darn, rather, quite
+  p: 120
+augljóslega:
+  d: obviously
+  p: 175
+austur:
+  d: east, eastward (designating movement to the east)
+  p: 156
+auðveldlega:
+  d: easily
+  p: 185
+auðvitað:
+  d: of course
+  p: 48
+aðallega:
+  d: chiefly, mainly, mostly
+  p: 184
+aðeins:
+  d: just, only
+  p: 42
+bara:
+  d: only, just, if only
+  p: 8
+beint:
+  d: directly, straight
+  p: 84
+brott:
+  d: away, off
+  p: 181
+brátt:
+  d: soon
+  p: 166
+bráðum:
+  d: soon
+  p: 131
+burt:
+  d: away, off
+  p: 58
+býsna:
+  d: very, rather, pretty
+  p: 169
+daglega:
+  d: daily, every day
+  p: 159
+dauðans:
+  d: from Hell
+  p: 164
+dálítið:
+  d: somewhat, a little
+  p: 86
+eflaust:
+  d: without a doubt, indubitably, doubtlessly
+  p: 157
+ei:
+  d: not
+  p: 163
+eigi:
+  d: not
+  p: 121
+eiginlega:
+  d: actually
+  p: 103
+ein:
+  d: alone
+  p: 65
+einfaldlega:
+  d: simply
+  p: 179
+eingöngu:
+  d: only (exclusively)
+  p: 180
+einkum:
+  d: especially, particularly
+  p: 158
+einmitt:
+  d: exactly, precisely
+  p: 52
+einnig:
+  d: moreover, also, besides
+  p: 126
+eins:
+  d: alike, identical
+  p: 10
+einungis:
+  d: merely, only
+  p: 165
+ekki:
+  d: not
+  p: 1
+endilega:
+  d: by all means!, absolutely! (used to encourage someone and show positivity)
+  p: 139
+enn:
+  d: still
+  p: 32
+ennþá:
+  d: still
+  p: 111
+eðlilega:
+  d: normally, naturally
+  p: 193
+fallega:
+  d: beautifully
+  p: 128
+fast:
+  d: strongly, with force
+  p: 137
+fjarri:
+  d: far away, far off
+  p: 151
+fljótlega:
+  d: soon
+  p: 123
+forðum:
+  d: formerly, long ago
+  p: 196
+fram:
+  d: forth, forward
+  p: 45
+framan:
+  d: on the front side
+  p: 106
+framhjá:
+  d: past
+  p: 144
+frammi:
+  d: out front; in a location closer to the exit of the house
+  p: 136
+frekar:
+  d: rather, preferably, specifies a choice or preference
+  p: 91
+fremur:
+  d: rather
+  p: 143
+frábærlega:
+  d: outstandingly
+  p: 187
+fullkomlega:
+  d: perfectly
+  p: 170
+fyrir:
+  d: therefore
+  p: 4
+gegn:
+  d: through
+  p: 60
+gjarna:
+  d: gladly, willingly, readily
+  p: 36
+gjarnan:
+  d: gladly, willingly, readily
+  p: 37
+greinilega:
+  d: discernibly, perceptibly
+  p: 135
+gær:
+  d: yesterday
+  p: 109
+heim:
+  d: home
+  p: 41
+heima:
+  d: home, at home
+  p: 68
+helvíti:
+  d: darn, damn (curse word used for emphasis, often positive)
+  p: 133
+hingað:
+  d: here (movement), into here, to here, hither
+  p: 38
+hræðilega:
+  d: terribly
+  p: 168
+hvar:
+  d: where (of location)
+  p: 21
+hvað:
+  d: how
+  p: 2
+hve:
+  d: how, like, as
+  p: 67
+hvenær:
+  d: when
+  p: 53
+hvergi:
+  d: nowhere
+  p: 132
+hvernig:
+  d: how ("in what manner", "in what state")
+  p: 14
+hversu:
+  d: how (to what degree)
+  p: 93
+hvert:
+  d: whereto, whither
+  p: 44
+hví:
+  d: why
+  p: 79
+hægt:
+  d: slowly
+  p: 59
+hér:
+  d: here
+  p: 11
+hérna:
+  d: here
+  p: 22
+héðan:
+  d: from here, hence
+  p: 61
+illa:
+  d: badly, poorly
+  p: 55
+inn:
+  d: in, inside
+  p: 23
+innan:
+  d: inside, on the inside, within
+  p: 105
+inni:
+  d: inside
+  p: 56
+innilega:
+  d: deeply, fervently, cordially
+  p: 192
+jafnt:
+  d: evenly
+  p: 174
+jafnvel:
+  d: even
+  p: 78
+já:
+  d: 'yes'
+  p: 6
+jú:
+  d: yes, certainly
+  p: 63
+kannski:
+  d: maybe, perhaps
+  p: 26
+langt:
+  d: far
+  p: 69
+lengi:
+  d: long (for a long time)
+  p: 51
+loksins:
+  d: finally
+  p: 122
+líka:
+  d: "also, too, as well, likewise\n Konan mín kom, og börnin mín líka.\n Ég vona\
+    \ að við hittumst aftur. - Ég líka."
+  p: 28
+líklega:
+  d: probably (in all likelihood)
+  p: 74
+lítið:
+  d: little (not much)
+  p: 88
+lítt:
+  d: little, not very
+  p: 89
+megin:
+  d: used after qualifiers to mean "on X side"; often followed by a prepositional
+    phrase
+  p: 112
+meir:
+  d: more
+  p: 190
+meðan:
+  d: meanwhile
+  p: 70
+mikið:
+  d: much, a lot
+  p: 40
+milli:
+  d: Used in set phrases
+  p: 80
+miður:
+  d: less
+  p: 90
+mjög:
+  d: very
+  p: 31
+neðan:
+  d: below, beneath
+  p: 172
+niðri:
+  d: downstairs, below
+  p: 102
+niður:
+  d: down, downwards
+  p: 39
+nokkuð:
+  d: fairly, quite
+  p: 75
+norður:
+  d: north, northward
+  p: 125
+nákvæmlega:
+  d: exactly
+  p: 115
+nálægt:
+  d: near
+  p: 101
+nær:
+  d: nearer, closer
+  p: 95
+nærri:
+  d: near
+  p: 98
+næsta:
+  d: very, quite
+  p: 97
+næstum:
+  d: almost
+  p: 83
+nóg:
+  d: enough, sufficient
+  p: 62
+nú:
+  d: now
+  p: 12
+núna:
+  d: now, at the moment, currently
+  p: 24
+nýlega:
+  d: recently
+  p: 153
+of:
+  d: too (to an excessive degree)
+  p: 35
+ofan:
+  d: from above, down
+  p: 110
+oft:
+  d: often
+  p: 99
+persónulega:
+  d: personally
+  p: 178
+reyndar:
+  d: in fact, as a matter of fact, actually
+  p: 100
+rétt:
+  d: rightly, correctly
+  p: 30
+rólega:
+  d: calmly
+  p: 134
+saman:
+  d: together
+  p: 33
+samt:
+  d: yet, still, anyway
+  p: 71
+sannarlega:
+  d: truly, verily
+  p: 113
+sennilega:
+  d: likely, probably
+  p: 127
+sjaldan:
+  d: seldom, rarely
+  p: 183
+sjálfsagt:
+  d: probably
+  p: 148
+sko:
+  d: used when giving an explanation, you see, see here, so, now
+  p: 119
+skyndilega:
+  d: suddenly (happening quickly and with little or no warning)
+  p: 147
+snemma:
+  d: early
+  p: 57
+strax:
+  d: immediately, right away
+  p: 49
+stundum:
+  d: sometimes
+  p: 72
+stutt:
+  d: for a short while
+  p: 154
+sundur:
+  d: apart
+  p: 152
+sunnan:
+  d: coming from the south
+  p: 197
+suður:
+  d: south
+  p: 130
+svo:
+  d: so
+  p: 9
+svolítið:
+  d: a little
+  p: 87
+svona:
+  d: thus, like this
+  p: 19
+sérstaklega:
+  d: separately, specially
+  p: 129
+sífellt:
+  d: always, invariably, ever
+  p: 145
+síðar:
+  d: later
+  p: 96
+sömuleiðis:
+  d: likewise; you too; right back at you
+  p: 138
+tvisvar:
+  d: twice
+  p: 124
+títt:
+  d: often, frequently
+  p: 149
+um:
+  d: used in set phrases
+  p: 3
+undan:
+  d: away
+  p: 82
+undarlega:
+  d: strangely
+  p: 177
+upp:
+  d: up
+  p: 17
+uppi:
+  d: above, upstairs
+  p: 73
+utan:
+  d: relating to movemenent from the outside to the inside
+  p: 85
+vanalega:
+  d: usually
+  p: 191
+varla:
+  d: hardly, barely, just
+  p: 108
+varlega:
+  d: cautiously, carefully
+  p: 92
+vel:
+  d: well
+  p: 18
+venjulega:
+  d: normally
+  p: 140
+verulega:
+  d: considerably, substantially
+  p: 195
+viljandi:
+  d: deliberately, intentionally, on purpose
+  p: 194
+vinsamlega:
+  d: please
+  p: 161
+virkilega:
+  d: really (actually)
+  p: 104
+vissulega:
+  d: certainly, surely
+  p: 116
+vonandi:
+  d: hopefully
+  p: 94
+víst:
+  d: probably
+  p: 64
+víða:
+  d: far and wide; in many places
+  p: 186
+yfirleitt:
+  d: in general, generally
+  p: 141
+áfram:
+  d: forward, forth, on
+  p: 29
+ágætlega:
+  d: excellently, outstandingly, splendidly
+  p: 182
+ár:
+  d: early
+  p: 46
+ásamt:
+  d: in addition to, together with
+  p: 150
+ávallt:
+  d: always
+  p: 173
+áður:
+  d: before, earlier, previously
+  p: 43
+æði:
+  d: very, rather, quite
+  p: 167
+ógn:
+  d: how (modifier used to express surprise or delight)
+  p: 189
+ótrúlega:
+  d: incredibly, unbelievably
+  p: 162
+óvart:
+  d: accidentally
+  p: 114
+öfugt:
+  d: backwards
+  p: 198
+örugglega:
+  d: securely
+  p: 107
+öðruvísi:
+  d: differently
+  p: 118
+út:
+  d: out
+  p: 15
+úti:
+  d: outside, outdoors
+  p: 77
+þangað:
+  d: there (in that direction), thither
+  p: 54
+þannig:
+  d: in that way, like that
+  p: 47
+þar:
+  d: there (in that place)
+  p: 27
+þarna:
+  d: over there, there
+  p: 25
+þaðan:
+  d: from there, thence
+  p: 142
+þegar:
+  d: already, at once
+  p: 13
+þrisvar:
+  d: thrice, three times
+  p: 171
+því:
+  d: the...the (when comparing)
+  p: 5
+þá:
+  d: then, the past
+  p: 7
+þó:
+  d: still, yet
+  p: 81

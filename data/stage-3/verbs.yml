@@ -1,0 +1,9908 @@
+afhenda:
+  d: to deliver
+  f:
+    infinitive: afhenda
+    past:
+      1PP: afhentum
+      1PS: afhenti
+      2PP: afhentuð
+      2PS: afhentir
+      3PP: afhentu
+      3PS: afhenti
+    present:
+      1PP: afhendum
+      1PS: afhendi
+      2PP: afhendið
+      2PS: afhendir
+      3PP: afhenda
+      3PS: afhendir
+  p: 491
+afsaka:
+  d: to excuse
+  f:
+    infinitive: afsaka
+    past:
+      1PP: afsökuðum
+      1PS: afsakaði
+      2PP: afsökuðuð
+      2PS: afsakaðir
+      3PP: afsökuðu
+      3PS: afsakaði
+    present:
+      1PP: afsökum
+      1PS: afsaka
+      2PP: afsakið
+      2PS: afsakar
+      3PP: afsaka
+      3PS: afsakar
+  p: 97
+aka:
+  d: to drive (a vehicle)
+  f:
+    infinitive: aka
+    past:
+      1PP: ókum
+      1PS: ók
+      2PP: ókuð
+      2PS: ókst
+      3PP: óku
+      3PS: ók
+    present:
+      1PP: ökum
+      1PS: ek
+      2PP: akið
+      2PS: ekur
+      3PP: aka
+      3PS: ekur
+  p: 288
+ala:
+  d: to bear, give birth to
+  f:
+    infinitive: ala
+    past:
+      1PP: ólum
+      1PS: ól
+      2PP: óluð
+      2PS: ólst
+      3PP: ólu
+      3PS: ól
+    present:
+      1PP: ölum
+      1PS: el
+      2PP: alið
+      2PS: elur
+      3PP: ala
+      3PS: elur
+  p: 300
+anda:
+  d: to breathe
+  f:
+    infinitive: anda
+    past:
+      1PP: önduðum
+      1PS: andaði
+      2PP: önduðuð
+      2PS: andaðir
+      3PP: önduðu
+      3PS: andaði
+    present:
+      1PP: öndum
+      1PS: anda
+      2PP: andið
+      2PS: andar
+      3PP: anda
+      3PS: andar
+  p: 236
+angra:
+  d: to bother
+  f:
+    infinitive: angra
+    past:
+      1PP: angruðum
+      1PS: angraði
+      2PP: angruðuð
+      2PS: angraðir
+      3PP: angruðu
+      3PS: angraði
+    present:
+      1PP: angrum
+      1PS: angra
+      2PP: angrið
+      2PS: angrar
+      3PP: angra
+      3PS: angrar
+  p: 434
+anna:
+  d: to manage, be able to do
+  f:
+    infinitive: anna
+    past:
+      1PP: önnuðum
+      1PS: annaði
+      2PP: önnuðuð
+      2PS: annaðir
+      3PP: önnuðu
+      3PS: annaði
+    present:
+      1PP: önnum
+      1PS: anna
+      2PP: annið
+      2PS: annar
+      3PP: anna
+      3PS: annar
+  p: 45
+ansa:
+  d: to answer, to reply
+  f:
+    infinitive: ansa
+    past:
+      1PP: önsuðum
+      1PS: ansaði
+      2PP: önsuðuð
+      2PS: ansaðir
+      3PP: önsuðu
+      3PS: ansaði
+    present:
+      1PP: önsum
+      1PS: ansa
+      2PP: ansið
+      2PS: ansar
+      3PP: ansa
+      3PS: ansar
+  p: 188
+athuga:
+  d: to look, to check
+  f:
+    infinitive: athuga
+    past:
+      1PP: athuguðum
+      1PS: athugaði
+      2PP: athuguðuð
+      2PS: athugaðir
+      3PP: athuguðu
+      3PS: athugaði
+    present:
+      1PP: athugum
+      1PS: athuga
+      2PP: athugið
+      2PS: athugar
+      3PP: athuga
+      3PS: athugar
+  p: 194
+auka:
+  d: to increase, to augment
+  f:
+    infinitive: auka
+    past:
+      1PP: jukum
+      1PS: jók
+      2PP: jukuð
+      2PS: jókst
+      3PP: juku
+      3PS: jók
+    present:
+      1PP: aukum
+      1PS: eyk
+      2PP: aukið
+      2PS: eykur
+      3PP: auka
+      3PS: eykur
+  p: 307
+aðstoða:
+  d: to help, to assist
+  f:
+    infinitive: aðstoða
+    past:
+      1PP: aðstoðuðum
+      1PS: aðstoðaði
+      2PP: aðstoðuðuð
+      2PS: aðstoðaðir
+      3PP: aðstoðuðu
+      3PS: aðstoðaði
+    present:
+      1PP: aðstoðum
+      1PS: aðstoða
+      2PP: aðstoðið
+      2PS: aðstoðar
+      3PP: aðstoða
+      3PS: aðstoðar
+  p: 279
+baka:
+  d: to bake
+  f:
+    infinitive: baka
+    past:
+      1PP: bökuðum
+      1PS: bakaði
+      2PP: bökuðuð
+      2PS: bakaðir
+      3PP: bökuðu
+      3PS: bakaði
+    present:
+      1PP: bökum
+      1PS: baka
+      2PP: bakið
+      2PS: bakar
+      3PP: baka
+      3PS: bakar
+  p: 90
+bakka:
+  d: to back up (move backwards, especially on a vehicle)
+  f:
+    infinitive: bakka
+    past:
+      1PP: bökkuðum
+      1PS: bakkaði
+      2PP: bökkuðuð
+      2PS: bakkaðir
+      3PP: bökkuðu
+      3PS: bakkaði
+    present:
+      1PP: bökkum
+      1PS: bakka
+      2PP: bakkið
+      2PS: bakkar
+      3PP: bakka
+      3PS: bakkar
+  p: 478
+bana:
+  d: To kill.
+  f:
+    infinitive: bana
+    past:
+      1PP: bönuðum
+      1PS: banaði
+      2PP: bönuðuð
+      2PS: banaðir
+      3PP: bönuðu
+      3PS: banaði
+    present:
+      1PP: bönum
+      1PS: bana
+      2PP: banið
+      2PS: banar
+      3PP: bana
+      3PS: banar
+  p: 403
+banka:
+  d: to knock, to beat
+  f:
+    infinitive: banka
+    past:
+      1PP: bönkuðum
+      1PS: bankaði
+      2PP: bönkuðuð
+      2PS: bankaðir
+      3PP: bönkuðu
+      3PS: bankaði
+    present:
+      1PP: bönkum
+      1PS: banka
+      2PP: bankið
+      2PS: bankar
+      3PP: banka
+      3PS: bankar
+  p: 362
+banna:
+  d: to ban
+  f:
+    infinitive: banna
+    past:
+      1PP: bönnuðum
+      1PS: bannaði
+      2PP: bönnuðuð
+      2PS: bannaðir
+      3PP: bönnuðu
+      3PS: bannaði
+    present:
+      1PP: bönnum
+      1PS: banna
+      2PP: bannið
+      2PS: bannar
+      3PP: banna
+      3PS: bannar
+  p: 351
+barna:
+  d: to make pregnant, knock up
+  f:
+    infinitive: barna
+    past:
+      1PP: börnuðum
+      1PS: barnaði
+      2PP: börnuðuð
+      2PS: barnaðir
+      3PP: börnuðu
+      3PS: barnaði
+    present:
+      1PP: börnum
+      1PS: barna
+      2PP: barnið
+      2PS: barnar
+      3PP: barna
+      3PS: barnar
+  p: 134
+beina:
+  d: to aim, to direct, to point
+  f:
+    infinitive: beina
+    past:
+      1PP: beindum
+      1PS: beindi
+      2PP: beinduð
+      2PS: beindir
+      3PP: beindu
+      3PS: beindi
+    present:
+      1PP: beinum
+      1PS: beini
+      2PP: beinið
+      2PS: beinir
+      3PP: beina
+      3PS: beinir
+  p: 107
+beita:
+  d: to bait a fishing line
+  f:
+    infinitive: beita
+    past:
+      1PP: beittum
+      1PS: beitti
+      2PP: beittuð
+      2PS: beittir
+      3PP: beittu
+      3PS: beitti
+    present:
+      1PP: beitum
+      1PS: beiti
+      2PP: beitið
+      2PS: beitir
+      3PP: beita
+      3PS: beitir
+  p: 386
+beiða:
+  d: to ask, to request
+  f:
+    infinitive: beiða
+    past:
+      1PP: beiddum
+      1PS: beiddi
+      2PP: beidduð
+      2PS: beiddir
+      3PP: beiddu
+      3PS: beiddi
+    present:
+      1PP: beiðum
+      1PS: beiði
+      2PP: beiðið
+      2PS: beiðir
+      3PP: beiða
+      3PS: beiðir
+  p: 325
+benda:
+  d: To bend.
+  f:
+    infinitive: benda
+    past:
+      1PP: bentum
+      1PS: benti
+      2PP: bentuð
+      2PS: bentir
+      3PP: bentu
+      3PS: benti
+    present:
+      1PP: bendum
+      1PS: bendi
+      2PP: bendið
+      2PS: bendir
+      3PP: benda
+      3PS: bendir
+  p: 404
+bera:
+  d: to carry, to bear
+  f:
+    infinitive: bera
+    past:
+      1PP: bárum
+      1PS: bar
+      2PP: báruð
+      2PS: barst
+      3PP: báru
+      3PS: bar
+    present:
+      1PP: berum
+      1PS: ber
+      2PP: berið
+      2PS: berð
+      3PP: bera
+      3PS: ber
+  p: 150
+berja:
+  d: to beat, to strike
+  f:
+    infinitive: berja
+    past:
+      1PP: börðum
+      1PS: barði
+      2PP: börðuð
+      2PS: barðir
+      3PP: börðu
+      3PS: barði
+    present:
+      1PP: berjum
+      1PS: ber
+      2PP: berjið
+      2PS: berð
+      3PP: berja
+      3PS: ber
+  p: 151
+betra:
+  d: to better, to improve
+  f:
+    infinitive: betra
+    past:
+      1PP: betruðum
+      1PS: betraði
+      2PP: betruðuð
+      2PS: betraðir
+      3PP: betruðu
+      3PS: betraði
+    present:
+      1PP: betrum
+      1PS: betra
+      2PP: betrið
+      2PS: betrar
+      3PP: betra
+      3PS: betrar
+  p: 104
+beygja:
+  d: to bend
+  f:
+    infinitive: beygja
+    past:
+      1PP: beygðum
+      1PS: beygði
+      2PP: beygðuð
+      2PS: beygðir
+      3PP: beygðu
+      3PS: beygði
+    present:
+      1PP: beygjum
+      1PS: beygi
+      2PP: beygið
+      2PS: beygir
+      3PP: beygja
+      3PS: beygir
+  p: 302
+binda:
+  d: to tie, to bind
+  f:
+    infinitive: binda
+    past:
+      1PP: bundum
+      1PS: batt
+      2PP: bunduð
+      2PS: bast
+      3PP: bundu
+      3PS: batt
+    present:
+      1PP: bindum
+      1PS: bind
+      2PP: bindið
+      2PS: bindur
+      3PP: binda
+      3PS: bindur
+  p: 394
+birta:
+  d: to show, to reveal
+  f:
+    infinitive: birta
+    past:
+      1PP: birtum
+      1PS: birti
+      2PP: birtuð
+      2PS: birtir
+      3PP: birtu
+      3PS: birti
+    present:
+      1PP: birtum
+      1PS: birti
+      2PP: birtið
+      2PS: birtir
+      3PP: birta
+      3PS: birtir
+  p: 265
+biðja:
+  d: to ask, request some action of someone
+  f:
+    infinitive: biðja
+    past:
+      1PP: báðum
+      1PS: bað
+      2PP: báðuð
+      2PS: baðst
+      3PP: báðu
+      3PS: bað
+    present:
+      1PP: biðjum
+      1PS: bið
+      2PP: biðjið
+      2PS: biður
+      3PP: biðja
+      3PS: biður
+  p: 132
+bjarga:
+  d: to save, rescue
+  f:
+    infinitive: bjarga
+    past:
+      1PP: björguðum
+      1PS: bjargaði
+      2PP: björguðuð
+      2PS: bjargaðir
+      3PP: björguðu
+      3PS: bjargaði
+    present:
+      1PP: björgum
+      1PS: bjarga
+      2PP: bjargið
+      2PS: bjargar
+      3PP: bjarga
+      3PS: bjargar
+  p: 120
+bjóða:
+  d: to offer
+  f:
+    infinitive: bjóða
+    past:
+      1PP: buðum
+      1PS: bauð
+      2PP: buðuð
+      2PS: bauðst
+      3PP: buðu
+      3PS: bauð
+    present:
+      1PP: bjóðum
+      1PS: býð
+      2PP: bjóðið
+      2PS: býður
+      3PP: bjóða
+      3PS: býður
+  p: 130
+blanda:
+  d: to mix
+  f:
+    infinitive: blanda
+    past:
+      1PP: blönduðum
+      1PS: blandaði
+      2PP: blönduðuð
+      2PS: blandaðir
+      3PP: blönduðu
+      3PS: blandaði
+    present:
+      1PP: blöndum
+      1PS: blanda
+      2PP: blandið
+      2PS: blandar
+      3PP: blanda
+      3PS: blandar
+  p: 372
+blekkja:
+  d: to fool, deceive
+  f:
+    infinitive: blekkja
+    past:
+      1PP: blekktum
+      1PS: blekkti
+      2PP: blekktuð
+      2PS: blekktir
+      3PP: blekktu
+      3PS: blekkti
+    present:
+      1PP: blekkjum
+      1PS: blekki
+      2PP: blekkið
+      2PS: blekkir
+      3PP: blekkja
+      3PS: blekkir
+  p: 450
+blessa:
+  d: to bless
+  f:
+    infinitive: blessa
+    past:
+      1PP: blessuðum
+      1PS: blessaði
+      2PP: blessuðuð
+      2PS: blessaðir
+      3PP: blessuðu
+      3PS: blessaði
+    present:
+      1PP: blessum
+      1PS: blessa
+      2PP: blessið
+      2PS: blessar
+      3PP: blessa
+      3PS: blessar
+  p: 329
+blæða:
+  d: to bleed
+  f:
+    infinitive: blæða
+    past:
+      1PP: blæddum
+      1PS: blæddi
+      2PP: blædduð
+      2PS: blæddir
+      3PP: blæddu
+      3PS: blæddi
+    present:
+      1PP: blæðum
+      1PS: blæði
+      2PP: blæðið
+      2PS: blæðir
+      3PP: blæða
+      3PS: blæðir
+  p: 420
+bora:
+  d: to bore, drill
+  f:
+    infinitive: bora
+    past:
+      1PP: boruðum
+      1PS: boraði
+      2PP: boruðuð
+      2PS: boraðir
+      3PP: boruðu
+      3PS: boraði
+    present:
+      1PP: borum
+      1PS: bora
+      2PP: borið
+      2PS: borar
+      3PP: bora
+      3PS: borar
+  p: 387
+borga:
+  d: to pay
+  f:
+    infinitive: borga
+    past:
+      1PP: borguðum
+      1PS: borgaði
+      2PP: borguðuð
+      2PS: borgaðir
+      3PP: borguðu
+      3PS: borgaði
+    present:
+      1PP: borgum
+      1PS: borga
+      2PP: borgið
+      2PS: borgar
+      3PP: borga
+      3PS: borgar
+  p: 114
+borða:
+  d: to eat
+  f:
+    infinitive: borða
+    past:
+      1PP: borðuðum
+      1PS: borðaði
+      2PP: borðuðuð
+      2PS: borðaðir
+      3PP: borðuðu
+      3PS: borðaði
+    present:
+      1PP: borðum
+      1PS: borða
+      2PP: borðið
+      2PS: borðar
+      3PP: borða
+      3PS: borðar
+  p: 113
+boða:
+  d: to proclaim, to announce
+  f:
+    infinitive: boða
+    past:
+      1PP: boðuðum
+      1PS: boðaði
+      2PP: boðuðuð
+      2PS: boðaðir
+      3PP: boðuðu
+      3PS: boðaði
+    present:
+      1PP: boðum
+      1PS: boða
+      2PP: boðið
+      2PS: boðar
+      3PP: boða
+      3PS: boðar
+  p: 225
+bregða:
+  d: to be startled, to be shocked, to be taken aback
+  f:
+    infinitive: bregða
+    past:
+      1PP: brugðum
+      1PS: brá
+      2PP: brugðuð
+      2PS: brást
+      3PP: brugðu
+      3PS: brá
+    present:
+      1PP: bregðum
+      1PS: bregð
+      2PP: bregðið
+      2PS: bregður
+      3PP: bregða
+      3PS: bregður
+  p: 438
+brenna:
+  d: to burn, to be on fire
+  f:
+    infinitive: brenna
+    past:
+      1PP: brenndum
+      1PS: brenndi
+      2PP: brennduð
+      2PS: brenndir
+      3PP: brenndu
+      3PS: brenndi
+    present:
+      1PP: brennum
+      1PS: brenni
+      2PP: brennið
+      2PS: brennir
+      3PP: brenna
+      3PS: brennir
+  p: 310
+breyta:
+  d: (transitive, governs the dative, often used with í (“into”)) to change something,
+    to modify something, to alter something
+  f:
+    infinitive: breyta
+    past:
+      1PP: breyttum
+      1PS: breytti
+      2PP: breyttuð
+      2PS: breyttir
+      3PP: breyttu
+      3PS: breytti
+    present:
+      1PP: breytum
+      1PS: breyti
+      2PP: breytið
+      2PS: breytir
+      3PP: breyta
+      3PS: breytir
+  p: 176
+brjóta:
+  d: to break
+  f:
+    infinitive: brjóta
+    past:
+      1PP: brutum
+      1PS: braut
+      2PP: brutuð
+      2PS: braust
+      3PP: brutu
+      3PS: braut
+    present:
+      1PP: brjótum
+      1PS: brýt
+      2PP: brjótið
+      2PS: brýtur
+      3PP: brjóta
+      3PS: brýtur
+  p: 282
+brosa:
+  d: to smile
+  f:
+    infinitive: brosa
+    past:
+      1PP: brostum
+      1PS: brosti
+      2PP: brostuð
+      2PS: brostir
+      3PP: brostu
+      3PS: brosti
+    present:
+      1PP: brosum
+      1PS: brosi
+      2PP: brosið
+      2PS: brosir
+      3PP: brosa
+      3PS: brosir
+  p: 454
+byggja:
+  d: to build
+  f:
+    infinitive: byggja
+    past:
+      1PP: byggðum
+      1PS: byggði
+      2PP: byggðuð
+      2PS: byggðir
+      3PP: byggðu
+      3PS: byggði
+    present:
+      1PP: byggjum
+      1PS: byggi
+      2PP: byggið
+      2PS: byggir
+      3PP: byggja
+      3PS: byggir
+  p: 334
+byrja:
+  d: to begin
+  f:
+    infinitive: byrja
+    past:
+      1PP: byrjuðum
+      1PS: byrjaði
+      2PP: byrjuðuð
+      2PS: byrjaðir
+      3PP: byrjuðu
+      3PS: byrjaði
+    present:
+      1PP: byrjum
+      1PS: byrja
+      2PP: byrjið
+      2PS: byrjar
+      3PP: byrja
+      3PS: byrjar
+  p: 103
+bæra:
+  d: to move, stir
+  f:
+    infinitive: bæra
+    past:
+      1PP: bærðum
+      1PS: bærði
+      2PP: bærðuð
+      2PS: bærðir
+      3PP: bærðu
+      3PS: bærði
+    present:
+      1PP: bærum
+      1PS: bæri
+      2PP: bærið
+      2PS: bærir
+      3PP: bæra
+      3PS: bærir
+  p: 462
+bæta:
+  d: to improve, to better something, to mend something
+  f:
+    infinitive: bæta
+    past:
+      1PP: bættum
+      1PS: bætti
+      2PP: bættuð
+      2PS: bættir
+      3PP: bættu
+      3PS: bætti
+    present:
+      1PP: bætum
+      1PS: bæti
+      2PP: bætið
+      2PS: bætir
+      3PP: bæta
+      3PS: bætir
+  p: 228
+bíta:
+  d: to bite someone or something
+  f:
+    infinitive: bíta
+    past:
+      1PP: bitum
+      1PS: beit
+      2PP: bituð
+      2PS: beist
+      3PP: bitu
+      3PS: beit
+    present:
+      1PP: bítum
+      1PS: bít
+      2PP: bítið
+      2PS: bítur
+      3PP: bíta
+      3PS: bítur
+  p: 480
+bíða:
+  d: to wait
+  f:
+    infinitive: bíða
+    past:
+      1PP: biðum
+      1PS: beið
+      2PP: biðuð
+      2PS: beiðst
+      3PP: biðu
+      3PS: beið
+    present:
+      1PP: bíðum
+      1PS: bíð
+      2PP: bíðið
+      2PS: bíður
+      3PP: bíða
+      3PS: bíður
+  p: 39
+búa:
+  d: to reside, to live
+  f:
+    infinitive: búa
+    past:
+      1PP: bjuggum
+      1PS: bjó
+      2PP: bjugguð
+      2PS: bjóst
+      3PP: bjuggu
+      3PS: bjó
+    present:
+      1PP: búum
+      1PS: bý
+      2PP: búið
+      2PS: býrð
+      3PP: búa
+      3PS: býr
+  p: 78
+dansa:
+  d: to dance
+  f:
+    infinitive: dansa
+    past:
+      1PP: dönsuðum
+      1PS: dansaði
+      2PP: dönsuðuð
+      2PS: dansaðir
+      3PP: dönsuðu
+      3PS: dansaði
+    present:
+      1PP: dönsum
+      1PS: dansa
+      2PP: dansið
+      2PS: dansar
+      3PP: dansa
+      3PS: dansar
+  p: 203
+deila:
+  d: to divide, to split
+  f:
+    infinitive: deila
+    past:
+      1PP: deildum
+      1PS: deildi
+      2PP: deilduð
+      2PS: deildir
+      3PP: deildu
+      3PS: deildi
+    present:
+      1PP: deilum
+      1PS: deili
+      2PP: deilið
+      2PS: deilir
+      3PP: deila
+      3PS: deilir
+  p: 328
+detta:
+  d: to fall
+  f:
+    infinitive: detta
+    past:
+      1PP: duttum
+      1PS: datt
+      2PP: duttuð
+      2PS: dast
+      3PP: duttu
+      3PS: datt
+    present:
+      1PP: dettum
+      1PS: dett
+      2PP: dettið
+      2PS: dettur
+      3PP: detta
+      3PS: dettur
+  p: 145
+deyja:
+  d: to die
+  f:
+    infinitive: deyja
+    past:
+      1PP: dóum
+      1PS: dó
+      2PP: dóuð
+      2PS: dóst
+      3PP: dóu
+      3PS: dó
+    present:
+      1PP: deyjum
+      1PS: dey
+      2PP: deyið
+      2PS: deyrð
+      3PP: deyja
+      3PS: deyr
+  p: 80
+draga:
+  d: to draw, drag, pull
+  f:
+    infinitive: draga
+    past:
+      1PP: drógum
+      1PS: dró
+      2PP: dróguð
+      2PS: dróst
+      3PP: drógu
+      3PS: dró
+    present:
+      1PP: drögum
+      1PS: dreg
+      2PP: dragið
+      2PS: dregur
+      3PP: draga
+      3PS: dregur
+  p: 234
+drekka:
+  d: "to drink\n Mig blóðlangar í eitthvað að drekka.\n Hún drekkur alltaf kók með\
+    \ matnum."
+  f:
+    infinitive: drekka
+    past:
+      1PP: drukkum
+      1PS: drakk
+      2PP: drukkuð
+      2PS: drakkst
+      3PP: drukku
+      3PS: drakk
+    present:
+      1PP: drekkum
+      1PS: drekk
+      2PP: drekkið
+      2PS: drekkur
+      3PP: drekka
+      3PS: drekkur
+  p: 167
+drekkja:
+  d: to drown
+  f:
+    infinitive: drekkja
+    past:
+      1PP: drekktum
+      1PS: drekkti
+      2PP: drekktuð
+      2PS: drekktir
+      3PP: drekktu
+      3PS: drekkti
+    present:
+      1PP: drekkjum
+      1PS: drekki
+      2PP: drekkið
+      2PS: drekkir
+      3PP: drekkja
+      3PS: drekkir
+  p: 421
+drepa:
+  d: to beat, hit
+  f:
+    infinitive: drepa
+    past:
+      1PP: drápum
+      1PS: drap
+      2PP: drápuð
+      2PS: drapst
+      3PP: drápu
+      3PS: drap
+    present:
+      1PP: drepum
+      1PS: drep
+      2PP: drepið
+      2PS: drepur
+      3PP: drepa
+      3PS: drepur
+  p: 56
+dreyma:
+  d: to dream (see imaginary events while sleeping)
+  f:
+    infinitive: dreyma
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+  p: 323
+drulla:
+  d: to soil, to make dirty
+  f:
+    infinitive: drulla
+    past:
+      1PP: drulluðum
+      1PS: drullaði
+      2PP: drulluðuð
+      2PS: drullaðir
+      3PP: drulluðu
+      3PS: drullaði
+    present:
+      1PP: drullum
+      1PS: drulla
+      2PP: drullið
+      2PS: drullar
+      3PP: drulla
+      3PS: drullar
+  p: 468
+drífa:
+  d: to drive
+  f:
+    infinitive: drífa
+    past:
+      1PP: drifum
+      1PS: dreif
+      2PP: drifuð
+      2PS: dreifst
+      3PP: drifu
+      3PS: dreif
+    present:
+      1PP: drífum
+      1PS: dríf
+      2PP: drífið
+      2PS: drífur
+      3PP: drífa
+      3PS: drífur
+  p: 231
+duga:
+  d: to suffice, to be enough, to do the trick
+  f:
+    infinitive: duga
+    past:
+      1PP: dugðum
+      1PS: dugði
+      2PP: dugðuð
+      2PS: dugðir
+      3PP: dugðu
+      3PS: dugði
+    present:
+      1PP: dugum
+      1PS: dugi
+      2PP: dugið
+      2PS: dugir
+      3PP: duga
+      3PS: dugir
+  p: 412
+dá:
+  d: to adore, admire greatly
+  f:
+    infinitive: dá
+    past:
+      1PP: dáðum
+      1PS: dáði
+      2PP: dáðuð
+      2PS: dáðir
+      3PP: dáðu
+      3PS: dáði
+    present:
+      1PP: dáum
+      1PS: dái
+      2PP: dáið
+      2PS: dáir
+      3PP: dá
+      3PS: dáir
+  p: 258
+dæma:
+  d: to judge
+  f:
+    infinitive: dæma
+    past:
+      1PP: dæmdum
+      1PS: dæmdi
+      2PP: dæmduð
+      2PS: dæmdir
+      3PP: dæmdu
+      3PS: dæmdi
+    present:
+      1PP: dæmum
+      1PS: dæmi
+      2PP: dæmið
+      2PS: dæmir
+      3PP: dæma
+      3PS: dæmir
+  p: 342
+dýrka:
+  d: to glorify, worship
+  f:
+    infinitive: dýrka
+    past:
+      1PP: dýrkuðum
+      1PS: dýrkaði
+      2PP: dýrkuðuð
+      2PS: dýrkaðir
+      3PP: dýrkuðu
+      3PS: dýrkaði
+    present:
+      1PP: dýrkum
+      1PS: dýrka
+      2PP: dýrkið
+      2PS: dýrkar
+      3PP: dýrka
+      3PS: dýrkar
+  p: 460
+efa:
+  d: to doubt
+  f:
+    infinitive: efa
+    past:
+      1PP: efuðum
+      1PS: efaði
+      2PP: efuðuð
+      2PS: efaðir
+      3PP: efuðu
+      3PS: efaði
+    present:
+      1PP: efum
+      1PS: efa
+      2PP: efið
+      2PS: efar
+      3PP: efa
+      3PS: efar
+  p: 332
+efna:
+  d: to carry out, to fulfil
+  f:
+    infinitive: efna
+    past:
+      1PP: efndum
+      1PS: efndi
+      2PP: efnduð
+      2PS: efndir
+      3PP: efndu
+      3PS: efndi
+    present:
+      1PP: efnum
+      1PS: efni
+      2PP: efnið
+      2PS: efnir
+      3PP: efna
+      3PS: efnir
+  p: 178
+eiga:
+  d: to have, to be closely related to
+  f:
+    infinitive: eiga
+    past:
+      1PP: áttum
+      1PS: átti
+      2PP: áttuð
+      2PS: áttir
+      3PP: áttu
+      3PS: átti
+    present:
+      1PP: eigum
+      1PS: á
+      2PP: eigið
+      2PS: átt
+      3PP: eiga
+      3PS: á
+  p: 37
+eima:
+  d: to distill
+  f:
+    infinitive: eima
+    past:
+      1PP: eimuðum
+      1PS: eimaði
+      2PP: eimuðuð
+      2PS: eimaðir
+      3PP: eimuðu
+      3PS: eimaði
+    present:
+      1PP: eimum
+      1PS: eima
+      2PP: eimið
+      2PS: eimar
+      3PP: eima
+      3PS: eimar
+  p: 459
+elda:
+  d: to cook
+  f:
+    infinitive: elda
+    past:
+      1PP: eltum
+      1PS: elti
+      2PP: eltuð
+      2PS: eltir
+      3PP: eltu
+      3PS: elti
+    present:
+      1PP: eldum
+      1PS: eldi
+      2PP: eldið
+      2PS: eldir
+      3PP: elda
+      3PS: eldir
+  p: 317
+elska:
+  d: to love
+  f:
+    infinitive: elska
+    past:
+      1PP: elskuðum
+      1PS: elskaði
+      2PP: elskuðuð
+      2PS: elskaðir
+      3PP: elskuðu
+      3PS: elskaði
+    present:
+      1PP: elskum
+      1PS: elska
+      2PP: elskið
+      2PS: elskar
+      3PP: elska
+      3PS: elskar
+  p: 66
+elta:
+  d: to chase (to pursue, to follow at speed)
+  f:
+    infinitive: elta
+    past:
+      1PP: eltum
+      1PS: elti
+      2PP: eltuð
+      2PS: eltir
+      3PP: eltu
+      3PS: elti
+    present:
+      1PP: eltum
+      1PS: elti
+      2PP: eltið
+      2PS: eltir
+      3PP: elta
+      3PS: eltir
+  p: 204
+enda:
+  d: to finish, end (bring to an end)
+  f:
+    infinitive: enda
+    past:
+      1PP: enduðum
+      1PS: endaði
+      2PP: enduðuð
+      2PS: endaðir
+      3PP: enduðu
+      3PS: endaði
+    present:
+      1PP: endum
+      1PS: enda
+      2PP: endið
+      2PS: endar
+      3PP: enda
+      3PS: endar
+  p: 163
+endast:
+  d: to last, endure
+  f:
+    infinitive: null
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+  p: 484
+endurtaka:
+  d: to repeat
+  f:
+    infinitive: endurtaka
+    past:
+      1PP: endurtókum
+      1PS: endurtók
+      2PP: endurtókuð
+      2PS: endurtókst
+      3PP: endurtóku
+      3PS: endurtók
+    present:
+      1PP: endurtökum
+      1PS: endurtek
+      2PP: endurtakið
+      2PS: endurtekur
+      3PP: endurtaka
+      3PS: endurtekur
+  p: 337
+erfa:
+  d: to inherit
+  f:
+    infinitive: erfa
+    past:
+      1PP: erfðum
+      1PS: erfði
+      2PP: erfðuð
+      2PS: erfðir
+      3PP: erfðu
+      3PS: erfði
+    present:
+      1PP: erfum
+      1PS: erfi
+      2PP: erfið
+      2PS: erfir
+      3PP: erfa
+      3PS: erfir
+  p: 458
+erta:
+  d: to irritate (cause physical discomfort to a part of the body, etc.)
+  f:
+    infinitive: erta
+    past:
+      1PP: ertum
+      1PS: erti
+      2PP: ertuð
+      2PS: ertir
+      3PP: ertu
+      3PS: erti
+    present:
+      1PP: ertum
+      1PS: erti
+      2PP: ertið
+      2PS: ertir
+      3PP: erta
+      3PS: ertir
+  p: 3
+eta:
+  d: to eat
+  f:
+    infinitive: eta
+    past:
+      1PP: átum
+      1PS: át
+      2PP: átuð
+      2PS: ást
+      3PP: átu
+      3PS: át
+    present:
+      1PP: etum
+      1PS: et
+      2PP: etið
+      2PS: etur
+      3PP: eta
+      3PS: etur
+  p: 170
+eyða:
+  d: to destroy, bring to nothing
+  f:
+    infinitive: eyða
+    past:
+      1PP: eyddum
+      1PS: eyddi
+      2PP: eydduð
+      2PS: eyddir
+      3PP: eyddu
+      3PS: eyddi
+    present:
+      1PP: eyðum
+      1PS: eyði
+      2PP: eyðið
+      2PS: eyðir
+      3PP: eyða
+      3PS: eyðir
+  p: 218
+eyðileggja:
+  d: to destroy
+  f:
+    infinitive: eyðileggja
+    past:
+      1PP: eyðilögðum
+      1PS: eyðilagði
+      2PP: eyðilögðuð
+      2PS: eyðilagðir
+      3PP: eyðilögðu
+      3PS: eyðilagði
+    present:
+      1PP: eyðileggjum
+      1PS: eyðilegg
+      2PP: eyðileggið
+      2PS: eyðileggur
+      3PP: eyðileggja
+      3PS: eyðileggur
+  p: 246
+falda:
+  d: to hem, to lay up
+  f:
+    infinitive: falda
+    past:
+      1PP: földuðum
+      1PS: faldaði
+      2PP: földuðuð
+      2PS: faldaðir
+      3PP: földuðu
+      3PS: faldaði
+    present:
+      1PP: földum
+      1PS: falda
+      2PP: faldið
+      2PS: faldar
+      3PP: falda
+      3PS: faldar
+  p: 494
+falla:
+  d: to fall
+  f:
+    infinitive: falla
+    past:
+      1PP: féllum
+      1PS: féll
+      2PP: félluð
+      2PS: féllst
+      3PP: féllu
+      3PS: féll
+    present:
+      1PP: föllum
+      1PS: fell
+      2PP: fallið
+      2PS: fellur
+      3PP: falla
+      3PS: fellur
+  p: 280
+fanga:
+  d: to capture, to seize
+  f:
+    infinitive: fanga
+    past:
+      1PP: fönguðum
+      1PS: fangaði
+      2PP: fönguðuð
+      2PS: fangaðir
+      3PP: fönguðu
+      3PS: fangaði
+    present:
+      1PP: föngum
+      1PS: fanga
+      2PP: fangið
+      2PS: fangar
+      3PP: fanga
+      3PS: fangar
+  p: 382
+fangelsa:
+  d: to imprison, to jail, to gaol
+  f:
+    infinitive: fangelsa
+    past:
+      1PP: fangelsuðum
+      1PS: fangelsaði
+      2PP: fangelsuðuð
+      2PS: fangelsaðir
+      3PP: fangelsuðu
+      3PS: fangelsaði
+    present:
+      1PP: fangelsum
+      1PS: fangelsa
+      2PP: fangelsið
+      2PS: fangelsar
+      3PP: fangelsa
+      3PS: fangelsar
+  p: 146
+fara:
+  d: to go, to leave
+  f:
+    infinitive: fara
+    past:
+      1PP: fórum
+      1PS: fór
+      2PP: fóruð
+      2PS: fórst
+      3PP: fóru
+      3PS: fór
+    present:
+      1PP: förum
+      1PS: fer
+      2PP: farið
+      2PS: ferð
+      3PP: fara
+      3PS: fer
+  p: 11
+fela:
+  d: to hide, to conceal
+  f:
+    infinitive: fela
+    past:
+      1PP: fólum
+      1PS: fól
+      2PP: fóluð
+      2PS: fólst
+      3PP: fólu
+      3PS: fól
+    present:
+      1PP: felum
+      1PS: fel
+      2PP: felið
+      2PS: felur
+      3PP: fela
+      3PS: felur
+  p: 269
+ferðast:
+  d: to travel
+  f:
+    infinitive: null
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+  p: 294
+finna:
+  d: "to find\n Ég fann þig!"
+  f:
+    infinitive: finna
+    past:
+      1PP: fundum
+      1PS: fann
+      2PP: funduð
+      2PS: fannst
+      3PP: fundu
+      3PS: fann
+    present:
+      1PP: finnum
+      1PS: finn
+      2PP: finnið
+      2PS: finnur
+      3PP: finna
+      3PS: finnur
+  p: 40
+fjarlægja:
+  d: to remove, to take off, to strip
+  f:
+    infinitive: fjarlægja
+    past:
+      1PP: fjarlægðum
+      1PS: fjarlægði
+      2PP: fjarlægðuð
+      2PS: fjarlægðir
+      3PP: fjarlægðu
+      3PS: fjarlægði
+    present:
+      1PP: fjarlægjum
+      1PS: fjarlægi
+      2PP: fjarlægið
+      2PS: fjarlægir
+      3PP: fjarlægja
+      3PS: fjarlægir
+  p: 306
+fljóta:
+  d: to float
+  f:
+    infinitive: fljóta
+    past:
+      1PP: flutum
+      1PS: flaut
+      2PP: flutuð
+      2PS: flaust
+      3PP: flutu
+      3PS: flaut
+    present:
+      1PP: fljótum
+      1PS: flýt
+      2PP: fljótið
+      2PS: flýtur
+      3PP: fljóta
+      3PS: flýtur
+  p: 274
+fljúga:
+  d: to fly
+  f:
+    infinitive: fljúga
+    past:
+      1PP: flugum
+      1PS: flaug
+      2PP: fluguð
+      2PS: flaugst
+      3PP: flugu
+      3PS: flaug
+    present:
+      1PP: fljúgum
+      1PS: flýg
+      2PP: fljúgið
+      2PS: flýgur
+      3PP: fljúga
+      3PS: flýgur
+  p: 222
+flytja:
+  d: to move, to relocate (something or someone)
+  f:
+    infinitive: flytja
+    past:
+      1PP: fluttum
+      1PS: flutti
+      2PP: fluttuð
+      2PS: fluttir
+      3PP: fluttu
+      3PS: flutti
+    present:
+      1PP: flytjum
+      1PS: flyt
+      2PP: flytjið
+      2PS: flytur
+      3PP: flytja
+      3PS: flytur
+  p: 198
+flýja:
+  d: to flee
+  f:
+    infinitive: flýja
+    past:
+      1PP: flúðum
+      1PS: flúði
+      2PP: flúðuð
+      2PS: flúðir
+      3PP: flúðu
+      3PS: flúði
+    present:
+      1PP: flýjum
+      1PS: flý
+      2PP: flýið
+      2PS: flýrð
+      3PP: flýja
+      3PS: flýr
+  p: 254
+flýta:
+  d: to hurry, rush
+  f:
+    infinitive: flýta
+    past:
+      1PP: flýttum
+      1PS: flýtti
+      2PP: flýttuð
+      2PS: flýttir
+      3PP: flýttu
+      3PS: flýtti
+    present:
+      1PP: flýtum
+      1PS: flýti
+      2PP: flýtið
+      2PS: flýtir
+      3PP: flýta
+      3PS: flýtir
+  p: 216
+forða:
+  d: to save, to rescue
+  f:
+    infinitive: forða
+    past:
+      1PP: forðuðum
+      1PS: forðaði
+      2PP: forðuðuð
+      2PS: forðaðir
+      3PP: forðuðu
+      3PS: forðaði
+    present:
+      1PP: forðum
+      1PS: forða
+      2PP: forðið
+      2PS: forðar
+      3PP: forða
+      3PS: forðar
+  p: 305
+fremja:
+  d: to do, to commit (usually something bad, such as a crime)
+  f:
+    infinitive: fremja
+    past:
+      1PP: frömdum
+      1PS: framdi
+      2PP: frömduð
+      2PS: framdir
+      3PP: frömdu
+      3PS: framdi
+    present:
+      1PP: fremjum
+      1PS: frem
+      2PP: fremjið
+      2PS: fremur
+      3PP: fremja
+      3PS: fremur
+  p: 275
+fresta:
+  d: put off, postpone
+  f:
+    infinitive: fresta
+    past:
+      1PP: frestuðum
+      1PS: frestaði
+      2PP: frestuðuð
+      2PS: frestaðir
+      3PP: frestuðu
+      3PS: frestaði
+    present:
+      1PP: frestum
+      1PS: fresta
+      2PP: frestið
+      2PS: frestar
+      3PP: fresta
+      3PS: frestar
+  p: 467
+friða:
+  d: to pacify
+  f:
+    infinitive: friða
+    past:
+      1PP: friðuðum
+      1PS: friðaði
+      2PP: friðuðuð
+      2PS: friðaðir
+      3PP: friðuðu
+      3PS: friðaði
+    present:
+      1PP: friðum
+      1PS: friða
+      2PP: friðið
+      2PS: friðar
+      3PP: friða
+      3PS: friðar
+  p: 164
+frétta:
+  d: to hear about something, to learn of some event
+  f:
+    infinitive: frétta
+    past:
+      1PP: fréttum
+      1PS: frétti
+      2PP: fréttuð
+      2PS: fréttir
+      3PP: fréttu
+      3PS: frétti
+    present:
+      1PP: fréttum
+      1PS: frétti
+      2PP: fréttið
+      2PS: fréttir
+      3PP: frétta
+      3PS: fréttir
+  p: 137
+funda:
+  d: to meet, to gather
+  f:
+    infinitive: funda
+    past:
+      1PP: funduðum
+      1PS: fundaði
+      2PP: funduðuð
+      2PS: fundaðir
+      3PP: funduðu
+      3PS: fundaði
+    present:
+      1PP: fundum
+      1PS: funda
+      2PP: fundið
+      2PS: fundar
+      3PP: funda
+      3PS: fundar
+  p: 128
+fylgja:
+  d: to accompany, follow
+  f:
+    infinitive: fylgja
+    past:
+      1PP: fylgdum
+      1PS: fylgdi
+      2PP: fylgduð
+      2PS: fylgdir
+      3PP: fylgdu
+      3PS: fylgdi
+    present:
+      1PP: fylgjum
+      1PS: fylgi
+      2PP: fylgið
+      2PS: fylgir
+      3PP: fylgja
+      3PS: fylgir
+  p: 173
+fylla:
+  d: to fill
+  f:
+    infinitive: fylla
+    past:
+      1PP: fylltum
+      1PS: fyllti
+      2PP: fylltuð
+      2PS: fylltir
+      3PP: fylltu
+      3PS: fyllti
+    present:
+      1PP: fyllum
+      1PS: fylli
+      2PP: fyllið
+      2PS: fyllir
+      3PP: fylla
+      3PS: fyllir
+  p: 391
+fyrirgefa:
+  d: to forgive
+  f:
+    infinitive: fyrirgefa
+    past:
+      1PP: fyrirgáfum
+      1PS: fyrirgaf
+      2PP: fyrirgáfuð
+      2PS: fyrirgafst
+      3PP: fyrirgáfu
+      3PS: fyrirgaf
+    present:
+      1PP: fyrirgefum
+      1PS: fyrirgef
+      2PP: fyrirgefið
+      2PS: fyrirgefur
+      3PP: fyrirgefa
+      3PS: fyrirgefur
+  p: 43
+fá:
+  d: to receive, to get
+  f:
+    infinitive: fá
+    past:
+      1PP: fengum
+      1PS: fékk
+      2PP: fenguð
+      2PS: fékkst
+      3PP: fengu
+      3PS: fékk
+    present:
+      1PP: fáum
+      1PS: fæ
+      2PP: fáið
+      2PS: færð
+      3PP: fá
+      3PS: fær
+  p: 20
+færa:
+  d: to move (a thing between places), to relocate
+  f:
+    infinitive: færa
+    past:
+      1PP: færðum
+      1PS: færði
+      2PP: færðuð
+      2PS: færðir
+      3PP: færðu
+      3PS: færði
+    present:
+      1PP: færum
+      1PS: færi
+      2PP: færið
+      2PS: færir
+      3PP: færa
+      3PS: færir
+  p: 86
+fæða:
+  d: to give birth to
+  f:
+    infinitive: fæða
+    past:
+      1PP: fæddum
+      1PS: fæddi
+      2PP: fædduð
+      2PS: fæddir
+      3PP: fæddu
+      3PS: fæddi
+    present:
+      1PP: fæðum
+      1PS: fæði
+      2PP: fæðið
+      2PS: fæðir
+      3PP: fæða
+      3PS: fæðir
+  p: 296
+fórna:
+  d: sacrifice (to offer as a gift to a deity)
+  f:
+    infinitive: fórna
+    past:
+      1PP: fórnuðum
+      1PS: fórnaði
+      2PP: fórnuðuð
+      2PS: fórnaðir
+      3PP: fórnuðu
+      3PS: fórnaði
+    present:
+      1PP: fórnum
+      1PS: fórna
+      2PP: fórnið
+      2PS: fórnar
+      3PP: fórna
+      3PS: fórnar
+  p: 423
+ganga:
+  d: to walk
+  f:
+    infinitive: ganga
+    past:
+      1PP: gengum
+      1PS: gekk
+      2PP: genguð
+      2PS: gekkst
+      3PP: gengu
+      3PS: gekk
+    present:
+      1PP: göngum
+      1PS: geng
+      2PP: gangið
+      2PS: gengur
+      3PP: ganga
+      3PS: gengur
+  p: 62
+gefa:
+  d: to give something
+  f:
+    infinitive: gefa
+    past:
+      1PP: gáfum
+      1PS: gaf
+      2PP: gáfuð
+      2PS: gafst
+      3PP: gáfu
+      3PS: gaf
+    present:
+      1PP: gefum
+      1PS: gef
+      2PP: gefið
+      2PS: gefur
+      3PP: gefa
+      3PS: gefur
+  p: 84
+gegna:
+  d: to hold (a position), to serve (a purpose)
+  f:
+    infinitive: gegna
+    past:
+      1PP: gegndum
+      1PS: gegndi
+      2PP: gegnduð
+      2PS: gegndir
+      3PP: gegndu
+      3PS: gegndi
+    present:
+      1PP: gegnum
+      1PS: gegni
+      2PP: gegnið
+      2PS: gegnir
+      3PP: gegna
+      3PS: gegnir
+  p: 72
+gera:
+  d: to do
+  f:
+    infinitive: gera
+    past:
+      1PP: gerðum
+      1PS: gerði
+      2PP: gerðuð
+      2PS: gerðir
+      3PP: gerðu
+      3PS: gerði
+    present:
+      1PP: gerum
+      1PS: geri
+      2PP: gerið
+      2PS: gerir
+      3PP: gera
+      3PS: gerir
+  p: 8
+geta:
+  d: to be able
+  f:
+    infinitive: geta
+    past:
+      1PP: gátum
+      1PS: gat
+      2PP: gátuð
+      2PS: gast
+      3PP: gátu
+      3PS: gat
+    present:
+      1PP: getum
+      1PS: get
+      2PP: getið
+      2PS: getur
+      3PP: geta
+      3PS: getur
+  p: 17
+geyma:
+  d: to store, to keep
+  f:
+    infinitive: geyma
+    past:
+      1PP: geymdum
+      1PS: geymdi
+      2PP: geymduð
+      2PS: geymdir
+      3PP: geymdu
+      3PS: geymdi
+    present:
+      1PP: geymum
+      1PS: geymi
+      2PP: geymið
+      2PS: geymir
+      3PP: geyma
+      3PS: geymir
+  p: 470
+gifta:
+  d: to give away in marriage
+  f:
+    infinitive: gifta
+    past:
+      1PP: giftum
+      1PS: gifti
+      2PP: giftuð
+      2PS: giftir
+      3PP: giftu
+      3PS: gifti
+    present:
+      1PP: giftum
+      1PS: gifti
+      2PP: giftið
+      2PS: giftir
+      3PP: gifta
+      3PS: giftir
+  p: 179
+gilda:
+  d: to be valid
+  f:
+    infinitive: gilda
+    past:
+      1PP: giltum
+      1PS: gilti
+      2PP: giltuð
+      2PS: giltir
+      3PP: giltu
+      3PS: gilti
+    present:
+      1PP: gildum
+      1PS: gildi
+      2PP: gildið
+      2PS: gildir
+      3PP: gilda
+      3PS: gildir
+  p: 407
+giska:
+  d: to guess
+  f:
+    infinitive: giska
+    past:
+      1PP: giskuðum
+      1PS: giskaði
+      2PP: giskuðuð
+      2PS: giskaðir
+      3PP: giskuðu
+      3PS: giskaði
+    present:
+      1PP: giskum
+      1PS: giska
+      2PP: giskið
+      2PS: giskar
+      3PP: giska
+      3PS: giskar
+  p: 435
+gista:
+  d: to stay the night, sleep over
+  f:
+    infinitive: gista
+    past:
+      1PP: gistum
+      1PS: gisti
+      2PP: gistuð
+      2PS: gistir
+      3PP: gistu
+      3PS: gisti
+    present:
+      1PP: gistum
+      1PS: gisti
+      2PP: gistið
+      2PS: gistir
+      3PP: gista
+      3PS: gistir
+  p: 490
+gjöra:
+  d: to do
+  f:
+    infinitive: gjöra
+    past:
+      1PP: gjörðum
+      1PS: gjörði
+      2PP: gjörðuð
+      2PS: gjörðir
+      3PP: gjörðu
+      3PS: gjörði
+    present:
+      1PP: gjörum
+      1PS: gjöri
+      2PP: gjörið
+      2PS: gjörir
+      3PP: gjöra
+      3PS: gjörir
+  p: 205
+glata:
+  d: to lose
+  f:
+    infinitive: glata
+    past:
+      1PP: glötuðum
+      1PS: glataði
+      2PP: glötuðuð
+      2PS: glataðir
+      3PP: glötuðu
+      3PS: glataði
+    present:
+      1PP: glötum
+      1PS: glata
+      2PP: glatið
+      2PS: glatar
+      3PP: glata
+      3PS: glatar
+  p: 502
+gleyma:
+  d: to forget
+  f:
+    infinitive: gleyma
+    past:
+      1PP: gleymdum
+      1PS: gleymdi
+      2PP: gleymduð
+      2PS: gleymdir
+      3PP: gleymdu
+      3PS: gleymdi
+    present:
+      1PP: gleymum
+      1PS: gleymi
+      2PP: gleymið
+      2PS: gleymir
+      3PP: gleyma
+      3PS: gleymir
+  p: 155
+gleðja:
+  d: to gladden, make happy
+  f:
+    infinitive: gleðja
+    past:
+      1PP: glöddum
+      1PS: gladdi
+      2PP: glödduð
+      2PS: gladdir
+      3PP: glöddu
+      3PS: gladdi
+    present:
+      1PP: gleðjum
+      1PS: gleð
+      2PP: gleðjið
+      2PS: gleður
+      3PP: gleðja
+      3PS: gleður
+  p: 201
+glugga:
+  d: used in set phrases
+  f:
+    infinitive: glugga
+    past:
+      1PP: glugguðum
+      1PS: gluggaði
+      2PP: glugguðuð
+      2PS: gluggaðir
+      3PP: glugguðu
+      3PS: gluggaði
+    present:
+      1PP: gluggum
+      1PS: glugga
+      2PP: gluggið
+      2PS: gluggar
+      3PP: glugga
+      3PS: gluggar
+  p: 476
+glápa:
+  d: to stare
+  f:
+    infinitive: glápa
+    past:
+      1PP: gláptum
+      1PS: glápti
+      2PP: gláptuð
+      2PS: gláptir
+      3PP: gláptu
+      3PS: glápti
+    present:
+      1PP: glápum
+      1PS: glápi
+      2PP: glápið
+      2PS: glápir
+      3PP: glápa
+      3PS: glápir
+  p: 426
+grafa:
+  d: to dig
+  f:
+    infinitive: grafa
+    past:
+      1PP: grófum
+      1PS: gróf
+      2PP: grófuð
+      2PS: grófst
+      3PP: grófu
+      3PS: gróf
+    present:
+      1PP: gröfum
+      1PS: gref
+      2PP: grafið
+      2PS: grefur
+      3PP: grafa
+      3PS: grefur
+  p: 301
+greina:
+  d: to discern, to distinguish, to separate
+  f:
+    infinitive: greina
+    past:
+      1PP: greindum
+      1PS: greindi
+      2PP: greinduð
+      2PS: greindir
+      3PP: greindu
+      3PS: greindi
+    present:
+      1PP: greinum
+      1PS: greini
+      2PP: greinið
+      2PS: greinir
+      3PP: greina
+      3PS: greinir
+  p: 240
+greiða:
+  d: to comb
+  f:
+    infinitive: greiða
+    past:
+      1PP: greiddum
+      1PS: greiddi
+      2PP: greidduð
+      2PS: greiddir
+      3PP: greiddu
+      3PS: greiddi
+    present:
+      1PP: greiðum
+      1PS: greiði
+      2PP: greiðið
+      2PS: greiðir
+      3PP: greiða
+      3PS: greiðir
+  p: 154
+gruna:
+  d: to suspect
+  f:
+    infinitive: gruna
+    past:
+      1PP: grunuðum
+      1PS: grunaði
+      2PP: grunuðuð
+      2PS: grunaðir
+      3PP: grunuðu
+      3PS: grunaði
+    present:
+      1PP: grunum
+      1PS: gruna
+      2PP: grunið
+      2PS: grunar
+      3PP: gruna
+      3PS: grunar
+  p: 341
+gráta:
+  d: to cry
+  f:
+    infinitive: gráta
+    past:
+      1PP: grétum
+      1PS: grét
+      2PP: grétuð
+      2PS: grést
+      3PP: grétu
+      3PS: grét
+    present:
+      1PP: grátum
+      1PS: græt
+      2PP: grátið
+      2PS: grætur
+      3PP: gráta
+      3PS: grætur
+  p: 251
+græða:
+  d: to make (land) grown with plants
+  f:
+    infinitive: græða
+    past:
+      1PP: græddum
+      1PS: græddi
+      2PP: grædduð
+      2PS: græddir
+      3PP: græddu
+      3PS: græddi
+    present:
+      1PP: græðum
+      1PS: græði
+      2PP: græðið
+      2PS: græðir
+      3PP: græða
+      3PS: græðir
+  p: 385
+grínast:
+  d: to joke, to jest
+  f:
+    infinitive: null
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+  p: 141
+grípa:
+  d: to catch an object
+  f:
+    infinitive: grípa
+    past:
+      1PP: gripum
+      1PS: greip
+      2PP: gripuð
+      2PS: greipst
+      3PP: gripu
+      3PS: greip
+    present:
+      1PP: grípum
+      1PS: gríp
+      2PP: grípið
+      2PS: grípur
+      3PP: grípa
+      3PS: grípur
+  p: 402
+guða:
+  d: to utter the greeting hér sé guð (literally “here be God”)
+  f:
+    infinitive: guða
+    past:
+      1PP: guðuðum
+      1PS: guðaði
+      2PP: guðuðuð
+      2PS: guðaðir
+      3PP: guðuðu
+      3PS: guðaði
+    present:
+      1PP: guðum
+      1PS: guða
+      2PP: guðið
+      2PS: guðar
+      3PP: guða
+      3PS: guðar
+  p: 202
+gá:
+  d: to look, to see, to check
+  f:
+    infinitive: gá
+    past:
+      1PP: gáðum
+      1PS: gáði
+      2PP: gáðuð
+      2PS: gáðir
+      3PP: gáðu
+      3PS: gáði
+    present:
+      1PP: gáum
+      1PS: gái
+      2PP: gáið
+      2PS: gáir
+      3PP: gá
+      3PS: gáir
+  p: 463
+gæta:
+  d: to watch over, look after, guard, protect
+  f:
+    infinitive: gæta
+    past:
+      1PP: gættum
+      1PS: gætti
+      2PP: gættuð
+      2PS: gættir
+      3PP: gættu
+      3PS: gætti
+    present:
+      1PP: gætum
+      1PS: gæti
+      2PP: gætið
+      2PS: gætir
+      3PP: gæta
+      3PS: gætir
+  p: 32
+hafa:
+  d: to have
+  f:
+    infinitive: hafa
+    past:
+      1PP: höfðum
+      1PS: hafði
+      2PP: höfðuð
+      2PS: hafðir
+      3PP: höfðu
+      3PS: hafði
+    present:
+      1PP: höfum
+      1PS: hef
+      2PP: hafið
+      2PS: hefur
+      3PP: hafa
+      3PS: hefur
+  p: 7
+hafna:
+  d: to reject
+  f:
+    infinitive: hafna
+    past:
+      1PP: höfnuðum
+      1PS: hafnaði
+      2PP: höfnuðuð
+      2PS: hafnaðir
+      3PP: höfnuðu
+      3PS: hafnaði
+    present:
+      1PP: höfnum
+      1PS: hafna
+      2PP: hafnið
+      2PS: hafnar
+      3PP: hafna
+      3PS: hafnar
+  p: 457
+halda:
+  d: to hold (+ dative)
+  f:
+    infinitive: halda
+    past:
+      1PP: héldum
+      1PS: hélt
+      2PP: hélduð
+      2PS: hélst
+      3PP: héldu
+      3PS: hélt
+    present:
+      1PP: höldum
+      1PS: held
+      2PP: haldið
+      2PS: heldur
+      3PP: halda
+      3PS: heldur
+  p: 27
+handtaka:
+  d: to arrest, to capture
+  f:
+    infinitive: handtaka
+    past:
+      1PP: handtókum
+      1PS: handtók
+      2PP: handtókuð
+      2PS: handtókst
+      3PP: handtóku
+      3PS: handtók
+    present:
+      1PP: handtökum
+      1PS: handtek
+      2PP: handtakið
+      2PS: handtekur
+      3PP: handtaka
+      3PS: handtekur
+  p: 272
+hanga:
+  d: to hang
+  f:
+    infinitive: hanga
+    past:
+      1PP: héngum
+      1PS: hékk
+      2PP: hénguð
+      2PS: hékkst
+      3PP: héngu
+      3PS: hékk
+    present:
+      1PP: höngum
+      1PS: hangi
+      2PP: hangið
+      2PS: hangir
+      3PP: hanga
+      3PS: hangir
+  p: 439
+harma:
+  d: to lament, to deplore
+  f:
+    infinitive: harma
+    past:
+      1PP: hörmuðum
+      1PS: harmaði
+      2PP: hörmuðuð
+      2PS: harmaðir
+      3PP: hörmuðu
+      3PS: harmaði
+    present:
+      1PP: hörmum
+      1PS: harma
+      2PP: harmið
+      2PS: harmar
+      3PP: harma
+      3PS: harmar
+  p: 353
+hata:
+  d: to hate
+  f:
+    infinitive: hata
+    past:
+      1PP: hötuðum
+      1PS: hataði
+      2PP: hötuðuð
+      2PS: hataðir
+      3PP: hötuðu
+      3PS: hataði
+    present:
+      1PP: hötum
+      1PS: hata
+      2PP: hatið
+      2PS: hatar
+      3PP: hata
+      3PS: hatar
+  p: 165
+hefja:
+  d: to lift, to raise
+  f:
+    infinitive: hefja
+    past:
+      1PP: hófum
+      1PS: hóf
+      2PP: hófuð
+      2PS: hófst
+      3PP: hófu
+      3PS: hóf
+    present:
+      1PP: hefjum
+      1PS: hef
+      2PP: hefjið
+      2PS: hefur
+      3PP: hefja
+      3PS: hefur
+  p: 6
+hefna:
+  d: to avenge, revenge
+  f:
+    infinitive: hefna
+    past:
+      1PP: hefndum
+      1PS: hefndi
+      2PP: hefnduð
+      2PS: hefndir
+      3PP: hefndu
+      3PS: hefndi
+    present:
+      1PP: hefnum
+      1PS: hefni
+      2PP: hefnið
+      2PS: hefnir
+      3PP: hefna
+      3PS: hefnir
+  p: 448
+hefta:
+  d: to bind
+  f:
+    infinitive: hefta
+    past:
+      1PP: heftum
+      1PS: hefti
+      2PP: heftuð
+      2PS: heftir
+      3PP: heftu
+      3PS: hefti
+    present:
+      1PP: heftum
+      1PS: hefti
+      2PP: heftið
+      2PS: heftir
+      3PP: hefta
+      3PS: heftir
+  p: 318
+heilla:
+  d: to enchant, to bewitch
+  f:
+    infinitive: heilla
+    past:
+      1PP: heilluðum
+      1PS: heillaði
+      2PP: heilluðuð
+      2PS: heillaðir
+      3PP: heilluðu
+      3PS: heillaði
+    present:
+      1PP: heillum
+      1PS: heilla
+      2PP: heillið
+      2PS: heillar
+      3PP: heilla
+      3PS: heillar
+  p: 355
+heilsa:
+  d: to greet
+  f:
+    infinitive: heilsa
+    past:
+      1PP: heilsuðum
+      1PS: heilsaði
+      2PP: heilsuðuð
+      2PS: heilsaðir
+      3PP: heilsuðu
+      3PS: heilsaði
+    present:
+      1PP: heilsum
+      1PS: heilsa
+      2PP: heilsið
+      2PS: heilsar
+      3PP: heilsa
+      3PS: heilsar
+  p: 299
+heimila:
+  d: to authorize, to give permission
+  f:
+    infinitive: heimila
+    past:
+      1PP: heimiluðum
+      1PS: heimilaði
+      2PP: heimiluðuð
+      2PS: heimilaðir
+      3PP: heimiluðu
+      3PS: heimilaði
+    present:
+      1PP: heimilum
+      1PS: heimila
+      2PP: heimilið
+      2PS: heimilar
+      3PP: heimila
+      3PS: heimilar
+  p: 196
+heimsækja:
+  d: to visit, to pay a visit
+  f:
+    infinitive: heimsækja
+    past:
+      1PP: heimsóttum
+      1PS: heimsótti
+      2PP: heimsóttuð
+      2PS: heimsóttir
+      3PP: heimsóttu
+      3PS: heimsótti
+    present:
+      1PP: heimsækjum
+      1PS: heimsæki
+      2PP: heimsækið
+      2PS: heimsækir
+      3PP: heimsækja
+      3PS: heimsækir
+  p: 441
+heita:
+  d: "to be called, to be named\n Ég heiti Baldur."
+  f:
+    infinitive: heita
+    past:
+      1PP: heittum
+      1PS: heitti
+      2PP: heittuð
+      2PS: heittir
+      3PP: heittu
+      3PS: heitti
+    present:
+      1PP: heitum
+      1PS: heiti
+      2PP: heitið
+      2PS: heitir
+      3PP: heita
+      3PS: heitir
+  p: 79
+helga:
+  d: to consecrate; (to declare, or otherwise make something holy) (confer helgur)
+  f:
+    infinitive: helga
+    past:
+      1PP: helguðum
+      1PS: helgaði
+      2PP: helguðuð
+      2PS: helgaðir
+      3PP: helguðu
+      3PS: helgaði
+    present:
+      1PP: helgum
+      1PS: helga
+      2PP: helgið
+      2PS: helgar
+      3PP: helga
+      3PS: helgar
+  p: 506
+helta:
+  d: to cause to limp, cause to become halt or lame
+  f:
+    infinitive: helta
+    past:
+      1PP: heltum
+      1PS: helti
+      2PP: heltuð
+      2PS: heltir
+      3PP: heltu
+      3PS: helti
+    present:
+      1PP: heltum
+      1PS: helti
+      2PP: heltið
+      2PS: heltir
+      3PP: helta
+      3PS: heltir
+  p: 284
+henda:
+  d: to throw
+  f:
+    infinitive: henda
+    past:
+      1PP: hentum
+      1PS: henti
+      2PP: hentuð
+      2PS: hentir
+      3PP: hentu
+      3PS: henti
+    present:
+      1PP: hendum
+      1PS: hendi
+      2PP: hendið
+      2PS: hendir
+      3PP: henda
+      3PS: hendir
+  p: 244
+herra:
+  d: to knight or bestow nobility on
+  f:
+    infinitive: herra
+    past:
+      1PP: herruðum
+      1PS: herraði
+      2PP: herruðuð
+      2PS: herraðir
+      3PP: herruðu
+      3PS: herraði
+    present:
+      1PP: herrum
+      1PS: herra
+      2PP: herrið
+      2PS: herrar
+      3PP: herra
+      3PS: herrar
+  p: 22
+heyja:
+  d: to make hay
+  f:
+    infinitive: heyja
+    past:
+      1PP: háðum
+      1PS: háði
+      2PP: háðuð
+      2PS: háðir
+      3PP: háðu
+      3PS: háði
+    present:
+      1PP: heyjum
+      1PS: hey
+      2PP: heyið
+      2PS: heyrð
+      3PP: heyja
+      3PS: heyr
+  p: 65
+heyra:
+  d: to hear
+  f:
+    infinitive: heyra
+    past:
+      1PP: heyrðum
+      1PS: heyrði
+      2PP: heyrðuð
+      2PS: heyrðir
+      3PP: heyrðu
+      3PS: heyrði
+    present:
+      1PP: heyrum
+      1PS: heyri
+      2PP: heyrið
+      2PS: heyrir
+      3PP: heyra
+      3PS: heyrir
+  p: 64
+hindra:
+  d: to hinder, to obstruct, to block
+  f:
+    infinitive: hindra
+    past:
+      1PP: hindruðum
+      1PS: hindraði
+      2PP: hindruðuð
+      2PS: hindraðir
+      3PP: hindruðu
+      3PS: hindraði
+    present:
+      1PP: hindrum
+      1PS: hindra
+      2PP: hindrið
+      2PS: hindrar
+      3PP: hindra
+      3PS: hindrar
+  p: 392
+hirða:
+  d: to get, to collect, to gather
+  f:
+    infinitive: hirða
+    past:
+      1PP: hirtum
+      1PS: hirti
+      2PP: hirtuð
+      2PS: hirtir
+      3PP: hirtu
+      3PS: hirti
+    present:
+      1PP: hirðum
+      1PS: hirði
+      2PP: hirðið
+      2PS: hirðir
+      3PP: hirða
+      3PS: hirðir
+  p: 206
+hita:
+  d: to heat
+  f:
+    infinitive: hita
+    past:
+      1PP: hituðum
+      1PS: hitaði
+      2PP: hituðuð
+      2PS: hitaðir
+      3PP: hituðu
+      3PS: hitaði
+    present:
+      1PP: hitum
+      1PS: hita
+      2PP: hitið
+      2PS: hitar
+      3PP: hita
+      3PS: hitar
+  p: 327
+hitta:
+  d: to meet
+  f:
+    infinitive: hitta
+    past:
+      1PP: hittum
+      1PS: hitti
+      2PP: hittuð
+      2PS: hittir
+      3PP: hittu
+      3PS: hitti
+    present:
+      1PP: hittum
+      1PS: hitti
+      2PP: hittið
+      2PS: hittir
+      3PP: hitta
+      3PS: hittir
+  p: 70
+hjálpa:
+  d: to help
+  f:
+    infinitive: hjálpa
+    past:
+      1PP: hjálpuðum
+      1PS: hjálpaði
+      2PP: hjálpuðuð
+      2PS: hjálpaðir
+      3PP: hjálpuðu
+      3PS: hjálpaði
+    present:
+      1PP: hjálpum
+      1PS: hjálpa
+      2PP: hjálpið
+      2PS: hjálpar
+      3PP: hjálpa
+      3PS: hjálpar
+  p: 71
+hjóla:
+  d: to bike, cycle (ride a cycle or travel by it)
+  f:
+    infinitive: hjóla
+    past:
+      1PP: hjóluðum
+      1PS: hjólaði
+      2PP: hjóluðuð
+      2PS: hjólaðir
+      3PP: hjóluðu
+      3PS: hjólaði
+    present:
+      1PP: hjólum
+      1PS: hjóla
+      2PP: hjólið
+      2PS: hjólar
+      3PP: hjóla
+      3PS: hjólar
+  p: 482
+hlakka:
+  d: to make the sound of an eagle
+  f:
+    infinitive: hlakka
+    past:
+      1PP: hlökkuðum
+      1PS: hlakkaði
+      2PP: hlökkuðuð
+      2PS: hlakkaðir
+      3PP: hlökkuðu
+      3PS: hlakkaði
+    present:
+      1PP: hlökkum
+      1PS: hlakka
+      2PP: hlakkið
+      2PS: hlakkar
+      3PP: hlakka
+      3PS: hlakkar
+  p: 390
+hlaupa:
+  d: to run
+  f:
+    infinitive: hlaupa
+    past:
+      1PP: hlupum
+      1PS: hljóp
+      2PP: hlupuð
+      2PS: hljópst
+      3PP: hlupu
+      3PS: hljóp
+    present:
+      1PP: hlaupum
+      1PS: hleyp
+      2PP: hlaupið
+      2PS: hleypur
+      3PP: hlaupa
+      3PS: hleypur
+  p: 232
+hleypa:
+  d: to cause to run
+  f:
+    infinitive: hleypa
+    past:
+      1PP: hleyptum
+      1PS: hleypti
+      2PP: hleyptuð
+      2PS: hleyptir
+      3PP: hleyptu
+      3PS: hleypti
+    present:
+      1PP: hleypum
+      1PS: hleypi
+      2PP: hleypið
+      2PS: hleypir
+      3PP: hleypa
+      3PS: hleypir
+  p: 335
+hljóma:
+  d: to sound (to produce a sound)
+  f:
+    infinitive: hljóma
+    past:
+      1PP: hljómuðum
+      1PS: hljómaði
+      2PP: hljómuðuð
+      2PS: hljómaðir
+      3PP: hljómuðu
+      3PS: hljómaði
+    present:
+      1PP: hljómum
+      1PS: hljóma
+      2PP: hljómið
+      2PS: hljómar
+      3PP: hljóma
+      3PS: hljómar
+  p: 153
+hljóta:
+  d: to obtain, to get, to receive, to draw, to take
+  f:
+    infinitive: hljóta
+    past:
+      1PP: hlutum
+      1PS: hlaut
+      2PP: hlutuð
+      2PS: hlaust
+      3PP: hlutu
+      3PS: hlaut
+    present:
+      1PP: hljótum
+      1PS: hlýt
+      2PP: hljótið
+      2PS: hlýtur
+      3PP: hljóta
+      3PS: hlýtur
+  p: 75
+hljóða:
+  d: to cry out, to scream
+  f:
+    infinitive: hljóða
+    past:
+      1PP: hljóðuðum
+      1PS: hljóðaði
+      2PP: hljóðuðuð
+      2PS: hljóðaðir
+      3PP: hljóðuðu
+      3PS: hljóðaði
+    present:
+      1PP: hljóðum
+      1PS: hljóða
+      2PP: hljóðið
+      2PS: hljóðar
+      3PP: hljóða
+      3PS: hljóðar
+  p: 488
+hlusta:
+  d: to listen (with á + accusative = "to" something)
+  f:
+    infinitive: hlusta
+    past:
+      1PP: hlustuðum
+      1PS: hlustaði
+      2PP: hlustuðuð
+      2PS: hlustaðir
+      3PP: hlustuðu
+      3PS: hlustaði
+    present:
+      1PP: hlustum
+      1PS: hlusta
+      2PP: hlustið
+      2PS: hlustar
+      3PP: hlusta
+      3PS: hlustar
+  p: 100
+hlæja:
+  d: to laugh
+  f:
+    infinitive: hlæja
+    past:
+      1PP: hlógum
+      1PS: hló
+      2PP: hlóguð
+      2PS: hlóst
+      3PP: hlógu
+      3PS: hló
+    present:
+      1PP: hlæjum
+      1PS: hlæ
+      2PP: hlæið
+      2PS: hlærð
+      3PP: hlæja
+      3PS: hlær
+  p: 308
+hlýða:
+  d: to obey
+  f:
+    infinitive: hlýða
+    past:
+      1PP: hlýddum
+      1PS: hlýddi
+      2PP: hlýdduð
+      2PS: hlýddir
+      3PP: hlýddu
+      3PS: hlýddi
+    present:
+      1PP: hlýðum
+      1PS: hlýði
+      2PP: hlýðið
+      2PS: hlýðir
+      3PP: hlýða
+      3PS: hlýðir
+  p: 422
+hoppa:
+  d: to jump, hop, skip
+  f:
+    infinitive: hoppa
+    past:
+      1PP: hoppuðum
+      1PS: hoppaði
+      2PP: hoppuðuð
+      2PS: hoppaðir
+      3PP: hoppuðu
+      3PS: hoppaði
+    present:
+      1PP: hoppum
+      1PS: hoppa
+      2PP: hoppið
+      2PS: hoppar
+      3PP: hoppa
+      3PS: hoppar
+  p: 516
+horfa:
+  d: to look, to watch
+  f:
+    infinitive: horfa
+    past:
+      1PP: horfðum
+      1PS: horfði
+      2PP: horfðuð
+      2PS: horfðir
+      3PP: horfðu
+      3PS: horfði
+    present:
+      1PP: horfum
+      1PS: horfi
+      2PP: horfið
+      2PS: horfir
+      3PP: horfa
+      3PS: horfir
+  p: 119
+hraða:
+  d: to hasten, to speed up
+  f:
+    infinitive: hraða
+    past:
+      1PP: hröðuðum
+      1PS: hraðaði
+      2PP: hröðuðuð
+      2PS: hraðaðir
+      3PP: hröðuðu
+      3PS: hraðaði
+    present:
+      1PP: hröðum
+      1PS: hraða
+      2PP: hraðið
+      2PS: hraðar
+      3PP: hraða
+      3PS: hraðar
+  p: 233
+hreinsa:
+  d: to clean, to cleanse
+  f:
+    infinitive: hreinsa
+    past:
+      1PP: hreinsuðum
+      1PS: hreinsaði
+      2PP: hreinsuðuð
+      2PS: hreinsaðir
+      3PP: hreinsuðu
+      3PS: hreinsaði
+    present:
+      1PP: hreinsum
+      1PS: hreinsa
+      2PP: hreinsið
+      2PS: hreinsar
+      3PP: hreinsa
+      3PS: hreinsar
+  p: 338
+hressa:
+  d: to refresh
+  f:
+    infinitive: hressa
+    past:
+      1PP: hresstum
+      1PS: hressti
+      2PP: hresstuð
+      2PS: hresstir
+      3PP: hresstu
+      3PS: hressti
+    present:
+      1PP: hressum
+      1PS: hressi
+      2PP: hressið
+      2PS: hressir
+      3PP: hressa
+      3PS: hressir
+  p: 519
+hreyfa:
+  d: to move, to shift
+  f:
+    infinitive: hreyfa
+    past:
+      1PP: hreyfðum
+      1PS: hreyfði
+      2PP: hreyfðuð
+      2PS: hreyfðir
+      3PP: hreyfðu
+      3PS: hreyfði
+    present:
+      1PP: hreyfum
+      1PS: hreyfi
+      2PP: hreyfið
+      2PS: hreyfir
+      3PP: hreyfa
+      3PS: hreyfir
+  p: 289
+hrinda:
+  d: to push, shove
+  f:
+    infinitive: hrinda
+    past:
+      1PP: hrintum
+      1PS: hrinti
+      2PP: hrintuð
+      2PS: hrintir
+      3PP: hrintu
+      3PS: hrinti
+    present:
+      1PP: hrindum
+      1PS: hrindi
+      2PP: hrindið
+      2PS: hrindir
+      3PP: hrinda
+      3PS: hrindir
+  p: 177
+hringa:
+  d: to lap (to get more than one lap ahead of [someone] in a race)
+  f:
+    infinitive: hringa
+    past:
+      1PP: hringuðum
+      1PS: hringaði
+      2PP: hringuðuð
+      2PS: hringaðir
+      3PP: hringuðu
+      3PS: hringaði
+    present:
+      1PP: hringum
+      1PS: hringa
+      2PP: hringið
+      2PS: hringar
+      3PP: hringa
+      3PS: hringar
+  p: 149
+hringja:
+  d: to phone, to call almost always used with í (then followed by accusative)
+  f:
+    infinitive: hringja
+    past:
+      1PP: hringdum
+      1PS: hringdi
+      2PP: hringduð
+      2PS: hringdir
+      3PP: hringdu
+      3PS: hringdi
+    present:
+      1PP: hringjum
+      1PS: hringi
+      2PP: hringið
+      2PS: hringir
+      3PP: hringja
+      3PS: hringir
+  p: 109
+hræða:
+  d: to scare
+  f:
+    infinitive: hræða
+    past:
+      1PP: hræddum
+      1PS: hræddi
+      2PP: hrædduð
+      2PS: hræddir
+      3PP: hræddu
+      3PS: hræddi
+    present:
+      1PP: hræðum
+      1PS: hræði
+      2PP: hræðið
+      2PS: hræðir
+      3PP: hræða
+      3PS: hræðir
+  p: 117
+hrífa:
+  d: to enchant, to carry away, to move somebody
+  f:
+    infinitive: hrífa
+    past:
+      1PP: hrifum
+      1PS: hreif
+      2PP: hrifuð
+      2PS: hreifst
+      3PP: hrifu
+      3PS: hreif
+    present:
+      1PP: hrífum
+      1PS: hríf
+      2PP: hrífið
+      2PS: hrífur
+      3PP: hrífa
+      3PS: hrífur
+  p: 157
+hrína:
+  d: to grunt (especially of pigs)
+  f:
+    infinitive: hrína
+    past:
+      1PP: hrinum
+      1PS: hrein
+      2PP: hrinuð
+      2PS: hreinst
+      3PP: hrinu
+      3PS: hrein
+    present:
+      1PP: hrínum
+      1PS: hrín
+      2PP: hrínið
+      2PS: hrín
+      3PP: hrína
+      3PS: hrín
+  p: 395
+hugsa:
+  d: to think, to consider, to plan, to decide
+  f:
+    infinitive: hugsa
+    past:
+      1PP: hugsuðum
+      1PS: hugsaði
+      2PP: hugsuðuð
+      2PS: hugsaðir
+      3PP: hugsuðu
+      3PS: hugsaði
+    present:
+      1PP: hugsum
+      1PS: hugsa
+      2PP: hugsið
+      2PS: hugsar
+      3PP: hugsa
+      3PS: hugsar
+  p: 60
+hverfa:
+  d: to turn (to something, back, etc.)
+  f:
+    infinitive: hverfa
+    past:
+      1PP: hverfðum
+      1PS: hverfði
+      2PP: hverfðuð
+      2PS: hverfðir
+      3PP: hverfðu
+      3PS: hverfði
+    present:
+      1PP: hverfum
+      1PS: hverfi
+      2PP: hverfið
+      2PS: hverfir
+      3PP: hverfa
+      3PS: hverfir
+  p: 227
+hvíla:
+  d: to rest, especially resting or sleeping in a bed
+  f:
+    infinitive: hvíla
+    past:
+      1PP: hvíldum
+      1PS: hvíldi
+      2PP: hvílduð
+      2PS: hvíldir
+      3PP: hvíldu
+      3PS: hvíldi
+    present:
+      1PP: hvílum
+      1PS: hvíli
+      2PP: hvílið
+      2PS: hvílir
+      3PP: hvíla
+      3PS: hvílir
+  p: 396
+há:
+  d: to injure, to handicap
+  f:
+    infinitive: há
+    past:
+      1PP: háðum
+      1PS: háði
+      2PP: háðuð
+      2PS: háðir
+      3PP: háðu
+      3PS: háði
+    present:
+      1PP: háum
+      1PS: hái
+      2PP: háið
+      2PS: háir
+      3PP: há
+      3PS: háir
+  p: 505
+hæfa:
+  d: to hit
+  f:
+    infinitive: hæfa
+    past:
+      1PP: hæfðum
+      1PS: hæfði
+      2PP: hæfðuð
+      2PS: hæfðir
+      3PP: hæfðu
+      3PS: hæfði
+    present:
+      1PP: hæfum
+      1PS: hæfi
+      2PP: hæfið
+      2PS: hæfir
+      3PP: hæfa
+      3PS: hæfir
+  p: 499
+hækka:
+  d: to raise, to heighten, to elevate
+  f:
+    infinitive: hækka
+    past:
+      1PP: hækkuðum
+      1PS: hækkaði
+      2PP: hækkuðuð
+      2PS: hækkaðir
+      3PP: hækkuðu
+      3PS: hækkaði
+    present:
+      1PP: hækkum
+      1PS: hækka
+      2PP: hækkið
+      2PS: hækkar
+      3PP: hækka
+      3PS: hækkar
+  p: 461
+hætta:
+  d: to risk (put at risk), jeopardize
+  f:
+    infinitive: hætta
+    past:
+      1PP: hættum
+      1PS: hætti
+      2PP: hættuð
+      2PS: hættir
+      3PP: hættu
+      3PS: hætti
+    present:
+      1PP: hættum
+      1PS: hætti
+      2PP: hættið
+      2PS: hættir
+      3PP: hætta
+      3PS: hættir
+  p: 52
+hæða:
+  d: to mock, to scoff
+  f:
+    infinitive: hæða
+    past:
+      1PP: hæddum
+      1PS: hæddi
+      2PP: hædduð
+      2PS: hæddir
+      3PP: hæddu
+      3PS: hæddi
+    present:
+      1PP: hæðum
+      1PS: hæði
+      2PP: hæðið
+      2PS: hæðir
+      3PP: hæða
+      3PS: hæðir
+  p: 184
+hópa:
+  d: to group
+  f:
+    infinitive: hópa
+    past:
+      1PP: hópuðum
+      1PS: hópaði
+      2PP: hópuðuð
+      2PS: hópaðir
+      3PP: hópuðu
+      3PS: hópaði
+    present:
+      1PP: hópum
+      1PS: hópa
+      2PP: hópið
+      2PS: hópar
+      3PP: hópa
+      3PS: hópar
+  p: 453
+höggva:
+  d: to hew, chop
+  f:
+    infinitive: höggva
+    past:
+      1PP: hjuggum
+      1PS: hjó
+      2PP: hjugguð
+      2PS: hjóst
+      3PP: hjuggu
+      3PS: hjó
+    present:
+      1PP: höggvum
+      1PS: hegg
+      2PP: höggvið
+      2PS: heggur
+      3PP: höggva
+      3PS: heggur
+  p: 409
+inna:
+  d: to do, to accomplish
+  f:
+    infinitive: inna
+    past:
+      1PP: inntum
+      1PS: innti
+      2PP: inntuð
+      2PS: inntir
+      3PP: inntu
+      3PS: innti
+    present:
+      1PP: innum
+      1PS: inni
+      2PP: innið
+      2PS: innir
+      3PP: inna
+      3PS: innir
+  p: 21
+jafna:
+  d: to equalise, level, even up, even out (make equal)
+  f:
+    infinitive: jafna
+    past:
+      1PP: jöfnuðum
+      1PS: jafnaði
+      2PP: jöfnuðuð
+      2PS: jafnaðir
+      3PP: jöfnuðu
+      3PS: jafnaði
+    present:
+      1PP: jöfnum
+      1PS: jafna
+      2PP: jafnið
+      2PS: jafnar
+      3PP: jafna
+      3PS: jafnar
+  p: 345
+jarða:
+  d: to bury, inter
+  f:
+    infinitive: jarða
+    past:
+      1PP: jörðuðum
+      1PS: jarðaði
+      2PP: jörðuðuð
+      2PS: jarðaðir
+      3PP: jörðuðu
+      3PS: jarðaði
+    present:
+      1PP: jörðum
+      1PS: jarða
+      2PP: jarðið
+      2PS: jarðar
+      3PP: jarða
+      3PS: jarðar
+  p: 397
+játa:
+  d: to confess, admit
+  f:
+    infinitive: játa
+    past:
+      1PP: játuðum
+      1PS: játaði
+      2PP: játuðuð
+      2PS: játaðir
+      3PP: játuðu
+      3PS: játaði
+    present:
+      1PP: játum
+      1PS: játa
+      2PP: játið
+      2PS: játar
+      3PP: játa
+      3PS: játar
+  p: 389
+kafa:
+  d: to dive, to go so deep underwater that one can't be seen
+  f:
+    infinitive: kafa
+    past:
+      1PP: köfuðum
+      1PS: kafaði
+      2PP: köfuðuð
+      2PS: kafaðir
+      3PP: köfuðu
+      3PS: kafaði
+    present:
+      1PP: köfum
+      1PS: kafa
+      2PP: kafið
+      2PS: kafar
+      3PP: kafa
+      3PS: kafar
+  p: 487
+kalla:
+  d: to call, name, refer to
+  f:
+    infinitive: kalla
+    past:
+      1PP: kölluðum
+      1PS: kallaði
+      2PP: kölluðuð
+      2PS: kallaðir
+      3PP: kölluðu
+      3PS: kallaði
+    present:
+      1PP: köllum
+      1PS: kalla
+      2PP: kallið
+      2PS: kallar
+      3PP: kalla
+      3PS: kallar
+  p: 105
+kanna:
+  d: to explore, to delve
+  f:
+    infinitive: kanna
+    past:
+      1PP: könnuðum
+      1PS: kannaði
+      2PP: könnuðuð
+      2PS: kannaðir
+      3PP: könnuðu
+      3PS: kannaði
+    present:
+      1PP: könnum
+      1PS: kanna
+      2PP: kannið
+      2PS: kannar
+      3PP: kanna
+      3PS: kannar
+  p: 268
+kasta:
+  d: to throw, to fling, to hurl, to toss
+  f:
+    infinitive: kasta
+    past:
+      1PP: köstuðum
+      1PS: kastaði
+      2PP: köstuðuð
+      2PS: kastaðir
+      3PP: köstuðu
+      3PS: kastaði
+    present:
+      1PP: köstum
+      1PS: kasta
+      2PP: kastið
+      2PS: kastar
+      3PP: kasta
+      3PS: kastar
+  p: 309
+kaupa:
+  d: to buy
+  f:
+    infinitive: kaupa
+    past:
+      1PP: keyptum
+      1PS: keypti
+      2PP: keyptuð
+      2PS: keyptir
+      3PP: keyptu
+      3PS: keypti
+    present:
+      1PP: kaupum
+      1PS: kaupi
+      2PP: kaupið
+      2PS: kaupir
+      3PP: kaupa
+      3PS: kaupir
+  p: 143
+kenna:
+  d: to teach, to tutor
+  f:
+    infinitive: kenna
+    past:
+      1PP: kenndum
+      1PS: kenndi
+      2PP: kennduð
+      2PS: kenndir
+      3PP: kenndu
+      3PS: kenndi
+    present:
+      1PP: kennum
+      1PS: kenni
+      2PP: kennið
+      2PS: kennir
+      3PP: kenna
+      3PS: kennir
+  p: 123
+keppa:
+  d: to compete
+  f:
+    infinitive: keppa
+    past:
+      1PP: kepptum
+      1PS: keppti
+      2PP: kepptuð
+      2PS: kepptir
+      3PP: kepptu
+      3PS: keppti
+    present:
+      1PP: keppum
+      1PS: keppi
+      2PP: keppið
+      2PS: keppir
+      3PP: keppa
+      3PS: keppir
+  p: 492
+keyra:
+  d: drive
+  f:
+    infinitive: keyra
+    past:
+      1PP: keyrðum
+      1PS: keyrði
+      2PP: keyrðuð
+      2PS: keyrðir
+      3PP: keyrðu
+      3PS: keyrði
+    present:
+      1PP: keyrum
+      1PS: keyri
+      2PP: keyrið
+      2PS: keyrir
+      3PP: keyra
+      3PS: keyrir
+  p: 235
+kjafta:
+  d: to chat, to jabber
+  f:
+    infinitive: kjafta
+    past:
+      1PP: kjöftuðum
+      1PS: kjaftaði
+      2PP: kjöftuðuð
+      2PS: kjaftaðir
+      3PP: kjöftuðu
+      3PS: kjaftaði
+    present:
+      1PP: kjöftum
+      1PS: kjafta
+      2PP: kjaftið
+      2PS: kjaftar
+      3PP: kjafta
+      3PS: kjaftar
+  p: 213
+kjósa:
+  d: to vote
+  f:
+    infinitive: kjósa
+    past:
+      1PP: kusum
+      1PS: kaus
+      2PP: kusuð
+      2PS: kaust
+      3PP: kusu
+      3PS: kaus
+    present:
+      1PP: kjósum
+      1PS: kýs
+      2PP: kjósið
+      2PS: kýst
+      3PP: kjósa
+      3PS: kýs
+  p: 466
+klippa:
+  d: to cut, to clip
+  f:
+    infinitive: klippa
+    past:
+      1PP: klipptum
+      1PS: klippti
+      2PP: klipptuð
+      2PS: klipptir
+      3PP: klipptu
+      3PS: klippti
+    present:
+      1PP: klippum
+      1PS: klippi
+      2PP: klippið
+      2PS: klippir
+      3PP: klippa
+      3PS: klippir
+  p: 432
+klára:
+  d: to finish
+  f:
+    infinitive: klára
+    past:
+      1PP: kláruðum
+      1PS: kláraði
+      2PP: kláruðuð
+      2PS: kláraðir
+      3PP: kláruðu
+      3PS: kláraði
+    present:
+      1PP: klárum
+      1PS: klára
+      2PP: klárið
+      2PS: klárar
+      3PP: klára
+      3PS: klárar
+  p: 257
+klæða:
+  d: to dress, clothe
+  f:
+    infinitive: klæða
+    past:
+      1PP: klæddum
+      1PS: klæddi
+      2PP: klædduð
+      2PS: klæddir
+      3PP: klæddu
+      3PS: klæddi
+    present:
+      1PP: klæðum
+      1PS: klæði
+      2PP: klæðið
+      2PS: klæðir
+      3PP: klæða
+      3PS: klæðir
+  p: 446
+klúðra:
+  d: to botch, mess up
+  f:
+    infinitive: klúðra
+    past:
+      1PP: klúðruðum
+      1PS: klúðraði
+      2PP: klúðruðuð
+      2PS: klúðraðir
+      3PP: klúðruðu
+      3PS: klúðraði
+    present:
+      1PP: klúðrum
+      1PS: klúðra
+      2PP: klúðrið
+      2PS: klúðrar
+      3PP: klúðra
+      3PS: klúðrar
+  p: 464
+koma:
+  d: to come
+  f:
+    infinitive: koma
+    past:
+      1PP: komum
+      1PS: kom
+      2PP: komuð
+      2PS: komst
+      3PP: komu
+      3PS: kom
+    present:
+      1PP: komum
+      1PS: kem
+      2PP: komið
+      2PS: kemur
+      3PP: koma
+      3PS: kemur
+  p: 19
+kosta:
+  d: to cost
+  f:
+    infinitive: kosta
+    past:
+      1PP: kostuðum
+      1PS: kostaði
+      2PP: kostuðuð
+      2PS: kostaðir
+      3PP: kostuðu
+      3PS: kostaði
+    present:
+      1PP: kostum
+      1PS: kosta
+      2PP: kostið
+      2PS: kostar
+      3PP: kosta
+      3PS: kostar
+  p: 220
+krefja:
+  d: to demand
+  f:
+    infinitive: krefja
+    past:
+      1PP: kröfðum
+      1PS: krafði
+      2PP: kröfðuð
+      2PS: krafðir
+      3PP: kröfðu
+      3PS: krafði
+    present:
+      1PP: krefjum
+      1PS: kref
+      2PP: krefjið
+      2PS: krefur
+      3PP: krefja
+      3PS: krefur
+  p: 352
+kringja:
+  d: to round
+  f:
+    infinitive: kringja
+    past:
+      1PP: kringdum
+      1PS: kringdi
+      2PP: kringduð
+      2PS: kringdir
+      3PP: kringdu
+      3PS: kringdi
+    present:
+      1PP: kringjum
+      1PS: kringi
+      2PP: kringið
+      2PS: kringir
+      3PP: kringja
+      3PS: kringir
+  p: 485
+kunna:
+  d: to know (by heart), know a skill
+  f:
+    infinitive: kunna
+    past:
+      1PP: kunnum
+      1PS: kunni
+      2PP: kunnuð
+      2PS: kunnir
+      3PP: kunnu
+      3PS: kunni
+    present:
+      1PP: kunnum
+      1PS: kann
+      2PP: kunnið
+      2PS: kannt
+      3PP: kunna
+      3PS: kann
+  p: 83
+kvarta:
+  d: to complain, to carp
+  f:
+    infinitive: kvarta
+    past:
+      1PP: kvörtuðum
+      1PS: kvartaði
+      2PP: kvörtuðuð
+      2PS: kvartaðir
+      3PP: kvörtuðu
+      3PS: kvartaði
+    present:
+      1PP: kvörtum
+      1PS: kvarta
+      2PP: kvartið
+      2PS: kvartar
+      3PP: kvarta
+      3PS: kvartar
+  p: 366
+kveikja:
+  d: to light, start (a fire), turn on (a light); also used of electric appliances
+    and lamps with the preposition á (“on”).
+  f:
+    infinitive: kveikja
+    past:
+      1PP: kveiktum
+      1PS: kveikti
+      2PP: kveiktuð
+      2PS: kveiktir
+      3PP: kveiktu
+      3PS: kveikti
+    present:
+      1PP: kveikjum
+      1PS: kveiki
+      2PP: kveikið
+      2PS: kveikir
+      3PP: kveikja
+      3PS: kveikir
+  p: 358
+kveðja:
+  d: to say goodbye, to take one's leave
+  f:
+    infinitive: kveðja
+    past:
+      1PP: kvöddum
+      1PS: kvaddi
+      2PP: kvödduð
+      2PS: kvaddir
+      3PP: kvöddu
+      3PS: kvaddi
+    present:
+      1PP: kveðjum
+      1PS: kveð
+      2PP: kveðjið
+      2PS: kveður
+      3PP: kveðja
+      3PS: kveður
+  p: 347
+kvíða:
+  d: to be anxious or apprehensive about
+  f:
+    infinitive: kvíða
+    past:
+      1PP: kviðum
+      1PS: kveið
+      2PP: kviðuð
+      2PS: kveiðst
+      3PP: kviðu
+      3PS: kveið
+    present:
+      1PP: kvíðum
+      1PS: kvíði
+      2PP: kvíðið
+      2PS: kvíðir
+      3PP: kvíða
+      3PS: kvíðir
+  p: 381
+kynna:
+  d: to introduce (someone)
+  f:
+    infinitive: kynna
+    past:
+      1PP: kynntum
+      1PS: kynnti
+      2PP: kynntuð
+      2PS: kynntir
+      3PP: kynntu
+      3PS: kynnti
+    present:
+      1PP: kynnum
+      1PS: kynni
+      2PP: kynnið
+      2PS: kynnir
+      3PP: kynna
+      3PS: kynnir
+  p: 174
+kyssa:
+  d: to kiss
+  f:
+    infinitive: kyssa
+    past:
+      1PP: kysstum
+      1PS: kyssti
+      2PP: kysstuð
+      2PS: kysstir
+      3PP: kysstu
+      3PS: kyssti
+    present:
+      1PP: kyssum
+      1PS: kyssi
+      2PP: kyssið
+      2PS: kyssir
+      3PP: kyssa
+      3PS: kyssir
+  p: 298
+kála:
+  d: to kill
+  f:
+    infinitive: kála
+    past:
+      1PP: káluðum
+      1PS: kálaði
+      2PP: káluðuð
+      2PS: kálaðir
+      3PP: káluðu
+      3PS: kálaði
+    present:
+      1PP: kálum
+      1PS: kála
+      2PP: kálið
+      2PS: kálar
+      3PP: kála
+      3PS: kálar
+  p: 483
+kæra:
+  d: to accuse
+  f:
+    infinitive: kæra
+    past:
+      1PP: kærðum
+      1PS: kærði
+      2PP: kærðuð
+      2PS: kærðir
+      3PP: kærðu
+      3PS: kærði
+    present:
+      1PP: kærum
+      1PS: kæri
+      2PP: kærið
+      2PS: kærir
+      3PP: kæra
+      3PS: kærir
+  p: 266
+kíkja:
+  d: to look; peek; peer; peep
+  f:
+    infinitive: kíkja
+    past:
+      1PP: kíktum
+      1PS: kíkti
+      2PP: kíktuð
+      2PS: kíktir
+      3PP: kíktu
+      3PS: kíkti
+    present:
+      1PP: kíkjum
+      1PS: kíki
+      2PP: kíkið
+      2PS: kíkir
+      3PP: kíkja
+      3PS: kíkir
+  p: 443
+laga:
+  d: to shape, mold
+  f:
+    infinitive: laga
+    past:
+      1PP: löguðum
+      1PS: lagaði
+      2PP: löguðuð
+      2PS: lagaðir
+      3PP: löguðu
+      3PS: lagaði
+    present:
+      1PP: lögum
+      1PS: laga
+      2PP: lagið
+      2PS: lagar
+      3PP: laga
+      3PS: lagar
+  p: 9
+langa:
+  d: to want
+  f:
+    infinitive: langa
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+  p: 55
+lauma:
+  d: to sneak, slip
+  f:
+    infinitive: lauma
+    past:
+      1PP: laumuðum
+      1PS: laumaði
+      2PP: laumuðuð
+      2PS: laumaðir
+      3PP: laumuðu
+      3PS: laumaði
+    present:
+      1PP: laumum
+      1PS: lauma
+      2PP: laumið
+      2PS: laumar
+      3PP: lauma
+      3PS: laumar
+  p: 509
+leggja:
+  d: to lay, to put
+  f:
+    infinitive: leggja
+    past:
+      1PP: lögðum
+      1PS: lagði
+      2PP: lögðuð
+      2PS: lagðir
+      3PP: lögðu
+      3PS: lagði
+    present:
+      1PP: leggjum
+      1PS: legg
+      2PP: leggið
+      2PS: leggur
+      3PP: leggja
+      3PS: leggur
+  p: 152
+leika:
+  d: to play
+  f:
+    infinitive: leika
+    past:
+      1PP: lékum
+      1PS: lék
+      2PP: lékuð
+      2PS: lékst
+      3PP: léku
+      3PS: lék
+    present:
+      1PP: leikum
+      1PS: leik
+      2PP: leikið
+      2PS: leikur
+      3PP: leika
+      3PS: leikur
+  p: 129
+leita:
+  d: to seek, to search, to look for
+  f:
+    infinitive: leita
+    past:
+      1PP: leituðum
+      1PS: leitaði
+      2PP: leituðuð
+      2PS: leitaðir
+      3PP: leituðu
+      3PS: leitaði
+    present:
+      1PP: leitum
+      1PS: leita
+      2PP: leitið
+      2PS: leitar
+      3PP: leita
+      3PS: leitar
+  p: 77
+leiða:
+  d: to lead
+  f:
+    infinitive: leiða
+    past:
+      1PP: leiddum
+      1PS: leiddi
+      2PP: leidduð
+      2PS: leiddir
+      3PP: leiddu
+      3PS: leiddi
+    present:
+      1PP: leiðum
+      1PS: leiði
+      2PP: leiðið
+      2PS: leiðir
+      3PP: leiða
+      3PS: leiðir
+  p: 48
+leiðast:
+  d: to be bored
+  f:
+    infinitive: null
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+  p: 428
+lemja:
+  d: to hit, strike
+  f:
+    infinitive: lemja
+    past:
+      1PP: lömdum
+      1PS: lamdi
+      2PP: lömduð
+      2PS: lamdir
+      3PP: lömdu
+      3PS: lamdi
+    present:
+      1PP: lemjum
+      1PS: lem
+      2PP: lemjið
+      2PS: lemur
+      3PP: lemja
+      3PS: lemur
+  p: 429
+lenda:
+  d: to land
+  f:
+    infinitive: lenda
+    past:
+      1PP: lentum
+      1PS: lenti
+      2PP: lentuð
+      2PS: lentir
+      3PP: lentu
+      3PS: lenti
+    present:
+      1PP: lendum
+      1PS: lendi
+      2PP: lendið
+      2PS: lendir
+      3PP: lenda
+      3PS: lendir
+  p: 245
+lengja:
+  d: to lengthen
+  f:
+    infinitive: lengja
+    past:
+      1PP: lengdum
+      1PS: lengdi
+      2PP: lengduð
+      2PS: lengdir
+      3PP: lengdu
+      3PS: lengdi
+    present:
+      1PP: lengjum
+      1PS: lengi
+      2PP: lengið
+      2PS: lengir
+      3PP: lengja
+      3PS: lengir
+  p: 63
+lesa:
+  d: to read
+  f:
+    infinitive: lesa
+    past:
+      1PP: lásum
+      1PS: las
+      2PP: lásuð
+      2PS: last
+      3PP: lásu
+      3PS: las
+    present:
+      1PP: lesum
+      1PS: les
+      2PP: lesið
+      2PS: lest
+      3PP: lesa
+      3PS: les
+  p: 139
+lesta:
+  d: to load, to burden with cargo
+  f:
+    infinitive: lesta
+    past:
+      1PP: lestum
+      1PS: lesti
+      2PP: lestuð
+      2PS: lestir
+      3PP: lestu
+      3PS: lesti
+    present:
+      1PP: lestum
+      1PS: lesti
+      2PP: lestið
+      2PS: lestir
+      3PP: lesta
+      3PS: lestir
+  p: 291
+leyfa:
+  d: to allow something, to permit something, to give permission for something
+  f:
+    infinitive: leyfa
+    past:
+      1PP: leyfðum
+      1PS: leyfði
+      2PP: leyfðuð
+      2PS: leyfðir
+      3PP: leyfðu
+      3PS: leyfði
+    present:
+      1PP: leyfum
+      1PS: leyfi
+      2PP: leyfið
+      2PS: leyfir
+      3PP: leyfa
+      3PS: leyfir
+  p: 106
+leysa:
+  d: to loosen
+  f:
+    infinitive: leysa
+    past:
+      1PP: leystum
+      1PS: leysti
+      2PP: leystuð
+      2PS: leystir
+      3PP: leystu
+      3PS: leysti
+    present:
+      1PP: leysum
+      1PS: leysi
+      2PP: leysið
+      2PS: leysir
+      3PP: leysa
+      3PS: leysir
+  p: 324
+lifa:
+  d: to live
+  f:
+    infinitive: lifa
+    past:
+      1PP: lifðum
+      1PS: lifði
+      2PP: lifðuð
+      2PS: lifðir
+      3PP: lifðu
+      3PS: lifði
+    present:
+      1PP: lifum
+      1PS: lifi
+      2PP: lifið
+      2PS: lifir
+      3PP: lifa
+      3PS: lifir
+  p: 127
+liggja:
+  d: to lie (on a bed etc.)
+  f:
+    infinitive: liggja
+    past:
+      1PP: lágum
+      1PS: lá
+      2PP: láguð
+      2PS: lást
+      3PP: lágu
+      3PS: lá
+    present:
+      1PP: liggjum
+      1PS: ligg
+      2PP: liggið
+      2PS: liggur
+      3PP: liggja
+      3PS: liggur
+  p: 199
+lita:
+  d: to color
+  f:
+    infinitive: lita
+    past:
+      1PP: lituðum
+      1PS: litaði
+      2PP: lituðuð
+      2PS: litaðir
+      3PP: lituðu
+      3PS: litaði
+    present:
+      1PP: litum
+      1PS: lita
+      2PP: litið
+      2PS: litar
+      3PP: lita
+      3PS: litar
+  p: 357
+ljóma:
+  d: to shine, to gleam
+  f:
+    infinitive: ljóma
+    past:
+      1PP: ljómuðum
+      1PS: ljómaði
+      2PP: ljómuðuð
+      2PS: ljómaðir
+      3PP: ljómuðu
+      3PS: ljómaði
+    present:
+      1PP: ljómum
+      1PS: ljóma
+      2PP: ljómið
+      2PS: ljómar
+      3PP: ljóma
+      3PS: ljómar
+  p: 374
+ljósta:
+  d: to hit, to strike
+  f:
+    infinitive: ljósta
+    past:
+      1PP: lustum
+      1PS: laust
+      2PP: lustuð
+      2PS: laust
+      3PP: lustu
+      3PS: laust
+    present:
+      1PP: ljóstum
+      1PS: lýst
+      2PP: ljóstið
+      2PS: lýstur
+      3PP: ljósta
+      3PS: lýstur
+  p: 255
+ljúga:
+  d: to lie, to tell lies [about something]
+  f:
+    infinitive: ljúga
+    past:
+      1PP: lugum
+      1PS: laug
+      2PP: luguð
+      2PS: laugst
+      3PP: lugu
+      3PS: laug
+    present:
+      1PP: ljúgum
+      1PS: lýg
+      2PP: ljúgið
+      2PS: lýgur
+      3PP: ljúga
+      3PS: lýgur
+  p: 226
+ljúka:
+  d: to finish, to end
+  f:
+    infinitive: ljúka
+    past:
+      1PP: lukum
+      1PS: lauk
+      2PP: lukuð
+      2PS: laukst
+      3PP: luku
+      3PS: lauk
+    present:
+      1PP: ljúkum
+      1PS: lýk
+      2PP: ljúkið
+      2PS: lýkur
+      3PP: ljúka
+      3PS: lýkur
+  p: 102
+lofa:
+  d: to promise
+  f:
+    infinitive: lofa
+    past:
+      1PP: lofuðum
+      1PS: lofaði
+      2PP: lofuðuð
+      2PS: lofaðir
+      3PP: lofuðu
+      3PS: lofaði
+    present:
+      1PP: lofum
+      1PS: lofa
+      2PP: lofið
+      2PS: lofar
+      3PP: lofa
+      3PS: lofar
+  p: 147
+loga:
+  d: to blaze, burn
+  f:
+    infinitive: loga
+    past:
+      1PP: loguðum
+      1PS: logaði
+      2PP: loguðuð
+      2PS: logaðir
+      3PP: loguðu
+      3PS: logaði
+    present:
+      1PP: logum
+      1PS: loga
+      2PP: logið
+      2PS: logar
+      3PP: loga
+      3PS: logar
+  p: 510
+loka:
+  d: to close, to shut
+  f:
+    infinitive: loka
+    past:
+      1PP: lokuðum
+      1PS: lokaði
+      2PP: lokuðuð
+      2PS: lokaðir
+      3PP: lokuðu
+      3PS: lokaði
+    present:
+      1PP: lokum
+      1PS: loka
+      2PP: lokið
+      2PS: lokar
+      3PP: loka
+      3PS: lokar
+  p: 101
+losa:
+  d: to loosen
+  f:
+    infinitive: losa
+    past:
+      1PP: losuðum
+      1PS: losaði
+      2PP: losuðuð
+      2PS: losaðir
+      3PP: losuðu
+      3PS: losaði
+    present:
+      1PP: losum
+      1PS: losa
+      2PP: losið
+      2PS: losar
+      3PP: losa
+      3PS: losar
+  p: 290
+lyfta:
+  d: to lift, to raise
+  f:
+    infinitive: lyfta
+    past:
+      1PP: lyftum
+      1PS: lyfti
+      2PP: lyftuð
+      2PS: lyftir
+      3PP: lyftu
+      3PS: lyfti
+    present:
+      1PP: lyftum
+      1PS: lyfti
+      2PP: lyftið
+      2PS: lyftir
+      3PP: lyfta
+      3PS: lyftir
+  p: 356
+lykta:
+  d: to smell
+  f:
+    infinitive: lykta
+    past:
+      1PP: lyktuðum
+      1PS: lyktaði
+      2PP: lyktuðuð
+      2PS: lyktaðir
+      3PP: lyktuðu
+      3PS: lyktaði
+    present:
+      1PP: lyktum
+      1PS: lykta
+      2PP: lyktið
+      2PS: lyktar
+      3PP: lykta
+      3PS: lyktar
+  p: 517
+lá:
+  d: to blame
+  f:
+    infinitive: lá
+    past:
+      1PP: láðum
+      1PS: láði
+      2PP: láðuð
+      2PS: láðir
+      3PP: láðu
+      3PS: láði
+    present:
+      1PP: láum
+      1PS: lái
+      2PP: láið
+      2PS: láir
+      3PP: lá
+      3PS: láir
+  p: 377
+lána:
+  d: to lend
+  f:
+    infinitive: lána
+    past:
+      1PP: lánuðum
+      1PS: lánaði
+      2PP: lánuðuð
+      2PS: lánaðir
+      3PP: lánuðu
+      3PS: lánaði
+    present:
+      1PP: lánum
+      1PS: lána
+      2PP: lánið
+      2PS: lánar
+      3PP: lána
+      3PS: lánar
+  p: 507
+láta:
+  d: to put
+  f:
+    infinitive: láta
+    past:
+      1PP: létum
+      1PS: lét
+      2PP: létuð
+      2PS: lést
+      3PP: létu
+      3PS: lét
+    present:
+      1PP: látum
+      1PS: læt
+      2PP: látið
+      2PS: lætur
+      3PP: láta
+      3PS: lætur
+  p: 38
+lækna:
+  d: to cure, to heal
+  f:
+    infinitive: lækna
+    past:
+      1PP: læknuðum
+      1PS: læknaði
+      2PP: læknuðuð
+      2PS: læknaðir
+      3PP: læknuðu
+      3PS: læknaði
+    present:
+      1PP: læknum
+      1PS: lækna
+      2PP: læknið
+      2PS: læknar
+      3PP: lækna
+      3PS: læknar
+  p: 140
+læra:
+  d: to learn, to study
+  f:
+    infinitive: læra
+    past:
+      1PP: lærðum
+      1PS: lærði
+      2PP: lærðuð
+      2PS: lærðir
+      3PP: lærðu
+      3PS: lærði
+    present:
+      1PP: lærum
+      1PS: læri
+      2PP: lærið
+      2PS: lærir
+      3PP: læra
+      3PS: lærir
+  p: 169
+læsa:
+  d: to lock
+  f:
+    infinitive: læsa
+    past:
+      1PP: læstum
+      1PS: læsti
+      2PP: læstuð
+      2PS: læstir
+      3PP: læstu
+      3PS: læsti
+    present:
+      1PP: læsum
+      1PS: læsi
+      2PP: læsið
+      2PS: læsir
+      3PP: læsa
+      3PS: læsir
+  p: 498
+létta:
+  d: to lighten (make less heavy)
+  f:
+    infinitive: létta
+    past:
+      1PP: léttum
+      1PS: létti
+      2PP: léttuð
+      2PS: léttir
+      3PP: léttu
+      3PS: létti
+    present:
+      1PP: léttum
+      1PS: létti
+      2PP: léttið
+      2PS: léttir
+      3PP: létta
+      3PS: léttir
+  p: 215
+líka:
+  d: to please, to like
+  f:
+    infinitive: líka
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+  p: 25
+líkja:
+  d: to liken, compare
+  f:
+    infinitive: líkja
+    past:
+      1PP: líktum
+      1PS: líkti
+      2PP: líktuð
+      2PS: líktir
+      3PP: líktu
+      3PS: líkti
+    present:
+      1PP: líkjum
+      1PS: líki
+      2PP: líkið
+      2PS: líkir
+      3PP: líkja
+      3PS: líkir
+  p: 189
+líta:
+  d: look
+  f:
+    infinitive: líta
+    past:
+      1PP: litum
+      1PS: leit
+      2PP: lituð
+      2PS: leist
+      3PP: litu
+      3PS: leit
+    present:
+      1PP: lítum
+      1PS: lít
+      2PP: lítið
+      2PS: lítur
+      3PP: líta
+      3PS: lítur
+  p: 87
+líða:
+  d: to pass, to go by
+  f:
+    infinitive: líða
+    past:
+      1PP: liðum
+      1PS: leið
+      2PP: liðuð
+      2PS: leiðst
+      3PP: liðu
+      3PS: leið
+    present:
+      1PP: líðum
+      1PS: líð
+      2PP: líðið
+      2PS: líður
+      3PP: líða
+      3PS: líður
+  p: 47
+lúta:
+  d: bow
+  f:
+    infinitive: lúta
+    past:
+      1PP: lutum
+      1PS: laut
+      2PP: lutuð
+      2PS: laust
+      3PP: lutu
+      3PS: laut
+    present:
+      1PP: lútum
+      1PS: lýt
+      2PP: lútið
+      2PS: lýtur
+      3PP: lúta
+      3PS: lýtur
+  p: 489
+lýsa:
+  d: to give off light; glow, shine
+  f:
+    infinitive: lýsa
+    past:
+      1PP: lýstum
+      1PS: lýsti
+      2PP: lýstuð
+      2PS: lýstir
+      3PP: lýstu
+      3PS: lýsti
+    present:
+      1PP: lýsum
+      1PS: lýsi
+      2PP: lýsið
+      2PS: lýsir
+      3PP: lýsa
+      3PS: lýsir
+  p: 343
+manna:
+  d: to man
+  f:
+    infinitive: manna
+    past:
+      1PP: mönnuðum
+      1PS: mannaði
+      2PP: mönnuðuð
+      2PS: mannaðir
+      3PP: mönnuðu
+      3PS: mannaði
+    present:
+      1PP: mönnum
+      1PS: manna
+      2PP: mannið
+      2PS: mannar
+      3PP: manna
+      3PS: mannar
+  p: 96
+mega:
+  d: to be allowed, to be permitted, to may
+  f:
+    infinitive: mega
+    past:
+      1PP: máttum
+      1PS: mátti
+      2PP: máttuð
+      2PS: máttir
+      3PP: máttu
+      3PS: mátti
+    present:
+      1PP: megum
+      1PS: má
+      2PP: megið
+      2PS: mátt
+      3PP: mega
+      3PS: má
+  p: 35
+meina:
+  d: to think, be of a certain opinion
+  f:
+    infinitive: meina
+    past:
+      1PP: meintum
+      1PS: meinti
+      2PP: meintuð
+      2PS: meintir
+      3PP: meintu
+      3PS: meinti
+    present:
+      1PP: meinum
+      1PS: meina
+      2PP: meinið
+      2PS: meinar
+      3PP: meina
+      3PS: meinar
+  p: 125
+meiða:
+  d: to harm, hurt, wound, injure, damage
+  f:
+    infinitive: meiða
+    past:
+      1PP: meiddum
+      1PS: meiddi
+      2PP: meidduð
+      2PS: meiddir
+      3PP: meiddu
+      3PS: meiddi
+    present:
+      1PP: meiðum
+      1PS: meiði
+      2PP: meiðið
+      2PS: meiðir
+      3PP: meiða
+      3PS: meiðir
+  p: 278
+merkja:
+  d: to mark, label
+  f:
+    infinitive: merkja
+    past:
+      1PP: merktum
+      1PS: merkti
+      2PP: merktuð
+      2PS: merktir
+      3PP: merktu
+      3PS: merkti
+    present:
+      1PP: merkjum
+      1PS: merki
+      2PP: merkið
+      2PS: merkir
+      3PP: merkja
+      3PS: merkir
+  p: 191
+meta:
+  d: to measure
+  f:
+    infinitive: meta
+    past:
+      1PP: mátum
+      1PS: mat
+      2PP: mátuð
+      2PS: mast
+      3PP: mátu
+      3PS: mat
+    present:
+      1PP: metum
+      1PS: met
+      2PP: metið
+      2PS: metur
+      3PP: meta
+      3PS: metur
+  p: 138
+minna:
+  d: to seem to remember, to think something is, to believe
+  f:
+    infinitive: minna
+    past:
+      1PP: minntum
+      1PS: minnti
+      2PP: minntuð
+      2PS: minntir
+      3PP: minntu
+      3PS: minnti
+    present:
+      1PP: minnum
+      1PS: minni
+      2PP: minnið
+      2PS: minnir
+      3PP: minna
+      3PS: minnir
+  p: 14
+missa:
+  d: to lose
+  f:
+    infinitive: missa
+    past:
+      1PP: misstum
+      1PS: missti
+      2PP: misstuð
+      2PS: misstir
+      3PP: misstu
+      3PS: missti
+    present:
+      1PP: missum
+      1PS: missi
+      2PP: missið
+      2PS: missir
+      3PP: missa
+      3PS: missir
+  p: 156
+miða:
+  d: to pinpoint, decide the position of (often relative to something else, indicated
+    by a preposition, við or útfrá)
+  f:
+    infinitive: miða
+    past:
+      1PP: miðuðum
+      1PS: miðaði
+      2PP: miðuðuð
+      2PS: miðaðir
+      3PP: miðuðu
+      3PS: miðaði
+    present:
+      1PP: miðum
+      1PS: miða
+      2PP: miðið
+      2PS: miðar
+      3PP: miða
+      3PS: miðar
+  p: 238
+miðja:
+  d: to center
+  f:
+    infinitive: miðja
+    past:
+      1PP: miðjuðum
+      1PS: miðjaði
+      2PP: miðjuðuð
+      2PS: miðjaðir
+      3PP: miðjuðu
+      3PS: miðjaði
+    present:
+      1PP: miðjum
+      1PS: miðja
+      2PP: miðjið
+      2PS: miðjar
+      3PP: miðja
+      3PS: miðjar
+  p: 511
+muna:
+  d: to remember
+  f:
+    infinitive: muna
+    past:
+      1PP: mundum
+      1PS: mundi
+      2PP: munduð
+      2PS: mundir
+      3PP: mundu
+      3PS: mundi
+    present:
+      1PP: munum
+      1PS: man
+      2PP: munið
+      2PS: manst
+      3PP: muna
+      3PS: man
+  p: 49
+munda:
+  d: to aim at
+  f:
+    infinitive: munda
+    past:
+      1PP: munduðum
+      1PS: mundaði
+      2PP: munduðuð
+      2PS: mundaðir
+      3PP: munduðu
+      3PS: mundaði
+    present:
+      1PP: mundum
+      1PS: munda
+      2PP: mundið
+      2PS: mundar
+      3PP: munda
+      3PS: mundar
+  p: 314
+munu:
+  d: will, shall
+  f:
+    infinitive: munu
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: munum
+      1PS: mun
+      2PP: munuð
+      2PS: munt
+      3PP: munu
+      3PS: mun
+  p: 50
+mynda:
+  d: to form
+  f:
+    infinitive: mynda
+    past:
+      1PP: mynduðum
+      1PS: myndaði
+      2PP: mynduðuð
+      2PS: myndaðir
+      3PP: mynduðu
+      3PS: myndaði
+    present:
+      1PP: myndum
+      1PS: mynda
+      2PP: myndið
+      2PS: myndar
+      3PP: mynda
+      3PS: myndar
+  p: 51
+myrða:
+  d: to murder
+  f:
+    infinitive: myrða
+    past:
+      1PP: myrtum
+      1PS: myrti
+      2PP: myrtuð
+      2PS: myrtir
+      3PP: myrtu
+      3PS: myrti
+    present:
+      1PP: myrðum
+      1PS: myrði
+      2PP: myrðið
+      2PS: myrðir
+      3PP: myrða
+      3PS: myrðir
+  p: 360
+má:
+  d: to blur, to efface
+  f:
+    infinitive: má
+    past:
+      1PP: máðum
+      1PS: máði
+      2PP: máðuð
+      2PS: máðir
+      3PP: máðu
+      3PS: máði
+    present:
+      1PP: máum
+      1PS: mái
+      2PP: máið
+      2PS: máir
+      3PP: má
+      3PS: máir
+  p: 34
+mála:
+  d: to paint (houses)
+  f:
+    infinitive: mála
+    past:
+      1PP: máluðum
+      1PS: málaði
+      2PP: máluðuð
+      2PS: málaðir
+      3PP: máluðu
+      3PS: málaði
+    present:
+      1PP: málum
+      1PS: mála
+      2PP: málið
+      2PS: málar
+      3PP: mála
+      3PS: málar
+  p: 73
+máta:
+  d: to try on, see whether (something) fits
+  f:
+    infinitive: máta
+    past:
+      1PP: mátuðum
+      1PS: mátaði
+      2PP: mátuðuð
+      2PS: mátaðir
+      3PP: mátuðu
+      3PS: mátaði
+    present:
+      1PP: mátum
+      1PS: máta
+      2PP: mátið
+      2PS: mátar
+      3PP: máta
+      3PS: mátar
+  p: 515
+mæla:
+  d: to speak, to say, to talk
+  f:
+    infinitive: mæla
+    past:
+      1PP: mæltum
+      1PS: mælti
+      2PP: mæltuð
+      2PS: mæltir
+      3PP: mæltu
+      3PS: mælti
+    present:
+      1PP: mælum
+      1PS: mæli
+      2PP: mælið
+      2PS: mælir
+      3PP: mæla
+      3PS: mælir
+  p: 425
+mæta:
+  d: to meet, to encounter
+  f:
+    infinitive: mæta
+    past:
+      1PP: mættum
+      1PS: mætti
+      2PP: mættuð
+      2PS: mættir
+      3PP: mættu
+      3PS: mætti
+    present:
+      1PP: mætum
+      1PS: mæti
+      2PP: mætið
+      2PS: mætir
+      3PP: mæta
+      3PS: mætir
+  p: 209
+móta:
+  d: to form, to mould, to model
+  f:
+    infinitive: móta
+    past:
+      1PP: mótuðum
+      1PS: mótaði
+      2PP: mótuðuð
+      2PS: mótaðir
+      3PP: mótuðu
+      3PS: mótaði
+    present:
+      1PP: mótum
+      1PS: móta
+      2PP: mótið
+      2PS: mótar
+      3PP: móta
+      3PS: mótar
+  p: 131
+mótmæla:
+  d: to protest, to object to
+  f:
+    infinitive: mótmæla
+    past:
+      1PP: mótmæltum
+      1PS: mótmælti
+      2PP: mótmæltuð
+      2PS: mótmæltir
+      3PP: mótmæltu
+      3PS: mótmælti
+    present:
+      1PP: mótmælum
+      1PS: mótmæli
+      2PP: mótmælið
+      2PS: mótmælir
+      3PP: mótmæla
+      3PS: mótmælir
+  p: 393
+nefna:
+  d: to name (give a name to)
+  f:
+    infinitive: nefna
+    past:
+      1PP: nefndum
+      1PS: nefndi
+      2PP: nefnduð
+      2PS: nefndir
+      3PP: nefndu
+      3PS: nefndi
+    present:
+      1PP: nefnum
+      1PS: nefni
+      2PP: nefnið
+      2PS: nefnir
+      3PP: nefna
+      3PS: nefnir
+  p: 431
+neita:
+  d: to deny
+  f:
+    infinitive: neita
+    past:
+      1PP: neituðum
+      1PS: neitaði
+      2PP: neituðuð
+      2PS: neitaðir
+      3PP: neituðu
+      3PS: neitaði
+    present:
+      1PP: neitum
+      1PS: neita
+      2PP: neitið
+      2PS: neitar
+      3PP: neita
+      3PS: neitar
+  p: 340
+nema:
+  d: to take, capture
+  f:
+    infinitive: nema
+    past:
+      1PP: námum
+      1PS: nam
+      2PP: námuð
+      2PS: namst
+      3PP: námu
+      3PS: nam
+    present:
+      1PP: nemum
+      1PS: nem
+      2PP: nemið
+      2PS: nemur
+      3PP: nema
+      3PS: nemur
+  p: 74
+njóta:
+  d: to enjoy, to relish
+  f:
+    infinitive: njóta
+    past:
+      1PP: nutum
+      1PS: naut
+      2PP: nutuð
+      2PS: naust
+      3PP: nutu
+      3PS: naut
+    present:
+      1PP: njótum
+      1PS: nýt
+      2PP: njótið
+      2PS: nýtur
+      3PP: njóta
+      3PS: nýtur
+  p: 297
+nota:
+  d: to use
+  f:
+    infinitive: nota
+    past:
+      1PP: notuðum
+      1PS: notaði
+      2PP: notuðuð
+      2PS: notaðir
+      3PP: notuðu
+      3PS: notaði
+    present:
+      1PP: notum
+      1PS: nota
+      2PP: notið
+      2PS: notar
+      3PP: nota
+      3PS: notar
+  p: 95
+ná:
+  d: to reach (a place)
+  f:
+    infinitive: ná
+    past:
+      1PP: náðum
+      1PS: náði
+      2PP: náðuð
+      2PS: náðir
+      3PP: náðu
+      3PS: náði
+    present:
+      1PP: náum
+      1PS: næ
+      2PP: náið
+      2PS: nærð
+      3PP: ná
+      3PS: nær
+  p: 68
+náða:
+  d: to pardon (grant an official pardon for a crime)
+  f:
+    infinitive: náða
+    past:
+      1PP: náðuðum
+      1PS: náðaði
+      2PP: náðuðuð
+      2PS: náðaðir
+      3PP: náðuðu
+      3PS: náðaði
+    present:
+      1PP: náðum
+      1PS: náða
+      2PP: náðið
+      2PS: náðar
+      3PP: náða
+      3PS: náðar
+  p: 121
+nægja:
+  d: to suffice, be enough
+  f:
+    infinitive: nægja
+    past:
+      1PP: nægðum
+      1PS: nægði
+      2PP: nægðuð
+      2PS: nægðir
+      3PP: nægðu
+      3PS: nægði
+    present:
+      1PP: nægjum
+      1PS: nægi
+      2PP: nægið
+      2PS: nægir
+      3PP: nægja
+      3PS: nægir
+  p: 263
+næra:
+  d: to nourish
+  f:
+    infinitive: næra
+    past:
+      1PP: nærðum
+      1PS: nærði
+      2PP: nærðuð
+      2PS: nærðir
+      3PP: nærðu
+      3PS: nærði
+    present:
+      1PP: nærum
+      1PS: næri
+      2PP: nærið
+      2PS: nærir
+      3PP: næra
+      3PS: nærir
+  p: 116
+núa:
+  d: to rub, to chafe
+  f:
+    infinitive: núa
+    past:
+      1PP: nerum
+      1PS: neri
+      2PP: neruð
+      2PS: nerir
+      3PP: neru
+      3PS: neri
+    present:
+      1PP: núum
+      1PS: ný
+      2PP: núið
+      2PS: nýrð
+      3PP: núa
+      3PS: nýr
+  p: 10
+númera:
+  d: to number, to label with a number, to assign a number to
+  f:
+    infinitive: númera
+    past:
+      1PP: númeruðum
+      1PS: númeraði
+      2PP: númeruðuð
+      2PS: númeraðir
+      3PP: númeruðu
+      3PS: númeraði
+    present:
+      1PP: númerum
+      1PS: númera
+      2PP: númerið
+      2PS: númerar
+      3PP: númera
+      3PS: númerar
+  p: 271
+nýta:
+  d: to make use of, use, utilize, take advantage of
+  f:
+    infinitive: nýta
+    past:
+      1PP: nýttum
+      1PS: nýtti
+      2PP: nýttuð
+      2PS: nýttir
+      3PP: nýttu
+      3PS: nýtti
+    present:
+      1PP: nýtum
+      1PS: nýti
+      2PP: nýtið
+      2PS: nýtir
+      3PP: nýta
+      3PS: nýtir
+  p: 160
+opna:
+  d: to open
+  f:
+    infinitive: opna
+    past:
+      1PP: opnuðum
+      1PS: opnaði
+      2PP: opnuðuð
+      2PS: opnaðir
+      3PP: opnuðu
+      3PS: opnaði
+    present:
+      1PP: opnum
+      1PS: opna
+      2PP: opnið
+      2PS: opnar
+      3PP: opna
+      3PS: opnar
+  p: 159
+orða:
+  d: to mention
+  f:
+    infinitive: orða
+    past:
+      1PP: orðuðum
+      1PS: orðaði
+      2PP: orðuðuð
+      2PS: orðaðir
+      3PP: orðuðu
+      3PS: orðaði
+    present:
+      1PP: orðum
+      1PS: orða
+      2PP: orðið
+      2PS: orðar
+      3PP: orða
+      3PS: orðar
+  p: 76
+pakka:
+  d: to pack, to package
+  f:
+    infinitive: pakka
+    past:
+      1PP: pökkuðum
+      1PS: pakkaði
+      2PP: pökkuðuð
+      2PS: pakkaðir
+      3PP: pökkuðu
+      3PS: pakkaði
+    present:
+      1PP: pökkum
+      1PS: pakka
+      2PP: pakkið
+      2PS: pakkar
+      3PP: pakka
+      3PS: pakkar
+  p: 193
+panta:
+  d: to reserve, to order
+  f:
+    infinitive: panta
+    past:
+      1PP: pöntuðum
+      1PS: pantaði
+      2PP: pöntuðuð
+      2PS: pantaðir
+      3PP: pöntuðu
+      3PS: pantaði
+    present:
+      1PP: pöntum
+      1PS: panta
+      2PP: pantið
+      2PS: pantar
+      3PP: panta
+      3PS: pantar
+  p: 419
+passa:
+  d: to fit (be the right size and shape, also of clothing), to be convenient, to
+    be appropriate
+  f:
+    infinitive: passa
+    past:
+      1PP: pössuðum
+      1PS: passaði
+      2PP: pössuðuð
+      2PS: passaðir
+      3PP: pössuðu
+      3PS: passaði
+    present:
+      1PP: pössum
+      1PS: passa
+      2PP: passið
+      2PS: passar
+      3PP: passa
+      3PS: passar
+  p: 211
+pissa:
+  d: to pee; to piss
+  f:
+    infinitive: pissa
+    past:
+      1PP: pissuðum
+      1PS: pissaði
+      2PP: pissuðuð
+      2PS: pissaðir
+      3PP: pissuðu
+      3PS: pissaði
+    present:
+      1PP: pissum
+      1PS: pissa
+      2PP: pissið
+      2PS: pissar
+      3PP: pissa
+      3PS: pissar
+  p: 378
+plata:
+  d: to trick, deceive
+  f:
+    infinitive: plata
+    past:
+      1PP: plötuðum
+      1PS: plataði
+      2PP: plötuðuð
+      2PS: plataðir
+      3PP: plötuðu
+      3PS: plataði
+    present:
+      1PP: plötum
+      1PS: plata
+      2PP: platið
+      2PS: platar
+      3PP: plata
+      3PS: platar
+  p: 456
+poka:
+  d: to bag (put in a bag)
+  f:
+    infinitive: poka
+    past:
+      1PP: pokuðum
+      1PS: pokaði
+      2PP: pokuðuð
+      2PS: pokaðir
+      3PP: pokuðu
+      3PS: pokaði
+    present:
+      1PP: pokum
+      1PS: poka
+      2PP: pokið
+      2PS: pokar
+      3PP: poka
+      3PS: pokar
+  p: 411
+prófa:
+  d: to test, to try out
+  f:
+    infinitive: prófa
+    past:
+      1PP: prófuðum
+      1PS: prófaði
+      2PP: prófuðuð
+      2PS: prófaðir
+      3PP: prófuðu
+      3PS: prófaði
+    present:
+      1PP: prófum
+      1PS: prófa
+      2PP: prófið
+      2PS: prófar
+      3PP: prófa
+      3PS: prófar
+  p: 259
+pína:
+  d: to torture, to torment
+  f:
+    infinitive: pína
+    past:
+      1PP: píndum
+      1PS: píndi
+      2PP: pínduð
+      2PS: píndir
+      3PP: píndu
+      3PS: píndi
+    present:
+      1PP: pínum
+      1PS: píni
+      2PP: pínið
+      2PS: pínir
+      3PP: pína
+      3PS: pínir
+  p: 303
+rannsaka:
+  d: to investigate
+  f:
+    infinitive: rannsaka
+    past:
+      1PP: rannsökuðum
+      1PS: rannsakaði
+      2PP: rannsökuðuð
+      2PS: rannsakaðir
+      3PP: rannsökuðu
+      3PS: rannsakaði
+    present:
+      1PP: rannsökum
+      1PS: rannsaka
+      2PP: rannsakið
+      2PS: rannsakar
+      3PP: rannsaka
+      3PS: rannsakar
+  p: 304
+reiða:
+  d: to carry on horseback
+  f:
+    infinitive: reiða
+    past:
+      1PP: reiddum
+      1PS: reiddi
+      2PP: reidduð
+      2PS: reiddir
+      3PP: reiddu
+      3PS: reiddi
+    present:
+      1PP: reiðum
+      1PS: reiði
+      2PP: reiðið
+      2PS: reiðir
+      3PP: reiða
+      3PS: reiðir
+  p: 261
+reka:
+  d: to drive (forward or away)
+  f:
+    infinitive: reka
+    past:
+      1PP: rákum
+      1PS: rak
+      2PP: rákuð
+      2PS: rakst
+      3PP: ráku
+      3PS: rak
+    present:
+      1PP: rekum
+      1PS: rek
+      2PP: rekið
+      2PS: rekur
+      3PP: reka
+      3PS: rekur
+  p: 242
+rekja:
+  d: to track, to trace, to follow
+  f:
+    infinitive: rekja
+    past:
+      1PP: röktum
+      1PS: rakti
+      2PP: röktuð
+      2PS: raktir
+      3PP: röktu
+      3PS: rakti
+    present:
+      1PP: rekjum
+      1PS: rek
+      2PP: rekið
+      2PS: rekur
+      3PP: rekja
+      3PS: rekur
+  p: 398
+renna:
+  d: to flow, run
+  f:
+    infinitive: renna
+    past:
+      1PP: runnum
+      1PS: rann
+      2PP: runnuð
+      2PS: rannst
+      3PP: runnu
+      3PS: rann
+    present:
+      1PP: rennum
+      1PS: renn
+      2PP: rennið
+      2PS: rennur
+      3PP: renna
+      3PS: rennur
+  p: 400
+reykja:
+  d: to smoke
+  f:
+    infinitive: reykja
+    past:
+      1PP: reyktum
+      1PS: reykti
+      2PP: reyktuð
+      2PS: reyktir
+      3PP: reyktu
+      3PS: reykti
+    present:
+      1PP: reykjum
+      1PS: reyki
+      2PP: reykið
+      2PS: reykir
+      3PP: reykja
+      3PS: reykir
+  p: 292
+reyna:
+  d: to try, attempt
+  f:
+    infinitive: reyna
+    past:
+      1PP: reyndum
+      1PS: reyndi
+      2PP: reynduð
+      2PS: reyndir
+      3PP: reyndu
+      3PS: reyndi
+    present:
+      1PP: reynum
+      1PS: reyni
+      2PP: reynið
+      2PS: reynir
+      3PP: reyna
+      3PS: reynir
+  p: 58
+rugla:
+  d: to confuse, to confound
+  f:
+    infinitive: rugla
+    past:
+      1PP: rugluðum
+      1PS: ruglaði
+      2PP: rugluðuð
+      2PS: ruglaðir
+      3PP: rugluðu
+      3PS: ruglaði
+    present:
+      1PP: ruglum
+      1PS: rugla
+      2PP: ruglið
+      2PS: ruglar
+      3PP: rugla
+      3PS: ruglar
+  p: 447
+ráða:
+  d: to employ, to hire
+  f:
+    infinitive: ráða
+    past:
+      1PP: réðum
+      1PS: réð
+      2PP: réðuð
+      2PS: réðst
+      3PP: réðu
+      3PS: réð
+    present:
+      1PP: ráðum
+      1PS: ræð
+      2PP: ráðið
+      2PS: ræður
+      3PP: ráða
+      3PS: ræður
+  p: 181
+ræna:
+  d: to rob (someone of something), steal
+  f:
+    infinitive: ræna
+    past:
+      1PP: rændum
+      1PS: rændi
+      2PP: rænduð
+      2PS: rændir
+      3PP: rændu
+      3PS: rændi
+    present:
+      1PP: rænum
+      1PS: ræni
+      2PP: rænið
+      2PS: rænir
+      3PP: ræna
+      3PS: rænir
+  p: 350
+ræða:
+  d: to discuss, to talk, to speak
+  f:
+    infinitive: ræða
+    past:
+      1PP: ræddum
+      1PS: ræddi
+      2PP: rædduð
+      2PS: ræddir
+      3PP: ræddu
+      3PS: ræddi
+    present:
+      1PP: ræðum
+      1PS: ræði
+      2PP: ræðið
+      2PS: ræðir
+      3PP: ræða
+      3PS: ræðir
+  p: 122
+rétta:
+  d: to straighten
+  f:
+    infinitive: rétta
+    past:
+      1PP: réttum
+      1PS: rétti
+      2PP: réttuð
+      2PS: réttir
+      3PP: réttu
+      3PS: rétti
+    present:
+      1PP: réttum
+      1PS: rétti
+      2PP: réttið
+      2PS: réttir
+      3PP: rétta
+      3PS: réttir
+  p: 26
+rífa:
+  d: to rip, tear
+  f:
+    infinitive: rífa
+    past:
+      1PP: rifum
+      1PS: reif
+      2PP: rifuð
+      2PS: reifst
+      3PP: rifu
+      3PS: reif
+    present:
+      1PP: rífum
+      1PS: ríf
+      2PP: rífið
+      2PS: rífur
+      3PP: rífa
+      3PS: rífur
+  p: 364
+ríkja:
+  d: to reign (exercise sovereign power)
+  f:
+    infinitive: ríkja
+    past:
+      1PP: ríktum
+      1PS: ríkti
+      2PP: ríktuð
+      2PS: ríktir
+      3PP: ríktu
+      3PS: ríkti
+    present:
+      1PP: ríkjum
+      1PS: ríki
+      2PP: ríkið
+      2PS: ríkir
+      3PP: ríkja
+      3PS: ríkir
+  p: 384
+rísa:
+  d: to rise
+  f:
+    infinitive: rísa
+    past:
+      1PP: risum
+      1PS: reis
+      2PP: risuð
+      2PS: reist
+      3PP: risu
+      3PS: reis
+    present:
+      1PP: rísum
+      1PS: rís
+      2PP: rísið
+      2PS: ríst
+      3PP: rísa
+      3PS: rís
+  p: 471
+ríða:
+  d: to ride
+  f:
+    infinitive: ríða
+    past:
+      1PP: riðum
+      1PS: reið
+      2PP: riðuð
+      2PS: reiðst
+      3PP: riðu
+      3PS: reið
+    present:
+      1PP: ríðum
+      1PS: ríð
+      2PP: ríðið
+      2PS: ríður
+      3PP: ríða
+      3PS: ríður
+  p: 260
+róa:
+  d: to row, to propel a vessel with oars
+  f:
+    infinitive: róa
+    past:
+      1PP: róuðum
+      1PS: róaði
+      2PP: róuðuð
+      2PS: róaðir
+      3PP: róuðu
+      3PS: róaði
+    present:
+      1PP: róum
+      1PS: róa
+      2PP: róið
+      2PS: róar
+      3PP: róa
+      3PS: róar
+  p: 416
+rúma:
+  d: to hold, contain
+  f:
+    infinitive: rúma
+    past:
+      1PP: rúmuðum
+      1PS: rúmaði
+      2PP: rúmuðuð
+      2PS: rúmaðir
+      3PP: rúmuðu
+      3PS: rúmaði
+    present:
+      1PP: rúmum
+      1PS: rúma
+      2PP: rúmið
+      2PS: rúmar
+      3PP: rúma
+      3PS: rúmar
+  p: 224
+safna:
+  d: to gather, collect
+  f:
+    infinitive: safna
+    past:
+      1PP: söfnuðum
+      1PS: safnaði
+      2PP: söfnuðuð
+      2PS: safnaðir
+      3PP: söfnuðu
+      3PS: safnaði
+    present:
+      1PP: söfnum
+      1PS: safna
+      2PP: safnið
+      2PS: safnar
+      3PP: safna
+      3PS: safnar
+  p: 383
+saga:
+  d: to saw
+  f:
+    infinitive: saga
+    past:
+      1PP: söguðum
+      1PS: sagaði
+      2PP: söguðuð
+      2PS: sagaðir
+      3PP: söguðu
+      3PS: sagaði
+    present:
+      1PP: sögum
+      1PS: saga
+      2PP: sagið
+      2PS: sagar
+      3PP: saga
+      3PS: sagar
+  p: 229
+sakna:
+  d: to miss, to long for
+  f:
+    infinitive: sakna
+    past:
+      1PP: söknuðum
+      1PS: saknaði
+      2PP: söknuðuð
+      2PS: saknaðir
+      3PP: söknuðu
+      3PS: saknaði
+    present:
+      1PP: söknum
+      1PS: sakna
+      2PP: saknið
+      2PS: saknar
+      3PP: sakna
+      3PS: saknar
+  p: 175
+samhryggjast:
+  d: to express sympathy for someone, to condole someone
+  f:
+    infinitive: null
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+  p: 406
+samþykkja:
+  d: to agree, to consent
+  f:
+    infinitive: samþykkja
+    past:
+      1PP: samþykktum
+      1PS: samþykkti
+      2PP: samþykktuð
+      2PS: samþykktir
+      3PP: samþykktu
+      3PS: samþykkti
+    present:
+      1PP: samþykkjum
+      1PS: samþykki
+      2PP: samþykkið
+      2PS: samþykkir
+      3PP: samþykkja
+      3PS: samþykkir
+  p: 230
+sanna:
+  d: to prove
+  f:
+    infinitive: sanna
+    past:
+      1PP: sönnuðum
+      1PS: sannaði
+      2PP: sönnuðuð
+      2PS: sannaðir
+      3PP: sönnuðu
+      3PS: sannaði
+    present:
+      1PP: sönnum
+      1PS: sanna
+      2PP: sannið
+      2PS: sannar
+      3PP: sanna
+      3PS: sannar
+  p: 185
+sannfæra:
+  d: to convince
+  f:
+    infinitive: sannfæra
+    past:
+      1PP: sannfærðum
+      1PS: sannfærði
+      2PP: sannfærðuð
+      2PS: sannfærðir
+      3PP: sannfærðu
+      3PS: sannfærði
+    present:
+      1PP: sannfærum
+      1PS: sannfæri
+      2PP: sannfærið
+      2PS: sannfærir
+      3PP: sannfæra
+      3PS: sannfærir
+  p: 486
+segja:
+  d: "to say, to tell\n Ég segi söguna á eftir.\n Segðu mér eitthvað skemmtilegt."
+  f:
+    infinitive: segja
+    past:
+      1PP: sögðum
+      1PS: sagði
+      2PP: sögðuð
+      2PS: sagðir
+      3PP: sögðu
+      3PS: sagði
+    present:
+      1PP: segjum
+      1PS: segi
+      2PP: segið
+      2PS: segir
+      3PP: segja
+      3PS: segir
+  p: 18
+selja:
+  d: to sell
+  f:
+    infinitive: selja
+    past:
+      1PP: seldum
+      1PS: seldi
+      2PP: selduð
+      2PS: seldir
+      3PP: seldu
+      3PS: seldi
+    present:
+      1PP: seljum
+      1PS: sel
+      2PP: seljið
+      2PS: selur
+      3PP: selja
+      3PS: selur
+  p: 172
+semja:
+  d: to negotiate
+  f:
+    infinitive: semja
+    past:
+      1PP: sömdum
+      1PS: samdi
+      2PP: sömduð
+      2PS: samdir
+      3PP: sömdu
+      3PS: samdi
+    present:
+      1PP: semjum
+      1PS: sem
+      2PP: semjið
+      2PS: semur
+      3PP: semja
+      3PS: semur
+  p: 2
+senda:
+  d: to send
+  f:
+    infinitive: senda
+    past:
+      1PP: sendum
+      1PS: sendi
+      2PP: senduð
+      2PS: sendir
+      3PP: sendu
+      3PS: sendi
+    present:
+      1PP: sendum
+      1PS: sendi
+      2PP: sendið
+      2PS: sendir
+      3PP: senda
+      3PS: sendir
+  p: 124
+setja:
+  d: to put, to place something somewhere
+  f:
+    infinitive: setja
+    past:
+      1PP: settum
+      1PS: setti
+      2PP: settuð
+      2PS: settir
+      3PP: settu
+      3PS: setti
+    present:
+      1PP: setjum
+      1PS: set
+      2PP: setjið
+      2PS: setur
+      3PP: setja
+      3PS: setur
+  p: 111
+seðja:
+  d: to fill, to satiate, to sate
+  f:
+    infinitive: seðja
+    past:
+      1PP: söddum
+      1PS: saddi
+      2PP: södduð
+      2PS: saddir
+      3PP: söddu
+      3PS: saddi
+    present:
+      1PP: seðjum
+      1PS: seð
+      2PP: seðjið
+      2PS: seður
+      3PP: seðja
+      3PS: seður
+  p: 42
+sigla:
+  d: to sail
+  f:
+    infinitive: sigla
+    past:
+      1PP: sigldum
+      1PS: sigldi
+      2PP: siglduð
+      2PS: sigldir
+      3PP: sigldu
+      3PS: sigldi
+    present:
+      1PP: siglum
+      1PS: sigli
+      2PP: siglið
+      2PS: siglir
+      3PP: sigla
+      3PS: siglir
+  p: 399
+sigra:
+  d: to defeat, conquer (an opponent)
+  f:
+    infinitive: sigra
+    past:
+      1PP: sigruðum
+      1PS: sigraði
+      2PP: sigruðuð
+      2PS: sigraðir
+      3PP: sigruðu
+      3PS: sigraði
+    present:
+      1PP: sigrum
+      1PS: sigra
+      2PP: sigrið
+      2PS: sigrar
+      3PP: sigra
+      3PS: sigrar
+  p: 283
+sinna:
+  d: to attend to
+  f:
+    infinitive: sinna
+    past:
+      1PP: sinntum
+      1PS: sinnti
+      2PP: sinntuð
+      2PS: sinntir
+      3PP: sinntu
+      3PS: sinnti
+    present:
+      1PP: sinnum
+      1PS: sinni
+      2PP: sinnið
+      2PS: sinnir
+      3PP: sinna
+      3PS: sinnir
+  p: 54
+sitja:
+  d: to sit
+  f:
+    infinitive: sitja
+    past:
+      1PP: sátum
+      1PS: sat
+      2PP: sátuð
+      2PS: sast
+      3PP: sátu
+      3PS: sat
+    present:
+      1PP: sitjum
+      1PS: sit
+      2PP: sitjið
+      2PS: situr
+      3PP: sitja
+      3PS: situr
+  p: 162
+sjá:
+  d: to see, to sense or perceive with one's eyes
+  f:
+    infinitive: sjá
+    past:
+      1PP: sáum
+      1PS: sá
+      2PP: sáuð
+      2PS: sást
+      3PP: sáu
+      3PS: sá
+    present:
+      1PP: sjáum
+      1PS: sé
+      2PP: sjáið
+      2PS: sérð
+      3PP: sjá
+      3PS: sér
+  p: 15
+skamma:
+  d: to tell off, to scold
+  f:
+    infinitive: skamma
+    past:
+      1PP: skömmuðum
+      1PS: skammaði
+      2PP: skömmuðuð
+      2PS: skammaðir
+      3PP: skömmuðu
+      3PS: skammaði
+    present:
+      1PP: skömmum
+      1PS: skamma
+      2PP: skammið
+      2PS: skammar
+      3PP: skamma
+      3PS: skammar
+  p: 373
+skapa:
+  d: to create
+  f:
+    infinitive: skapa
+    past:
+      1PP: sköpuðum
+      1PS: skapaði
+      2PP: sköpuðuð
+      2PS: skapaðir
+      3PP: sköpuðu
+      3PS: skapaði
+    present:
+      1PP: sköpum
+      1PS: skapa
+      2PP: skapið
+      2PS: skapar
+      3PP: skapa
+      3PS: skapar
+  p: 336
+skaða:
+  d: to harm, to damage
+  f:
+    infinitive: skaða
+    past:
+      1PP: sköðuðum
+      1PS: skaðaði
+      2PP: sköðuðuð
+      2PS: skaðaðir
+      3PP: sköðuðu
+      3PS: skaðaði
+    present:
+      1PP: sköðum
+      1PS: skaða
+      2PP: skaðið
+      2PS: skaðar
+      3PP: skaða
+      3PS: skaðar
+  p: 474
+skella:
+  d: to crash, bang
+  f:
+    infinitive: skella
+    past:
+      1PP: skullum
+      1PS: skall
+      2PP: skulluð
+      2PS: skallst
+      3PP: skullu
+      3PS: skall
+    present:
+      1PP: skellum
+      1PS: skell
+      2PP: skellið
+      2PS: skellur
+      3PP: skella
+      3PS: skellur
+  p: 369
+skemma:
+  d: to (usually permanently) damage, to spoil, to ruin
+  f:
+    infinitive: skemma
+    past:
+      1PP: skemmdum
+      1PS: skemmdi
+      2PP: skemmduð
+      2PS: skemmdir
+      3PP: skemmdu
+      3PS: skemmdi
+    present:
+      1PP: skemmum
+      1PS: skemmi
+      2PP: skemmið
+      2PS: skemmir
+      3PP: skemma
+      3PS: skemmir
+  p: 501
+skemmta:
+  d: to entertain, amuse
+  f:
+    infinitive: skemmta
+    past:
+      1PP: skemmtum
+      1PS: skemmti
+      2PP: skemmtuð
+      2PS: skemmtir
+      3PP: skemmtu
+      3PS: skemmti
+    present:
+      1PP: skemmtum
+      1PS: skemmti
+      2PP: skemmtið
+      2PS: skemmtir
+      3PP: skemmta
+      3PS: skemmtir
+  p: 262
+skera:
+  d: to cut, slice, sever
+  f:
+    infinitive: skera
+    past:
+      1PP: skárum
+      1PS: skar
+      2PP: skáruð
+      2PS: skarst
+      3PP: skáru
+      3PS: skar
+    present:
+      1PP: skerum
+      1PS: sker
+      2PP: skerið
+      2PS: skerð
+      3PP: skera
+      3PS: sker
+  p: 281
+skila:
+  d: to give back, to return
+  f:
+    infinitive: skila
+    past:
+      1PP: skiluðum
+      1PS: skilaði
+      2PP: skiluðuð
+      2PS: skilaðir
+      3PP: skiluðu
+      3PS: skilaði
+    present:
+      1PP: skilum
+      1PS: skila
+      2PP: skilið
+      2PS: skilar
+      3PP: skila
+      3PS: skilar
+  p: 94
+skilja:
+  d: to separate
+  f:
+    infinitive: skilja
+    past:
+      1PP: skildum
+      1PS: skildi
+      2PP: skilduð
+      2PS: skildir
+      3PP: skildu
+      3PS: skildi
+    present:
+      1PP: skiljum
+      1PS: skil
+      2PP: skiljið
+      2PS: skilur
+      3PP: skilja
+      3PS: skilur
+  p: 57
+skipa:
+  d: to order, command
+  f:
+    infinitive: skipa
+    past:
+      1PP: skipuðum
+      1PS: skipaði
+      2PP: skipuðuð
+      2PS: skipaðir
+      3PP: skipuðu
+      3PS: skipaði
+    present:
+      1PP: skipum
+      1PS: skipa
+      2PP: skipið
+      2PS: skipar
+      3PP: skipa
+      3PS: skipar
+  p: 190
+skipta:
+  d: to divide, to partition, to cleave
+  f:
+    infinitive: skipta
+    past:
+      1PP: skiptum
+      1PS: skipti
+      2PP: skiptuð
+      2PS: skiptir
+      3PP: skiptu
+      3PS: skipti
+    present:
+      1PP: skiptum
+      1PS: skipti
+      2PP: skiptið
+      2PS: skiptir
+      3PP: skipta
+      3PS: skiptir
+  p: 81
+skipuleggja:
+  d: to organise
+  f:
+    infinitive: skipuleggja
+    past:
+      1PP: skipulögðum
+      1PS: skipulagði
+      2PP: skipulögðuð
+      2PS: skipulagðir
+      3PP: skipulögðu
+      3PS: skipulagði
+    present:
+      1PP: skipuleggjum
+      1PS: skipulegg
+      2PP: skipuleggið
+      2PS: skipuleggur
+      3PP: skipuleggja
+      3PS: skipuleggur
+  p: 495
+skjóta:
+  d: to shoot
+  f:
+    infinitive: skjóta
+    past:
+      1PP: skutum
+      1PS: skaut
+      2PP: skutuð
+      2PS: skaust
+      3PP: skutu
+      3PS: skaut
+    present:
+      1PP: skjótum
+      1PS: skýt
+      2PP: skjótið
+      2PS: skýtur
+      3PP: skjóta
+      3PS: skýtur
+  p: 93
+skora:
+  d: to score, to notch
+  f:
+    infinitive: skora
+    past:
+      1PP: skoruðum
+      1PS: skoraði
+      2PP: skoruðuð
+      2PS: skoraðir
+      3PP: skoruðu
+      3PS: skoraði
+    present:
+      1PP: skorum
+      1PS: skora
+      2PP: skorið
+      2PS: skorar
+      3PP: skora
+      3PS: skorar
+  p: 455
+skoða:
+  d: to view, to observe, to watch, to check out
+  f:
+    infinitive: skoða
+    past:
+      1PP: skoðuðum
+      1PS: skoðaði
+      2PP: skoðuðuð
+      2PS: skoðaðir
+      3PP: skoðuðu
+      3PS: skoðaði
+    present:
+      1PP: skoðum
+      1PS: skoða
+      2PP: skoðið
+      2PS: skoðar
+      3PP: skoða
+      3PS: skoðar
+  p: 208
+skrifa:
+  d: to write
+  f:
+    infinitive: skrifa
+    past:
+      1PP: skrifuðum
+      1PS: skrifaði
+      2PP: skrifuðuð
+      2PS: skrifaðir
+      3PP: skrifuðu
+      3PS: skrifaði
+    present:
+      1PP: skrifum
+      1PS: skrifa
+      2PP: skrifið
+      2PS: skrifar
+      3PP: skrifa
+      3PS: skrifar
+  p: 136
+skrá:
+  d: to record, write down, note
+  f:
+    infinitive: skrá
+    past:
+      1PP: skráðum
+      1PS: skráði
+      2PP: skráðuð
+      2PS: skráðir
+      3PP: skráðu
+      3PS: skráði
+    present:
+      1PP: skráum
+      1PS: skrái
+      2PP: skráið
+      2PS: skráir
+      3PP: skrá
+      3PS: skráir
+  p: 312
+skríða:
+  d: to slither (as a snake, as a ship over water, on snowshoes over snow)
+  f:
+    infinitive: skríða
+    past:
+      1PP: skriðum
+      1PS: skreið
+      2PP: skriðuð
+      2PS: skreiðst
+      3PP: skriðu
+      3PS: skreið
+    present:
+      1PP: skríðum
+      1PS: skríð
+      2PP: skríðið
+      2PS: skríður
+      3PP: skríða
+      3PS: skríður
+  p: 427
+skulda:
+  d: to owe somebody something
+  f:
+    infinitive: skulda
+    past:
+      1PP: skulduðum
+      1PS: skuldaði
+      2PP: skulduðuð
+      2PS: skuldaðir
+      3PP: skulduðu
+      3PS: skuldaði
+    present:
+      1PP: skuldum
+      1PS: skulda
+      2PP: skuldið
+      2PS: skuldar
+      3PP: skulda
+      3PS: skuldar
+  p: 331
+skulu:
+  d: shall, must
+  f:
+    infinitive: skulu
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: skulum
+      1PS: skal
+      2PP: skuluð
+      2PS: skalt
+      3PP: skulu
+      3PS: skal
+  p: 33
+skylda:
+  d: to obligate
+  f:
+    infinitive: skylda
+    past:
+      1PP: skylduðum
+      1PS: skyldaði
+      2PP: skylduðuð
+      2PS: skyldaðir
+      3PP: skylduðu
+      3PS: skyldaði
+    present:
+      1PP: skyldum
+      1PS: skylda
+      2PP: skyldið
+      2PS: skyldar
+      3PP: skylda
+      3PS: skyldar
+  p: 166
+skíta:
+  d: to shit
+  f:
+    infinitive: skíta
+    past:
+      1PP: skitum
+      1PS: skeit
+      2PP: skituð
+      2PS: skeist
+      3PP: skitu
+      3PS: skeit
+    present:
+      1PP: skítum
+      1PS: skít
+      2PP: skítið
+      2PS: skítur
+      3PP: skíta
+      3PS: skítur
+  p: 270
+skýra:
+  d: to clarify
+  f:
+    infinitive: skýra
+    past:
+      1PP: skýrðum
+      1PS: skýrði
+      2PP: skýrðuð
+      2PS: skýrðir
+      3PP: skýrðu
+      3PS: skýrði
+    present:
+      1PP: skýrum
+      1PS: skýri
+      2PP: skýrið
+      2PS: skýrir
+      3PP: skýra
+      3PS: skýrir
+  p: 363
+slaka:
+  d: to slacken, to loosen, to slack
+  f:
+    infinitive: slaka
+    past:
+      1PP: slökuðum
+      1PS: slakaði
+      2PP: slökuðuð
+      2PS: slakaðir
+      3PP: slökuðu
+      3PS: slakaði
+    present:
+      1PP: slökum
+      1PS: slaka
+      2PP: slakið
+      2PS: slakar
+      3PP: slaka
+      3PS: slakar
+  p: 207
+sleppa:
+  d: to escape, get away
+  f:
+    infinitive: sleppa
+    past:
+      1PP: sluppum
+      1PS: slapp
+      2PP: sluppuð
+      2PS: slappst
+      3PP: sluppu
+      3PS: slapp
+    present:
+      1PP: sleppum
+      1PS: slepp
+      2PP: sleppið
+      2PS: sleppur
+      3PP: sleppa
+      3PS: sleppur
+  p: 126
+slá:
+  d: to hit, to strike
+  f:
+    infinitive: slá
+    past:
+      1PP: slógum
+      1PS: sló
+      2PP: slóguð
+      2PS: slóst
+      3PP: slógu
+      3PS: sló
+    present:
+      1PP: sláum
+      1PS: slæ
+      2PP: sláið
+      2PS: slærð
+      3PP: slá
+      3PS: slær
+  p: 285
+slökkva:
+  d: to extinguish, to put out
+  f:
+    infinitive: slökkva
+    past:
+      1PP: slökktum
+      1PS: slökkti
+      2PP: slökktuð
+      2PS: slökktir
+      3PP: slökktu
+      3PS: slökkti
+    present:
+      1PP: slökkvum
+      1PS: slekk
+      2PP: slökkvið
+      2PS: slekkur
+      3PP: slökkva
+      3PS: slekkur
+  p: 330
+smá:
+  d: to disdain, to treat with contempt
+  f:
+    infinitive: smá
+    past:
+      1PP: smáðum
+      1PS: smáði
+      2PP: smáðuð
+      2PS: smáðir
+      3PP: smáðu
+      3PS: smáði
+    present:
+      1PP: smáum
+      1PS: smái
+      2PP: smáið
+      2PS: smáir
+      3PP: smá
+      3PS: smáir
+  p: 108
+snerta:
+  d: to touch
+  f:
+    infinitive: snerta
+    past:
+      1PP: snertum
+      1PS: snerti
+      2PP: snertuð
+      2PS: snertir
+      3PP: snertu
+      3PS: snerti
+    present:
+      1PP: snertum
+      1PS: snerti
+      2PP: snertið
+      2PS: snertir
+      3PP: snerta
+      3PS: snertir
+  p: 212
+snúa:
+  d: to turn
+  f:
+    infinitive: snúa
+    past:
+      1PP: snerum
+      1PS: sneri
+      2PP: sneruð
+      2PS: snerir
+      3PP: sneru
+      3PS: sneri
+    present:
+      1PP: snúum
+      1PS: sný
+      2PP: snúið
+      2PS: snýrð
+      3PP: snúa
+      3PS: snýr
+  p: 144
+sofa:
+  d: to sleep
+  f:
+    infinitive: sofa
+    past:
+      1PP: sváfum
+      1PS: svaf
+      2PP: sváfuð
+      2PS: svafst
+      3PP: sváfu
+      3PS: svaf
+    present:
+      1PP: sofum
+      1PS: sef
+      2PP: sofið
+      2PS: sefur
+      3PP: sofa
+      3PS: sefur
+  p: 133
+sofna:
+  d: to fall asleep
+  f:
+    infinitive: sofna
+    past:
+      1PP: sofnuðum
+      1PS: sofnaði
+      2PP: sofnuðuð
+      2PS: sofnaðir
+      3PP: sofnuðu
+      3PS: sofnaði
+    present:
+      1PP: sofnum
+      1PS: sofna
+      2PP: sofnið
+      2PS: sofnar
+      3PP: sofna
+      3PS: sofnar
+  p: 440
+spara:
+  d: to spare
+  f:
+    infinitive: spara
+    past:
+      1PP: spöruðum
+      1PS: sparaði
+      2PP: spöruðuð
+      2PS: sparaðir
+      3PP: spöruðu
+      3PS: sparaði
+    present:
+      1PP: spörum
+      1PS: spara
+      2PP: sparið
+      2PS: sparar
+      3PP: spara
+      3PS: sparar
+  p: 497
+sparka:
+  d: to kick
+  f:
+    infinitive: sparka
+    past:
+      1PP: spörkuðum
+      1PS: sparkaði
+      2PP: spörkuðuð
+      2PS: sparkaðir
+      3PP: spörkuðu
+      3PS: sparkaði
+    present:
+      1PP: spörkum
+      1PS: sparka
+      2PP: sparkið
+      2PS: sparkar
+      3PP: sparka
+      3PS: sparkar
+  p: 408
+spauga:
+  d: to joke, to jest
+  f:
+    infinitive: spauga
+    past:
+      1PP: spauguðum
+      1PS: spaugaði
+      2PP: spauguðuð
+      2PS: spaugaðir
+      3PP: spauguðu
+      3PS: spaugaði
+    present:
+      1PP: spaugum
+      1PS: spauga
+      2PP: spaugið
+      2PS: spaugar
+      3PP: spauga
+      3PS: spaugar
+  p: 414
+spenna:
+  d: to tighten, to tauten
+  f:
+    infinitive: spenna
+    past:
+      1PP: spenntum
+      1PS: spennti
+      2PP: spenntuð
+      2PS: spenntir
+      3PP: spenntu
+      3PS: spennti
+    present:
+      1PP: spennum
+      1PS: spenni
+      2PP: spennið
+      2PS: spennir
+      3PP: spenna
+      3PS: spennir
+  p: 264
+spila:
+  d: to play
+  f:
+    infinitive: spila
+    past:
+      1PP: spiluðum
+      1PS: spilaði
+      2PP: spiluðuð
+      2PS: spilaðir
+      3PP: spiluðu
+      3PS: spilaði
+    present:
+      1PP: spilum
+      1PS: spila
+      2PP: spilið
+      2PS: spilar
+      3PP: spila
+      3PS: spilar
+  p: 148
+spjalla:
+  d: to chat, converse
+  f:
+    infinitive: spjalla
+    past:
+      1PP: spjölluðum
+      1PS: spjallaði
+      2PP: spjölluðuð
+      2PS: spjallaðir
+      3PP: spjölluðu
+      3PS: spjallaði
+    present:
+      1PP: spjöllum
+      1PS: spjalla
+      2PP: spjallið
+      2PS: spjallar
+      3PP: spjalla
+      3PS: spjallar
+  p: 417
+sprengja:
+  d: to blow up (cause to explode)
+  f:
+    infinitive: sprengja
+    past:
+      1PP: sprengdum
+      1PS: sprengdi
+      2PP: sprengduð
+      2PS: sprengdir
+      3PP: sprengdu
+      3PS: sprengdi
+    present:
+      1PP: sprengjum
+      1PS: sprengi
+      2PP: sprengið
+      2PS: sprengir
+      3PP: sprengja
+      3PS: sprengir
+  p: 243
+springa:
+  d: to crack, break, split open, burst
+  f:
+    infinitive: springa
+    past:
+      1PP: sprungum
+      1PS: sprakk
+      2PP: sprunguð
+      2PS: sprakkst
+      3PP: sprungu
+      3PS: sprakk
+    present:
+      1PP: springum
+      1PS: spring
+      2PP: springið
+      2PS: springur
+      3PP: springa
+      3PS: springur
+  p: 415
+spyrja:
+  d: to ask
+  f:
+    infinitive: spyrja
+    past:
+      1PP: spurðum
+      1PS: spurði
+      2PP: spurðuð
+      2PS: spurðir
+      3PP: spurðu
+      3PS: spurði
+    present:
+      1PP: spyrjum
+      1PS: spyr
+      2PP: spyrjið
+      2PS: spyrð
+      3PP: spyrja
+      3PS: spyr
+  p: 82
+spá:
+  d: to forecast, to predict
+  f:
+    infinitive: spá
+    past:
+      1PP: spáðum
+      1PS: spáði
+      2PP: spáðuð
+      2PS: spáðir
+      3PP: spáðu
+      3PS: spáði
+    present:
+      1PP: spáum
+      1PS: spái
+      2PP: spáið
+      2PS: spáir
+      3PP: spá
+      3PS: spáir
+  p: 379
+standa:
+  d: to stand (up), to be standing
+  f:
+    infinitive: standa
+    past:
+      1PP: stóðum
+      1PS: stóð
+      2PP: stóðuð
+      2PS: stóðst
+      3PP: stóðu
+      3PS: stóð
+    present:
+      1PP: stöndum
+      1PS: stend
+      2PP: standið
+      2PS: stendur
+      3PP: standa
+      3PS: stendur
+  p: 91
+stansa:
+  d: to stop, halt
+  f:
+    infinitive: stansa
+    past:
+      1PP: stönsuðum
+      1PS: stansaði
+      2PP: stönsuðuð
+      2PS: stansaðir
+      3PP: stönsuðu
+      3PS: stansaði
+    present:
+      1PP: stönsum
+      1PS: stansa
+      2PP: stansið
+      2PS: stansar
+      3PP: stansa
+      3PS: stansar
+  p: 315
+starfa:
+  d: to work
+  f:
+    infinitive: starfa
+    past:
+      1PP: störfuðum
+      1PS: starfaði
+      2PP: störfuðuð
+      2PS: starfaðir
+      3PP: störfuðu
+      3PS: starfaði
+    present:
+      1PP: störfum
+      1PS: starfa
+      2PP: starfið
+      2PS: starfar
+      3PP: starfa
+      3PS: starfar
+  p: 217
+staðfesta:
+  d: to verify, to confirm
+  f:
+    infinitive: staðfesta
+    past:
+      1PP: staðfestum
+      1PS: staðfesti
+      2PP: staðfestuð
+      2PS: staðfestir
+      3PP: staðfestu
+      3PS: staðfesti
+    present:
+      1PP: staðfestum
+      1PS: staðfesti
+      2PP: staðfestið
+      2PS: staðfestir
+      3PP: staðfesta
+      3PS: staðfestir
+  p: 326
+stefna:
+  d: to head (somewhere)
+  f:
+    infinitive: stefna
+    past:
+      1PP: stefndum
+      1PS: stefndi
+      2PP: stefnduð
+      2PS: stefndir
+      3PP: stefndu
+      3PS: stefndi
+    present:
+      1PP: stefnum
+      1PS: stefni
+      2PP: stefnið
+      2PS: stefnir
+      3PP: stefna
+      3PS: stefnir
+  p: 321
+steikja:
+  d: to roast
+  f:
+    infinitive: steikja
+    past:
+      1PP: steiktum
+      1PS: steikti
+      2PP: steiktuð
+      2PS: steiktir
+      3PP: steiktu
+      3PS: steikti
+    present:
+      1PP: steikjum
+      1PS: steiki
+      2PP: steikið
+      2PS: steikir
+      3PP: steikja
+      3PS: steikir
+  p: 481
+stela:
+  d: to steal
+  f:
+    infinitive: stela
+    past:
+      1PP: stálum
+      1PS: stal
+      2PP: stáluð
+      2PS: stalst
+      3PP: stálu
+      3PS: stal
+    present:
+      1PP: stelum
+      1PS: stel
+      2PP: stelið
+      2PS: stelur
+      3PP: stela
+      3PS: stelur
+  p: 210
+stilla:
+  d: to calm, to still
+  f:
+    infinitive: stilla
+    past:
+      1PP: stilltum
+      1PS: stillti
+      2PP: stilltuð
+      2PS: stilltir
+      3PP: stilltu
+      3PS: stillti
+    present:
+      1PP: stillum
+      1PS: stilli
+      2PP: stillið
+      2PS: stillir
+      3PP: stilla
+      3PS: stillir
+  p: 477
+stinga:
+  d: to stab, to sting, to prick
+  f:
+    infinitive: stinga
+    past:
+      1PP: stungum
+      1PS: stakk
+      2PP: stunguð
+      2PS: stakkst
+      3PP: stungu
+      3PS: stakk
+    present:
+      1PP: stingum
+      1PS: sting
+      2PP: stingið
+      2PS: stingur
+      3PP: stinga
+      3PS: stingur
+  p: 319
+stjórna:
+  d: to control, govern
+  f:
+    infinitive: stjórna
+    past:
+      1PP: stjórnuðum
+      1PS: stjórnaði
+      2PP: stjórnuðuð
+      2PS: stjórnaðir
+      3PP: stjórnuðu
+      3PS: stjórnaði
+    present:
+      1PP: stjórnum
+      1PS: stjórna
+      2PP: stjórnið
+      2PS: stjórnar
+      3PP: stjórna
+      3PS: stjórnar
+  p: 195
+stofna:
+  d: to establish, to found, to set up
+  f:
+    infinitive: stofna
+    past:
+      1PP: stofnuðum
+      1PS: stofnaði
+      2PP: stofnuðuð
+      2PS: stofnaðir
+      3PP: stofnuðu
+      3PS: stofnaði
+    present:
+      1PP: stofnum
+      1PS: stofna
+      2PP: stofnið
+      2PS: stofnar
+      3PP: stofna
+      3PS: stofnar
+  p: 442
+stoppa:
+  d: to stop, to come to a stop
+  f:
+    infinitive: stoppa
+    past:
+      1PP: stoppuðum
+      1PS: stoppaði
+      2PP: stoppuðuð
+      2PS: stoppaðir
+      3PP: stoppuðu
+      3PS: stoppaði
+    present:
+      1PP: stoppum
+      1PS: stoppa
+      2PP: stoppið
+      2PS: stoppar
+      3PP: stoppa
+      3PS: stoppar
+  p: 293
+stríða:
+  d: to struggle
+  f:
+    infinitive: stríða
+    past:
+      1PP: stríddum
+      1PS: stríddi
+      2PP: strídduð
+      2PS: stríddir
+      3PP: stríddu
+      3PS: stríddi
+    present:
+      1PP: stríðum
+      1PS: stríði
+      2PP: stríðið
+      2PS: stríðir
+      3PP: stríða
+      3PS: stríðir
+  p: 221
+stunda:
+  d: to pursue, to practice, to study
+  f:
+    infinitive: stunda
+    past:
+      1PP: stunduðum
+      1PS: stundaði
+      2PP: stunduðuð
+      2PS: stundaðir
+      3PP: stunduðu
+      3PS: stundaði
+    present:
+      1PP: stundum
+      1PS: stunda
+      2PP: stundið
+      2PS: stundar
+      3PP: stunda
+      3PS: stundar
+  p: 89
+stykkja:
+  d: to cut into pieces
+  f:
+    infinitive: stykkja
+    past:
+      1PP: stykkjuðum
+      1PS: stykkjaði
+      2PP: stykkjuðuð
+      2PS: stykkjaðir
+      3PP: stykkjuðu
+      3PS: stykkjaði
+    present:
+      1PP: stykkjum
+      1PS: stykkja
+      2PP: stykkið
+      2PS: stykkjar
+      3PP: stykkja
+      3PS: stykkjar
+  p: 504
+stynja:
+  d: to moan, to groan, to sigh
+  f:
+    infinitive: stynja
+    past:
+      1PP: stundum
+      1PS: stundi
+      2PP: stunduð
+      2PS: stundir
+      3PP: stundu
+      3PS: stundi
+    present:
+      1PP: stynjum
+      1PS: styn
+      2PP: stynjið
+      2PS: stynur
+      3PP: stynja
+      3PS: stynur
+  p: 88
+styrkja:
+  d: to strengthen
+  f:
+    infinitive: styrkja
+    past:
+      1PP: styrktum
+      1PS: styrkti
+      2PP: styrktuð
+      2PS: styrktir
+      3PP: styrktu
+      3PS: styrkti
+    present:
+      1PP: styrkjum
+      1PS: styrki
+      2PP: styrkið
+      2PS: styrkir
+      3PP: styrkja
+      3PS: styrkir
+  p: 365
+styðja:
+  d: to support
+  f:
+    infinitive: styðja
+    past:
+      1PP: studdum
+      1PS: studdi
+      2PP: studduð
+      2PS: studdir
+      3PP: studdu
+      3PS: studdi
+    present:
+      1PP: styðjum
+      1PS: styð
+      2PP: styðjið
+      2PS: styður
+      3PP: styðja
+      3PS: styður
+  p: 316
+stíga:
+  d: to step, to take a step
+  f:
+    infinitive: stíga
+    past:
+      1PP: stigum
+      1PS: steig
+      2PP: stiguð
+      2PS: steigst
+      3PP: stigu
+      3PS: steig
+    present:
+      1PP: stígum
+      1PS: stíg
+      2PP: stígið
+      2PS: stígur
+      3PP: stíga
+      3PS: stígur
+  p: 424
+stökkva:
+  d: to jump, to leap
+  f:
+    infinitive: stökkva
+    past:
+      1PP: stukkum
+      1PS: stökk
+      2PP: stukkuð
+      2PS: stökkst
+      3PP: stukku
+      3PS: stökk
+    present:
+      1PP: stökkvum
+      1PS: stekk
+      2PP: stökkvið
+      2PS: stekkur
+      3PP: stökkva
+      3PS: stekkur
+  p: 410
+stöðva:
+  d: to stop someone or something, (to cause to come to a stop)
+  f:
+    infinitive: stöðva
+    past:
+      1PP: stöðvuðum
+      1PS: stöðvaði
+      2PP: stöðvuðuð
+      2PS: stöðvaðir
+      3PP: stöðvuðu
+      3PS: stöðvaði
+    present:
+      1PP: stöðvum
+      1PS: stöðva
+      2PP: stöðvið
+      2PS: stöðvar
+      3PP: stöðva
+      3PS: stöðvar
+  p: 186
+svara:
+  d: to answer, to respond, to reply
+  f:
+    infinitive: svara
+    past:
+      1PP: svöruðum
+      1PS: svaraði
+      2PP: svöruðuð
+      2PS: svaraðir
+      3PP: svöruðu
+      3PS: svaraði
+    present:
+      1PP: svörum
+      1PS: svara
+      2PP: svarið
+      2PS: svarar
+      3PP: svara
+      3PS: svarar
+  p: 158
+svelta:
+  d: to starve
+  f:
+    infinitive: svelta
+    past:
+      1PP: sultum
+      1PS: svalt
+      2PP: sultuð
+      2PS: svalst
+      3PP: sultu
+      3PS: svalt
+    present:
+      1PP: sveltum
+      1PS: svelt
+      2PP: sveltið
+      2PS: sveltur
+      3PP: svelta
+      3PS: sveltur
+  p: 344
+sverja:
+  d: to swear (make an oath)
+  f:
+    infinitive: sverja
+    past:
+      1PP: sórum
+      1PS: sór
+      2PP: sóruð
+      2PS: sórst
+      3PP: sóru
+      3PS: sór
+    present:
+      1PP: sverjum
+      1PS: sver
+      2PP: sverjið
+      2PS: sverð
+      3PP: sverja
+      3PS: sver
+  p: 200
+svindla:
+  d: to cheat
+  f:
+    infinitive: svindla
+    past:
+      1PP: svindluðum
+      1PS: svindlaði
+      2PP: svindluðuð
+      2PS: svindlaðir
+      3PP: svindluðu
+      3PS: svindlaði
+    present:
+      1PP: svindlum
+      1PS: svindla
+      2PP: svindlið
+      2PS: svindlar
+      3PP: svindla
+      3PS: svindlar
+  p: 493
+svíkja:
+  d: to betray
+  f:
+    infinitive: svíkja
+    past:
+      1PP: svikum
+      1PS: sveik
+      2PP: svikuð
+      2PS: sveikst
+      3PP: sviku
+      3PS: sveik
+    present:
+      1PP: svíkjum
+      1PS: svík
+      2PP: svíkið
+      2PS: svíkur
+      3PP: svíkja
+      3PS: svíkur
+  p: 436
+svíða:
+  d: to singe, to scorch
+  f:
+    infinitive: svíða
+    past:
+      1PP: sviðum
+      1PS: sveið
+      2PP: sviðuð
+      2PS: sveiðst
+      3PP: sviðu
+      3PS: sveið
+    present:
+      1PP: svíðum
+      1PS: svíð
+      2PP: svíðið
+      2PS: svíður
+      3PP: svíða
+      3PS: svíður
+  p: 469
+synda:
+  d: to swim
+  f:
+    infinitive: synda
+    past:
+      1PP: syntum
+      1PS: synti
+      2PP: syntuð
+      2PS: syntir
+      3PP: syntu
+      3PS: synti
+    present:
+      1PP: syndum
+      1PS: syndi
+      2PP: syndið
+      2PS: syndir
+      3PP: synda
+      3PS: syndir
+  p: 348
+syngja:
+  d: to sing
+  f:
+    infinitive: syngja
+    past:
+      1PP: sungum
+      1PS: söng
+      2PP: sunguð
+      2PS: söngst
+      3PP: sungu
+      3PS: söng
+    present:
+      1PP: syngjum
+      1PS: syng
+      2PP: syngið
+      2PS: syngur
+      3PP: syngja
+      3PS: syngur
+  p: 239
+sá:
+  d: to sow
+  f:
+    infinitive: sá
+    past:
+      1PP: sáðum
+      1PS: sáði
+      2PP: sáðuð
+      2PS: sáðir
+      3PP: sáðu
+      3PS: sáði
+    present:
+      1PP: sáum
+      1PS: sái
+      2PP: sáið
+      2PS: sáir
+      3PP: sá
+      3PS: sáir
+  p: 30
+sækja:
+  d: to fetch
+  f:
+    infinitive: sækja
+    past:
+      1PP: sóttum
+      1PS: sótti
+      2PP: sóttuð
+      2PS: sóttir
+      3PP: sóttu
+      3PS: sótti
+    present:
+      1PP: sækjum
+      1PS: sæki
+      2PP: sækið
+      2PS: sækir
+      3PP: sækja
+      3PS: sækir
+  p: 135
+særa:
+  d: to wound, to injure
+  f:
+    infinitive: særa
+    past:
+      1PP: særðum
+      1PS: særði
+      2PP: særðuð
+      2PS: særðir
+      3PP: særðu
+      3PS: særði
+    present:
+      1PP: særum
+      1PS: særi
+      2PP: særið
+      2PS: særir
+      3PP: særa
+      3PS: særir
+  p: 452
+sæta:
+  d: to take advantage of, make use of some opportunity
+  f:
+    infinitive: sæta
+    past:
+      1PP: sættum
+      1PS: sætti
+      2PP: sættuð
+      2PS: sættir
+      3PP: sættu
+      3PS: sætti
+    present:
+      1PP: sætum
+      1PS: sæti
+      2PP: sætið
+      2PS: sætir
+      3PP: sæta
+      3PS: sætir
+  p: 161
+sætta:
+  d: to reconcile
+  f:
+    infinitive: sætta
+    past:
+      1PP: sættum
+      1PS: sætti
+      2PP: sættuð
+      2PS: sættir
+      3PP: sættu
+      3PS: sætti
+    present:
+      1PP: sættum
+      1PS: sætti
+      2PP: sættið
+      2PS: sættir
+      3PP: sætta
+      3PS: sættir
+  p: 276
+sæða:
+  d: to inseminate
+  f:
+    infinitive: sæða
+    past:
+      1PP: sæddum
+      1PS: sæddi
+      2PP: sædduð
+      2PS: sæddir
+      3PP: sæddu
+      3PS: sæddi
+    present:
+      1PP: sæðum
+      1PS: sæði
+      2PP: sæðið
+      2PS: sæðir
+      3PP: sæða
+      3PS: sæðir
+  p: 277
+síma:
+  d: to telephone
+  f:
+    infinitive: síma
+    past:
+      1PP: símuðum
+      1PS: símaði
+      2PP: símuðuð
+      2PS: símaðir
+      3PP: símuðu
+      3PS: símaði
+    present:
+      1PP: símum
+      1PS: síma
+      2PP: símið
+      2PS: símar
+      3PP: síma
+      3PS: símar
+  p: 333
+sóa:
+  d: to waste, to squander
+  f:
+    infinitive: sóa
+    past:
+      1PP: sóuðum
+      1PS: sóaði
+      2PP: sóuðuð
+      2PS: sóaðir
+      3PP: sóuðu
+      3PS: sóaði
+    present:
+      1PP: sóum
+      1PS: sóa
+      2PP: sóið
+      2PS: sóar
+      3PP: sóa
+      3PS: sóar
+  p: 339
+sýna:
+  d: to show
+  f:
+    infinitive: sýna
+    past:
+      1PP: sýndum
+      1PS: sýndi
+      2PP: sýnduð
+      2PS: sýndir
+      3PP: sýndu
+      3PS: sýndi
+    present:
+      1PP: sýnum
+      1PS: sýni
+      2PP: sýnið
+      2PS: sýnir
+      3PP: sýna
+      3PS: sýnir
+  p: 85
+taka:
+  d: "to take (an object)\n Ég ætla að taka bílinn.\n Hún var að fara að taka veskið\
+    \ þitt!"
+  f:
+    infinitive: taka
+    past:
+      1PP: tókum
+      1PS: tók
+      2PP: tókuð
+      2PS: tókst
+      3PP: tóku
+      3PS: tók
+    present:
+      1PP: tökum
+      1PS: tek
+      2PP: takið
+      2PS: tekur
+      3PP: taka
+      3PS: tekur
+  p: 46
+tala:
+  d: to talk
+  f:
+    infinitive: tala
+    past:
+      1PP: töluðum
+      1PS: talaði
+      2PP: töluðuð
+      2PS: talaðir
+      3PP: töluðu
+      3PS: talaði
+    present:
+      1PP: tölum
+      1PS: tala
+      2PP: talið
+      2PS: talar
+      3PP: tala
+      3PS: talar
+  p: 23
+tapa:
+  d: to lose
+  f:
+    infinitive: tapa
+    past:
+      1PP: töpuðum
+      1PS: tapaði
+      2PP: töpuðuð
+      2PS: tapaðir
+      3PP: töpuðu
+      3PS: tapaði
+    present:
+      1PP: töpum
+      1PS: tapa
+      2PP: tapið
+      2PS: tapar
+      3PP: tapa
+      3PS: tapar
+  p: 197
+telja:
+  d: to count
+  f:
+    infinitive: telja
+    past:
+      1PP: töldum
+      1PS: taldi
+      2PP: tölduð
+      2PS: taldir
+      3PP: töldu
+      3PS: taldi
+    present:
+      1PP: teljum
+      1PS: tel
+      2PP: teljið
+      2PS: telur
+      3PP: telja
+      3PS: telur
+  p: 241
+tengja:
+  d: to connect, to join, to link something together
+  f:
+    infinitive: tengja
+    past:
+      1PP: tengdum
+      1PS: tengdi
+      2PP: tengduð
+      2PS: tengdir
+      3PP: tengdu
+      3PS: tengdi
+    present:
+      1PP: tengjum
+      1PS: tengi
+      2PP: tengið
+      2PS: tengir
+      3PP: tengja
+      3PS: tengir
+  p: 267
+teppa:
+  d: to block
+  f:
+    infinitive: teppa
+    past:
+      1PP: tepptum
+      1PS: teppti
+      2PP: tepptuð
+      2PS: tepptir
+      3PP: tepptu
+      3PS: teppti
+    present:
+      1PP: teppum
+      1PS: teppi
+      2PP: teppið
+      2PS: teppir
+      3PP: teppa
+      3PS: teppir
+  p: 521
+tilheyra:
+  d: to belong (to someone/something)
+  f:
+    infinitive: tilheyra
+    past:
+      1PP: tilheyrðum
+      1PS: tilheyrði
+      2PP: tilheyrðuð
+      2PS: tilheyrðir
+      3PP: tilheyrðu
+      3PS: tilheyrði
+    present:
+      1PP: tilheyrum
+      1PS: tilheyri
+      2PP: tilheyrið
+      2PS: tilheyrir
+      3PP: tilheyra
+      3PS: tilheyrir
+  p: 368
+tilkynna:
+  d: to announce something to someone, to make something known to someone, to notify
+    someone of something
+  f:
+    infinitive: tilkynna
+    past:
+      1PP: tilkynntum
+      1PS: tilkynnti
+      2PP: tilkynntuð
+      2PS: tilkynntir
+      3PP: tilkynntu
+      3PS: tilkynnti
+    present:
+      1PP: tilkynnum
+      1PS: tilkynni
+      2PP: tilkynnið
+      2PS: tilkynnir
+      3PP: tilkynna
+      3PS: tilkynnir
+  p: 418
+toga:
+  d: to pull, to draw, to tug
+  f:
+    infinitive: toga
+    past:
+      1PP: toguðum
+      1PS: togaði
+      2PP: toguðuð
+      2PS: togaðir
+      3PP: toguðu
+      3PS: togaði
+    present:
+      1PP: togum
+      1PS: toga
+      2PP: togið
+      2PS: togar
+      3PP: toga
+      3PS: togar
+  p: 451
+treysta:
+  d: to strengthen, reinforce
+  f:
+    infinitive: treysta
+    past:
+      1PP: treystum
+      1PS: treysti
+      2PP: treystuð
+      2PS: treystir
+      3PP: treystu
+      3PS: treysti
+    present:
+      1PP: treystum
+      1PS: treysti
+      2PP: treystið
+      2PS: treystir
+      3PP: treysta
+      3PS: treystir
+  p: 219
+troða:
+  d: to tread on, to step on
+  f:
+    infinitive: troða
+    past:
+      1PP: tróðum
+      1PS: tróð
+      2PP: tróðuð
+      2PS: tróðst
+      3PP: tróðu
+      3PS: tróð
+    present:
+      1PP: troðum
+      1PS: treð
+      2PP: troðið
+      2PS: treður
+      3PP: troða
+      3PS: treður
+  p: 500
+trufla:
+  d: to disturb
+  f:
+    infinitive: trufla
+    past:
+      1PP: trufluðum
+      1PS: truflaði
+      2PP: trufluðuð
+      2PS: truflaðir
+      3PP: trufluðu
+      3PS: truflaði
+    present:
+      1PP: truflum
+      1PS: trufla
+      2PP: truflið
+      2PS: truflar
+      3PP: trufla
+      3PS: truflar
+  p: 253
+tryggja:
+  d: to secure
+  f:
+    infinitive: tryggja
+    past:
+      1PP: tryggðum
+      1PS: tryggði
+      2PP: tryggðuð
+      2PS: tryggðir
+      3PP: tryggðu
+      3PS: tryggði
+    present:
+      1PP: tryggjum
+      1PS: tryggi
+      2PP: tryggið
+      2PS: tryggir
+      3PP: tryggja
+      3PS: tryggir
+  p: 376
+trúa:
+  d: to believe
+  f:
+    infinitive: trúa
+    past:
+      1PP: trúðum
+      1PS: trúði
+      2PP: trúðuð
+      2PS: trúðir
+      3PP: trúðu
+      3PS: trúði
+    present:
+      1PP: trúum
+      1PS: trúi
+      2PP: trúið
+      2PS: trúir
+      3PP: trúa
+      3PS: trúir
+  p: 99
+tákna:
+  d: to denote, to mean
+  f:
+    infinitive: tákna
+    past:
+      1PP: táknuðum
+      1PS: táknaði
+      2PP: táknuðuð
+      2PS: táknaðir
+      3PP: táknuðu
+      3PS: táknaði
+    present:
+      1PP: táknum
+      1PS: tákna
+      2PP: táknið
+      2PS: táknar
+      3PP: tákna
+      3PS: táknar
+  p: 320
+tíma:
+  d: Used in set phrases
+  f:
+    infinitive: tíma
+    past:
+      1PP: tímdum
+      1PS: tímdi
+      2PP: tímduð
+      2PS: tímdir
+      3PP: tímdu
+      3PS: tímdi
+    present:
+      1PP: tímum
+      1PS: tími
+      2PP: tímið
+      2PS: tímir
+      3PP: tíma
+      3PS: tímir
+  p: 44
+týna:
+  d: to lose (objects)
+  f:
+    infinitive: týna
+    past:
+      1PP: týndum
+      1PS: týndi
+      2PP: týnduð
+      2PS: týndir
+      3PP: týndu
+      3PS: týndi
+    present:
+      1PP: týnum
+      1PS: týni
+      2PP: týnið
+      2PS: týnir
+      3PP: týna
+      3PS: týnir
+  p: 473
+una:
+  d: to be satisfied, feel happy
+  f:
+    infinitive: una
+    past:
+      1PP: undum
+      1PS: undi
+      2PP: unduð
+      2PS: undir
+      3PP: undu
+      3PS: undi
+    present:
+      1PP: unum
+      1PS: uni
+      2PP: unið
+      2PS: unir
+      3PP: una
+      3PS: unir
+  p: 61
+undirbúa:
+  d: to prepare
+  f:
+    infinitive: undirbúa
+    past:
+      1PP: undirbjuggum
+      1PS: undirbjó
+      2PP: undirbjugguð
+      2PS: undirbjóst
+      3PP: undirbjuggu
+      3PS: undirbjó
+    present:
+      1PP: undirbúum
+      1PS: undirbý
+      2PP: undirbúið
+      2PS: undirbýrð
+      3PP: undirbúa
+      3PS: undirbýr
+  p: 433
+unga:
+  d: to hatch
+  f:
+    infinitive: unga
+    past:
+      1PP: unguðum
+      1PS: ungaði
+      2PP: unguðuð
+      2PS: ungaðir
+      3PP: unguðu
+      3PS: ungaði
+    present:
+      1PP: ungum
+      1PS: unga
+      2PP: ungið
+      2PS: ungar
+      3PP: unga
+      3PS: ungar
+  p: 295
+unna:
+  d: to love
+  f:
+    infinitive: unna
+    past:
+      1PP: unnum
+      1PS: unni
+      2PP: unnuð
+      2PS: unnir
+      3PP: unnu
+      3PS: unni
+    present:
+      1PP: unnum
+      1PS: ann
+      2PP: unnið
+      2PS: annt
+      3PP: unna
+      3PS: ann
+  p: 142
+vaka:
+  d: to wake, be awake
+  f:
+    infinitive: vaka
+    past:
+      1PP: vöktum
+      1PS: vakti
+      2PP: vöktuð
+      2PS: vaktir
+      3PP: vöktu
+      3PS: vakti
+    present:
+      1PP: vökum
+      1PS: vaki
+      2PP: vakið
+      2PS: vakir
+      3PP: vaka
+      3PS: vakir
+  p: 354
+vakna:
+  d: to wake up, to awaken
+  f:
+    infinitive: vakna
+    past:
+      1PP: vöknuðum
+      1PS: vaknaði
+      2PP: vöknuðuð
+      2PS: vaknaðir
+      3PP: vöknuðu
+      3PS: vaknaði
+    present:
+      1PP: vöknum
+      1PS: vakna
+      2PP: vaknið
+      2PS: vaknar
+      3PP: vakna
+      3PS: vaknar
+  p: 247
+valda:
+  d: to cause
+  f:
+    infinitive: valda
+    past:
+      1PP: völduðum
+      1PS: valdaði
+      2PP: völduðuð
+      2PS: valdaðir
+      3PP: völduðu
+      3PS: valdaði
+    present:
+      1PP: völdum
+      1PS: valda
+      2PP: valdið
+      2PS: valdar
+      3PP: valda
+      3PS: valdar
+  p: 237
+vanda:
+  d: to do something with care and effort, to take pains over something
+  f:
+    infinitive: vanda
+    past:
+      1PP: vönduðum
+      1PS: vandaði
+      2PP: vönduðuð
+      2PS: vandaðir
+      3PP: vönduðu
+      3PS: vandaði
+    present:
+      1PP: vöndum
+      1PS: vanda
+      2PP: vandið
+      2PS: vandar
+      3PP: vanda
+      3PS: vandar
+  p: 183
+vanta:
+  d: to lack (usually translates "to need" or "to miss")
+  f:
+    infinitive: vanta
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+  p: 92
+vara:
+  d: to warn
+  f:
+    infinitive: vara
+    past:
+      1PP: vöruðum
+      1PS: varaði
+      2PP: vöruðuð
+      2PS: varaðir
+      3PP: vöruðu
+      3PS: varaði
+    present:
+      1PP: vörum
+      1PS: vara
+      2PP: varið
+      2PS: varar
+      3PP: vara
+      3PS: varar
+  p: 250
+varða:
+  d: to affect, to concern, to regard
+  f:
+    infinitive: varða
+    past:
+      1PP: vörðuðum
+      1PS: varðaði
+      2PP: vörðuðuð
+      2PS: varðaðir
+      3PP: vörðuðu
+      3PS: varðaði
+    present:
+      1PP: vörðum
+      1PS: varða
+      2PP: varðið
+      2PS: varðar
+      3PP: varða
+      3PS: varðar
+  p: 256
+vatna:
+  d: to water plants or animals
+  f:
+    infinitive: vatna
+    past:
+      1PP: vötnuðum
+      1PS: vatnaði
+      2PP: vötnuðuð
+      2PS: vatnaðir
+      3PP: vötnuðu
+      3PS: vatnaði
+    present:
+      1PP: vötnum
+      1PS: vatna
+      2PP: vatnið
+      2PS: vatnar
+      3PP: vatna
+      3PS: vatnar
+  p: 252
+vaxa:
+  d: to grow
+  f:
+    infinitive: vaxa
+    past:
+      1PP: uxum
+      1PS: óx
+      2PP: uxuð
+      2PS: óxt
+      3PP: uxu
+      3PS: óx
+    present:
+      1PP: vöxum
+      1PS: vex
+      2PP: vaxið
+      2PS: vex
+      3PP: vaxa
+      3PS: vex
+  p: 437
+vaða:
+  d: to wade
+  f:
+    infinitive: vaða
+    past:
+      1PP: óðum
+      1PS: óð
+      2PP: óðuð
+      2PS: óðst
+      3PP: óðu
+      3PS: óð
+    present:
+      1PP: vöðum
+      1PS: veð
+      2PP: vaðið
+      2PS: veður
+      3PP: vaða
+      3PS: veður
+  p: 375
+vega:
+  d: to weigh
+  f:
+    infinitive: vega
+    past:
+      1PP: vógum
+      1PS: vó
+      2PP: vóguð
+      2PS: vóst
+      3PP: vógu
+      3PS: vó
+    present:
+      1PP: vegum
+      1PS: veg
+      2PP: vegið
+      2PS: vegur
+      3PP: vega
+      3PS: vegur
+  p: 29
+veikja:
+  d: to debilitate, to make feeble; to weaken
+  f:
+    infinitive: veikja
+    past:
+      1PP: veiktum
+      1PS: veikti
+      2PP: veiktuð
+      2PS: veiktir
+      3PP: veiktu
+      3PS: veikti
+    present:
+      1PP: veikjum
+      1PS: veiki
+      2PP: veikið
+      2PS: veikir
+      3PP: veikja
+      3PS: veikir
+  p: 346
+veita:
+  d: to give somebody something, to grant, to offer
+  f:
+    infinitive: veita
+    past:
+      1PP: veittum
+      1PS: veitti
+      2PP: veittuð
+      2PS: veittir
+      3PP: veittu
+      3PS: veitti
+    present:
+      1PP: veitum
+      1PS: veiti
+      2PP: veitið
+      2PS: veitir
+      3PP: veita
+      3PS: veitir
+  p: 5
+veiða:
+  d: to hunt
+  f:
+    infinitive: veiða
+    past:
+      1PP: veiddum
+      1PS: veiddi
+      2PP: veidduð
+      2PS: veiddir
+      3PP: veiddu
+      3PS: veiddi
+    present:
+      1PP: veiðum
+      1PS: veiði
+      2PP: veiðið
+      2PS: veiðir
+      3PP: veiða
+      3PS: veiðir
+  p: 311
+vekja:
+  d: to awaken, to wake up, the word specifically means to disrupt the sleep of someone
+    else and not to rise from sleep one self, as these two are never confused in the
+    language unlike English
+  f:
+    infinitive: vekja
+    past:
+      1PP: vöktum
+      1PS: vakti
+      2PP: vöktuð
+      2PS: vaktir
+      3PP: vöktu
+      3PS: vakti
+    present:
+      1PP: vekjum
+      1PS: vek
+      2PP: vekið
+      2PS: vekur
+      3PP: vekja
+      3PS: vekur
+  p: 313
+velja:
+  d: to choose, to select
+  f:
+    infinitive: velja
+    past:
+      1PP: völdum
+      1PS: valdi
+      2PP: völduð
+      2PS: valdir
+      3PP: völdu
+      3PS: valdi
+    present:
+      1PP: veljum
+      1PS: vel
+      2PP: veljið
+      2PS: velur
+      3PP: velja
+      3PS: velur
+  p: 13
+velta:
+  d: to roll, tumble
+  f:
+    infinitive: velta
+    past:
+      1PP: veltum
+      1PS: velti
+      2PP: veltuð
+      2PS: veltir
+      3PP: veltu
+      3PS: velti
+    present:
+      1PP: veltum
+      1PS: velti
+      2PP: veltið
+      2PS: veltir
+      3PP: velta
+      3PS: veltir
+  p: 361
+venja:
+  d: to accustom, to make accustomed
+  f:
+    infinitive: venja
+    past:
+      1PP: vöndum
+      1PS: vandi
+      2PP: vönduð
+      2PS: vandir
+      3PP: vöndu
+      3PS: vandi
+    present:
+      1PP: venjum
+      1PS: ven
+      2PP: venjið
+      2PS: venur
+      3PP: venja
+      3PS: venur
+  p: 182
+vera:
+  d: to be
+  f:
+    infinitive: vera
+    past:
+      1PP: vorum
+      1PS: var
+      2PP: voruð
+      2PS: varst
+      3PP: voru
+      3PS: var
+    present:
+      1PP: erum
+      1PS: er
+      2PP: eruð
+      2PS: ert
+      3PP: eru
+      3PS: er
+  p: 1
+verja:
+  d: to defend, guard, protect
+  f:
+    infinitive: verja
+    past:
+      1PP: vörðum
+      1PS: varði
+      2PP: vörðuð
+      2PS: varðir
+      3PP: vörðu
+      3PS: varði
+    present:
+      1PP: verjum
+      1PS: ver
+      2PP: verjið
+      2PS: verð
+      3PP: verja
+      3PS: ver
+  p: 28
+vernda:
+  d: to protect, to shield
+  f:
+    infinitive: vernda
+    past:
+      1PP: vernduðum
+      1PS: verndaði
+      2PP: vernduðuð
+      2PS: verndaðir
+      3PP: vernduðu
+      3PS: verndaði
+    present:
+      1PP: verndum
+      1PS: vernda
+      2PP: verndið
+      2PS: verndar
+      3PP: vernda
+      3PS: verndar
+  p: 214
+versla:
+  d: to shop
+  f:
+    infinitive: versla
+    past:
+      1PP: versluðum
+      1PS: verslaði
+      2PP: versluðuð
+      2PS: verslaðir
+      3PP: versluðu
+      3PS: verslaði
+    present:
+      1PP: verslum
+      1PS: versla
+      2PP: verslið
+      2PS: verslar
+      3PP: versla
+      3PS: verslar
+  p: 430
+verða:
+  d: to become
+  f:
+    infinitive: verða
+    past:
+      1PP: urðum
+      1PS: varð
+      2PP: urðuð
+      2PS: varðst
+      3PP: urðu
+      3PS: varð
+    present:
+      1PP: verðum
+      1PS: verð
+      2PP: verðið
+      2PS: verður
+      3PP: verða
+      3PS: verður
+  p: 12
+veðja:
+  d: to bet
+  f:
+    infinitive: veðja
+    past:
+      1PP: veðjuðum
+      1PS: veðjaði
+      2PP: veðjuðuð
+      2PS: veðjaðir
+      3PP: veðjuðu
+      3PS: veðjaði
+    present:
+      1PP: veðjum
+      1PS: veðja
+      2PP: veðjið
+      2PS: veðjar
+      3PP: veðja
+      3PS: veðjar
+  p: 287
+vilja:
+  d: to want
+  f:
+    infinitive: vilja
+    past:
+      1PP: vildum
+      1PS: vildi
+      2PP: vilduð
+      2PS: vildir
+      3PP: vildu
+      3PS: vildi
+    present:
+      1PP: viljum
+      1PS: vil
+      2PP: viljið
+      2PS: vilt
+      3PP: vilja
+      3PS: vill
+  p: 16
+villa:
+  d: to misguide, to lead astray, to deceive
+  f:
+    infinitive: villa
+    past:
+      1PP: villtum
+      1PS: villti
+      2PP: villtuð
+      2PS: villtir
+      3PP: villtu
+      3PS: villti
+    present:
+      1PP: villum
+      1PS: villi
+      2PP: villið
+      2PS: villir
+      3PP: villa
+      3PS: villir
+  p: 41
+vinda:
+  d: to wind
+  f:
+    infinitive: vinda
+    past:
+      1PP: undum
+      1PS: vatt
+      2PP: unduð
+      2PS: vast
+      3PP: undu
+      3PS: vatt
+    present:
+      1PP: vindum
+      1PS: vind
+      2PP: vindið
+      2PS: vindur
+      3PP: vinda
+      3PS: vindur
+  p: 518
+vinna:
+  d: to work, to labour
+  f:
+    infinitive: vinna
+    past:
+      1PP: unnum
+      1PS: vann
+      2PP: unnuð
+      2PS: vannst
+      3PP: unnu
+      3PS: vann
+    present:
+      1PP: vinnum
+      1PS: vinn
+      2PP: vinnið
+      2PS: vinnur
+      3PP: vinna
+      3PS: vinnur
+  p: 59
+virka:
+  d: to work, to function
+  f:
+    infinitive: virka
+    past:
+      1PP: virkuðum
+      1PS: virkaði
+      2PP: virkuðuð
+      2PS: virkaðir
+      3PP: virkuðu
+      3PS: virkaði
+    present:
+      1PP: virkum
+      1PS: virka
+      2PP: virkið
+      2PS: virkar
+      3PP: virka
+      3PS: virkar
+  p: 180
+virkja:
+  d: to harness (power or energy), to exploit
+  f:
+    infinitive: virkja
+    past:
+      1PP: virkjuðum
+      1PS: virkjaði
+      2PP: virkjuðuð
+      2PS: virkjaðir
+      3PP: virkjuðu
+      3PS: virkjaði
+    present:
+      1PP: virkjum
+      1PS: virkja
+      2PP: virkið
+      2PS: virkjar
+      3PP: virkja
+      3PS: virkjar
+  p: 475
+virða:
+  d: to respect, to show respect
+  f:
+    infinitive: virða
+    past:
+      1PP: virtum
+      1PS: virti
+      2PP: virtuð
+      2PS: virtir
+      3PP: virtu
+      3PS: virti
+    present:
+      1PP: virðum
+      1PS: virði
+      2PP: virðið
+      2PS: virðir
+      3PP: virða
+      3PS: virðir
+  p: 67
+vita:
+  d: to know (information), know of something
+  f:
+    infinitive: vita
+    past:
+      1PP: vissum
+      1PS: vissi
+      2PP: vissuð
+      2PS: vissir
+      3PP: vissu
+      3PS: vissi
+    present:
+      1PP: vitum
+      1PS: veit
+      2PP: vitið
+      2PS: veist
+      3PP: vita
+      3PS: veit
+  p: 4
+viðurkenna:
+  d: to acknowledge
+  f:
+    infinitive: viðurkenna
+    past:
+      1PP: viðurkenndum
+      1PS: viðurkenndi
+      2PP: viðurkennduð
+      2PS: viðurkenndir
+      3PP: viðurkenndu
+      3PS: viðurkenndi
+    present:
+      1PP: viðurkennum
+      1PS: viðurkenni
+      2PP: viðurkennið
+      2PS: viðurkennir
+      3PP: viðurkenna
+      3PS: viðurkennir
+  p: 405
+vona:
+  d: to hope
+  f:
+    infinitive: vona
+    past:
+      1PP: vonuðum
+      1PS: vonaði
+      2PP: vonuðuð
+      2PS: vonaðir
+      3PP: vonuðu
+      3PS: vonaði
+    present:
+      1PP: vonum
+      1PS: vona
+      2PP: vonið
+      2PS: vonar
+      3PP: vona
+      3PS: vonar
+  p: 115
+vænta:
+  d: to expect
+  f:
+    infinitive: vænta
+    past:
+      1PP: væntum
+      1PS: vænti
+      2PP: væntuð
+      2PS: væntir
+      3PP: væntu
+      3PS: vænti
+    present:
+      1PP: væntum
+      1PS: vænti
+      2PP: væntið
+      2PS: væntir
+      3PP: vænta
+      3PS: væntir
+  p: 192
+véla:
+  d: to deceive, to beguile, to trick
+  f:
+    infinitive: véla
+    past:
+      1PP: véluðum
+      1PS: vélaði
+      2PP: véluðuð
+      2PS: vélaðir
+      3PP: véluðu
+      3PS: vélaði
+    present:
+      1PP: vélum
+      1PS: véla
+      2PP: vélið
+      2PS: vélar
+      3PP: véla
+      3PS: vélar
+  p: 359
+víkja:
+  d: to yield, give way
+  f:
+    infinitive: víkja
+    past:
+      1PP: vikum
+      1PS: vék
+      2PP: vikuð
+      2PS: vékst
+      3PP: viku
+      3PS: vék
+    present:
+      1PP: víkjum
+      1PS: vík
+      2PP: víkið
+      2PS: víkur
+      3PP: víkja
+      3PS: víkur
+  p: 110
+yfirgefa:
+  d: to abandon, to leave, to forsake
+  f:
+    infinitive: yfirgefa
+    past:
+      1PP: yfirgáfum
+      1PS: yfirgaf
+      2PP: yfirgáfuð
+      2PS: yfirgafst
+      3PP: yfirgáfu
+      3PS: yfirgaf
+    present:
+      1PP: yfirgefum
+      1PS: yfirgef
+      2PP: yfirgefið
+      2PS: yfirgefur
+      3PP: yfirgefa
+      3PS: yfirgefur
+  p: 349
+ákveða:
+  d: to decide, to determine
+  f:
+    infinitive: ákveða
+    past:
+      1PP: ákváðum
+      1PS: ákvað
+      2PP: ákváðuð
+      2PS: ákvaðst
+      3PP: ákváðu
+      3PS: ákvað
+    present:
+      1PP: ákveðum
+      1PS: ákveð
+      2PP: ákveðið
+      2PS: ákveður
+      3PP: ákveða
+      3PS: ákveður
+  p: 248
+æfa:
+  d: to practise
+  f:
+    infinitive: æfa
+    past:
+      1PP: æfðum
+      1PS: æfði
+      2PP: æfðuð
+      2PS: æfðir
+      3PP: æfðu
+      3PS: æfði
+    present:
+      1PP: æfum
+      1PS: æfi
+      2PP: æfið
+      2PS: æfir
+      3PP: æfa
+      3PS: æfir
+  p: 322
+æja:
+  d: when traveling, to stop to rest or eat
+  f:
+    infinitive: æja
+    past:
+      1PP: áðum
+      1PS: áði
+      2PP: áðuð
+      2PS: áðir
+      3PP: áðu
+      3PS: áði
+    present:
+      1PP: æjum
+      1PS: æi
+      2PP: æið
+      2PS: æir
+      3PP: æja
+      3PS: æir
+  p: 370
+æsa:
+  d: to excite, to stir up, rile (often with upp)
+  f:
+    infinitive: æsa
+    past:
+      1PP: æstum
+      1PS: æsti
+      2PP: æstuð
+      2PS: æstir
+      3PP: æstu
+      3PS: æsti
+    present:
+      1PP: æsum
+      1PS: æsi
+      2PP: æsið
+      2PS: æsir
+      3PP: æsa
+      3PS: æsir
+  p: 445
+æta:
+  d: to corrode
+  f:
+    infinitive: æta
+    past:
+      1PP: ættum
+      1PS: ætti
+      2PP: ættuð
+      2PS: ættir
+      3PP: ættu
+      3PS: ætti
+    present:
+      1PP: ætum
+      1PS: æti
+      2PP: ætið
+      2PS: ætir
+      3PP: æta
+      3PS: ætir
+  p: 53
+ætla:
+  d: to intend, to plan, to mean to, be going to
+  f:
+    infinitive: ætla
+    past:
+      1PP: ætluðum
+      1PS: ætlaði
+      2PP: ætluðuð
+      2PS: ætlaðir
+      3PP: ætluðu
+      3PS: ætlaði
+    present:
+      1PP: ætlum
+      1PS: ætla
+      2PP: ætlið
+      2PS: ætlar
+      3PP: ætla
+      3PS: ætlar
+  p: 36
+æða:
+  d: to rage
+  f:
+    infinitive: æða
+    past:
+      1PP: æddum
+      1PS: æddi
+      2PP: ædduð
+      2PS: æddir
+      3PP: æddu
+      3PS: æddi
+    present:
+      1PP: æðum
+      1PS: æði
+      2PP: æðið
+      2PS: æðir
+      3PP: æða
+      3PS: æðir
+  p: 371
+éta:
+  d: to eat
+  f:
+    infinitive: éta
+    past:
+      1PP: átum
+      1PS: át
+      2PP: átuð
+      2PS: ást
+      3PP: átu
+      3PS: át
+    present:
+      1PP: étum
+      1PS: ét
+      2PP: étið
+      2PS: étur
+      3PP: éta
+      3PS: étur
+  p: 171
+ónáða:
+  d: to disturb (someone)
+  f:
+    infinitive: ónáða
+    past:
+      1PP: ónáðuðum
+      1PS: ónáðaði
+      2PP: ónáðuðuð
+      2PS: ónáðaðir
+      3PP: ónáðuðu
+      3PS: ónáðaði
+    present:
+      1PP: ónáðum
+      1PS: ónáða
+      2PP: ónáðið
+      2PS: ónáðar
+      3PP: ónáða
+      3PS: ónáðar
+  p: 514
+óska:
+  d: to wish
+  f:
+    infinitive: óska
+    past:
+      1PP: óskuðum
+      1PS: óskaði
+      2PP: óskuðuð
+      2PS: óskaðir
+      3PP: óskuðu
+      3PS: óskaði
+    present:
+      1PP: óskum
+      1PS: óska
+      2PP: óskið
+      2PS: óskar
+      3PP: óska
+      3PS: óskar
+  p: 223
+óttast:
+  d: to fear, be afraid
+  f:
+    infinitive: null
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+  p: 168
+öskra:
+  d: to scream, to shout, to yell
+  f:
+    infinitive: öskra
+    past:
+      1PP: öskruðum
+      1PS: öskraði
+      2PP: öskruðuð
+      2PS: öskraðir
+      3PP: öskruðu
+      3PS: öskraði
+    present:
+      1PP: öskrum
+      1PS: öskra
+      2PP: öskrið
+      2PS: öskrar
+      3PP: öskra
+      3PS: öskrar
+  p: 380
+öðlast:
+  d: gain, come into possession of
+  f:
+    infinitive: null
+    past:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+    present:
+      1PP: null
+      1PS: null
+      2PP: null
+      2PS: null
+      3PP: null
+      3PS: null
+  p: 520
+útiloka:
+  d: to exclude
+  f:
+    infinitive: útiloka
+    past:
+      1PP: útilokuðum
+      1PS: útilokaði
+      2PP: útilokuðuð
+      2PS: útilokaðir
+      3PP: útilokuðu
+      3PS: útilokaði
+    present:
+      1PP: útilokum
+      1PS: útiloka
+      2PP: útilokið
+      2PS: útilokar
+      3PP: útiloka
+      3PS: útilokar
+  p: 273
+útskýra:
+  d: to explain
+  f:
+    infinitive: útskýra
+    past:
+      1PP: útskýrðum
+      1PS: útskýrði
+      2PP: útskýrðuð
+      2PS: útskýrðir
+      3PP: útskýrðu
+      3PS: útskýrði
+    present:
+      1PP: útskýrum
+      1PS: útskýri
+      2PP: útskýrið
+      2PS: útskýrir
+      3PP: útskýra
+      3PS: útskýrir
+  p: 249
+ýta:
+  d: to push
+  f:
+    infinitive: ýta
+    past:
+      1PP: ýttum
+      1PS: ýtti
+      2PP: ýttuð
+      2PS: ýttir
+      3PP: ýttu
+      3PS: ýtti
+    present:
+      1PP: ýtum
+      1PS: ýti
+      2PP: ýtið
+      2PS: ýtir
+      3PP: ýta
+      3PS: ýtir
+  p: 401
+þakka:
+  d: to thank
+  f:
+    infinitive: þakka
+    past:
+      1PP: þökkuðum
+      1PS: þakkaði
+      2PP: þökkuðuð
+      2PS: þakkaðir
+      3PP: þökkuðu
+      3PS: þakkaði
+    present:
+      1PP: þökkum
+      1PS: þakka
+      2PP: þakkið
+      2PS: þakkar
+      3PP: þakka
+      3PS: þakkar
+  p: 31
+þegja:
+  d: to be silent, say nothing, hold one’s tongue
+  f:
+    infinitive: þegja
+    past:
+      1PP: þögðum
+      1PS: þagði
+      2PP: þögðuð
+      2PS: þagðir
+      3PP: þögðu
+      3PS: þagði
+    present:
+      1PP: þegjum
+      1PS: þegi
+      2PP: þegið
+      2PS: þegir
+      3PP: þegja
+      3PS: þegir
+  p: 118
+þekja:
+  d: to cover
+  f:
+    infinitive: þekja
+    past:
+      1PP: þöktum
+      1PS: þakti
+      2PP: þöktuð
+      2PS: þaktir
+      3PP: þöktu
+      3PS: þakti
+    present:
+      1PP: þekjum
+      1PS: þek
+      2PP: þekið
+      2PS: þekur
+      3PP: þekja
+      3PS: þekur
+  p: 508
+þekkja:
+  d: to know, be familiar with
+  f:
+    infinitive: þekkja
+    past:
+      1PP: þekktum
+      1PS: þekkti
+      2PP: þekktuð
+      2PS: þekktir
+      3PP: þekktu
+      3PS: þekkti
+    present:
+      1PP: þekkjum
+      1PS: þekki
+      2PP: þekkið
+      2PS: þekkir
+      3PP: þekkja
+      3PS: þekkir
+  p: 98
+þiggja:
+  d: to accept, receive
+  f:
+    infinitive: þiggja
+    past:
+      1PP: þáðum
+      1PS: þáði
+      2PP: þáðuð
+      2PS: þáðir
+      3PP: þáðu
+      3PS: þáði
+    present:
+      1PP: þiggjum
+      1PS: þigg
+      2PP: þiggið
+      2PS: þiggur
+      3PP: þiggja
+      3PS: þiggur
+  p: 367
+þinga:
+  d: to hold a meeting
+  f:
+    infinitive: þinga
+    past:
+      1PP: þinguðum
+      1PS: þingaði
+      2PP: þinguðuð
+      2PS: þingaðir
+      3PP: þinguðu
+      3PS: þingaði
+    present:
+      1PP: þingum
+      1PS: þinga
+      2PP: þingið
+      2PS: þingar
+      3PP: þinga
+      3PS: þingar
+  p: 512
+þjá:
+  d: to pain, plague, cause (one) to suffer
+  f:
+    infinitive: þjá
+    past:
+      1PP: þjáðum
+      1PS: þjáði
+      2PP: þjáðuð
+      2PS: þjáðir
+      3PP: þjáðu
+      3PS: þjáði
+    present:
+      1PP: þjáum
+      1PS: þjái
+      2PP: þjáið
+      2PS: þjáir
+      3PP: þjá
+      3PS: þjáir
+  p: 479
+þjálfa:
+  d: to train, to exercise
+  f:
+    infinitive: þjálfa
+    past:
+      1PP: þjálfuðum
+      1PS: þjálfaði
+      2PP: þjálfuðuð
+      2PS: þjálfaðir
+      3PP: þjálfuðu
+      3PS: þjálfaði
+    present:
+      1PP: þjálfum
+      1PS: þjálfa
+      2PP: þjálfið
+      2PS: þjálfar
+      3PP: þjálfa
+      3PS: þjálfar
+  p: 449
+þjóna:
+  d: to serve someone, to be in somebody's service
+  f:
+    infinitive: þjóna
+    past:
+      1PP: þjónuðum
+      1PS: þjónaði
+      2PP: þjónuðuð
+      2PS: þjónaðir
+      3PP: þjónuðu
+      3PS: þjónaði
+    present:
+      1PP: þjónum
+      1PS: þjóna
+      2PP: þjónið
+      2PS: þjónar
+      3PP: þjóna
+      3PS: þjónar
+  p: 388
+þola:
+  d: to endure, to take, to withstand
+  f:
+    infinitive: þola
+    past:
+      1PP: þoldum
+      1PS: þoldi
+      2PP: þolduð
+      2PS: þoldir
+      3PP: þoldu
+      3PS: þoldi
+    present:
+      1PP: þolum
+      1PS: þoli
+      2PP: þolið
+      2PS: þolir
+      3PP: þola
+      3PS: þolir
+  p: 187
+þora:
+  d: to dare
+  f:
+    infinitive: þora
+    past:
+      1PP: þorðum
+      1PS: þorði
+      2PP: þorðuð
+      2PS: þorðir
+      3PP: þorðu
+      3PS: þorði
+    present:
+      1PP: þorum
+      1PS: þori
+      2PP: þorið
+      2PS: þorir
+      3PP: þora
+      3PS: þorir
+  p: 472
+þrauka:
+  d: to endure, hold out, hold on
+  f:
+    infinitive: þrauka
+    past:
+      1PP: þraukuðum
+      1PS: þraukaði
+      2PP: þraukuðuð
+      2PS: þraukaðir
+      3PP: þraukuðu
+      3PS: þraukaði
+    present:
+      1PP: þraukum
+      1PS: þrauka
+      2PP: þraukið
+      2PS: þraukar
+      3PP: þrauka
+      3PS: þraukar
+  p: 496
+þreyta:
+  d: to strive (at), struggle (with)
+  f:
+    infinitive: þreyta
+    past:
+      1PP: þreyttum
+      1PS: þreytti
+      2PP: þreyttuð
+      2PS: þreyttir
+      3PP: þreyttu
+      3PS: þreytti
+    present:
+      1PP: þreytum
+      1PS: þreyti
+      2PP: þreytið
+      2PS: þreytir
+      3PP: þreyta
+      3PS: þreytir
+  p: 286
+þroska:
+  d: to mature, to develop
+  f:
+    infinitive: þroska
+    past:
+      1PP: þroskuðum
+      1PS: þroskaði
+      2PP: þroskuðuð
+      2PS: þroskaðir
+      3PP: þroskuðu
+      3PS: þroskaði
+    present:
+      1PP: þroskum
+      1PS: þroska
+      2PP: þroskið
+      2PS: þroskar
+      3PP: þroska
+      3PS: þroskar
+  p: 513
+þrá:
+  d: to desire, to yearn, to long
+  f:
+    infinitive: þrá
+    past:
+      1PP: þráðum
+      1PS: þráði
+      2PP: þráðuð
+      2PS: þráðir
+      3PP: þráðu
+      3PS: þráði
+    present:
+      1PP: þráum
+      1PS: þrái
+      2PP: þráið
+      2PS: þráir
+      3PP: þrá
+      3PS: þráir
+  p: 465
+þrífa:
+  d: to clean, to cleanse
+  f:
+    infinitive: þrífa
+    past:
+      1PP: þrifum
+      1PS: þreif
+      2PP: þrifuð
+      2PS: þreifst
+      3PP: þrifu
+      3PS: þreif
+    present:
+      1PP: þrífum
+      1PS: þríf
+      2PP: þrífið
+      2PS: þrífur
+      3PP: þrífa
+      3PS: þrífur
+  p: 444
+þurfa:
+  d: to need, have to
+  f:
+    infinitive: þurfa
+    past:
+      1PP: þurftum
+      1PS: þurfti
+      2PP: þurftuð
+      2PS: þurftir
+      3PP: þurftu
+      3PS: þurfti
+    present:
+      1PP: þurfum
+      1PS: þarf
+      2PP: þurfið
+      2PS: þarft
+      3PP: þurfa
+      3PS: þarf
+  p: 24
+þurrka:
+  d: to dry (make something dry or drier)
+  f:
+    infinitive: þurrka
+    past:
+      1PP: þurrkuðum
+      1PS: þurrkaði
+      2PP: þurrkuðuð
+      2PS: þurrkaðir
+      3PP: þurrkuðu
+      3PS: þurrkaði
+    present:
+      1PP: þurrkum
+      1PS: þurrka
+      2PP: þurrkið
+      2PS: þurrkar
+      3PP: þurrka
+      3PS: þurrkar
+  p: 503
+þvo:
+  d: to wash, to do (laundry)
+  f:
+    infinitive: þvo
+    past:
+      1PP: þvoðum
+      1PS: þvoði
+      2PP: þvoðuð
+      2PS: þvoðir
+      3PP: þvoðu
+      3PS: þvoði
+    present:
+      1PP: þvoum
+      1PS: þvæ
+      2PP: þvoið
+      2PS: þværð
+      3PP: þvo
+      3PS: þvær
+  p: 413
+þykja:
+  d: to be regarded, be considered, thought or felt a certain way
+  f:
+    infinitive: þykja
+    past:
+      1PP: þóttum
+      1PS: þótti
+      2PP: þóttuð
+      2PS: þóttir
+      3PP: þóttu
+      3PS: þótti
+    present:
+      1PP: þykjum
+      1PS: þyki
+      2PP: þykið
+      2PS: þykir
+      3PP: þykja
+      3PS: þykir
+  p: 69
+þýða:
+  d: to translate a language
+  f:
+    infinitive: þýða
+    past:
+      1PP: þýddum
+      1PS: þýddi
+      2PP: þýdduð
+      2PS: þýddir
+      3PP: þýddu
+      3PS: þýddi
+    present:
+      1PP: þýðum
+      1PS: þýði
+      2PP: þýðið
+      2PS: þýðir
+      3PP: þýða
+      3PS: þýðir
+  p: 112

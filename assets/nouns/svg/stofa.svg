@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="800" height="600" viewBox="-400.0 -300.0 800 600">
+<defs>
+</defs>
+<rect x="-390.0" y="-290.0" width="780" height="580" rx="20" ry="20" stroke="black" fill="#dddddd" stroke-width="2" />
+<text x="0" y="-240.0" font-size="40" fill="black" text-anchor="middle">stofa</text>
+<text x="0" y="-190.0" font-size="30" fill="black" text-anchor="middle">a living room</text>
+<text x="-200.0" y="-130.0" font-size="30" fill="black" text-anchor="middle">singular</text>
+<text x="200.0" y="-130.0" font-size="30" fill="black" text-anchor="middle">plural</text>
+<path d="M0,-115.0 L0,270.0" stroke="black" />
+<path d="M-360.0,-115.0 L360.0,-115.0" stroke="black" />
+<text x="-200.0" y="-80.0" font-size="24" fill="black" text-anchor="middle">indef.</text>
+<text x="200.0" y="-80.0" font-size="24" fill="black" text-anchor="middle">indef.</text>
+<text x="-300.0" y="-46.0" font-size="24" fill="black" text-anchor="end" font-style="italic">nom.</text>
+<text x="-290.0" y="-46.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofa</text>
+<text x="100.0" y="-46.0" font-size="24" fill="black" text-anchor="end" font-style="italic">nom.</text>
+<text x="110.0" y="-46.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofur</text>
+<text x="-300.0" y="-17.0" font-size="24" fill="black" text-anchor="end" font-style="italic">dat.</text>
+<text x="-290.0" y="-17.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofu</text>
+<text x="100.0" y="-17.0" font-size="24" fill="black" text-anchor="end" font-style="italic">dat.</text>
+<text x="110.0" y="-17.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofur</text>
+<text x="-300.0" y="12.0" font-size="24" fill="black" text-anchor="end" font-style="italic">acc.</text>
+<text x="-290.0" y="12.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofu</text>
+<text x="100.0" y="12.0" font-size="24" fill="black" text-anchor="end" font-style="italic">acc.</text>
+<text x="110.0" y="12.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofum</text>
+<text x="-300.0" y="41.0" font-size="24" fill="black" text-anchor="end" font-style="italic">gen.</text>
+<text x="-290.0" y="41.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofu</text>
+<text x="100.0" y="41.0" font-size="24" fill="black" text-anchor="end" font-style="italic">gen.</text>
+<text x="110.0" y="41.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofa</text>
+<path d="M-360.0,80.0 L360.0,80.0" stroke="black" />
+<text x="-200.0" y="120.0" font-size="24" fill="black" text-anchor="middle">def.</text>
+<text x="200.0" y="120.0" font-size="24" fill="black" text-anchor="middle">def.</text>
+<text x="-300.0" y="154.0" font-size="24" fill="black" text-anchor="end" font-style="italic">nom.</text>
+<text x="-290.0" y="154.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofan</text>
+<text x="100.0" y="154.0" font-size="24" fill="black" text-anchor="end" font-style="italic">nom.</text>
+<text x="110.0" y="154.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofurnar</text>
+<text x="-300.0" y="183.0" font-size="24" fill="black" text-anchor="end" font-style="italic">dat.</text>
+<text x="-290.0" y="183.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofuna</text>
+<text x="100.0" y="183.0" font-size="24" fill="black" text-anchor="end" font-style="italic">dat.</text>
+<text x="110.0" y="183.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofurnar</text>
+<text x="-300.0" y="212.0" font-size="24" fill="black" text-anchor="end" font-style="italic">acc.</text>
+<text x="-290.0" y="212.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofunni</text>
+<text x="100.0" y="212.0" font-size="24" fill="black" text-anchor="end" font-style="italic">acc.</text>
+<text x="110.0" y="212.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofunum</text>
+<text x="-300.0" y="241.0" font-size="24" fill="black" text-anchor="end" font-style="italic">gen.</text>
+<text x="-290.0" y="241.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofunnar</text>
+<text x="100.0" y="241.0" font-size="24" fill="black" text-anchor="end" font-style="italic">gen.</text>
+<text x="110.0" y="241.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">stofanna</text>
+</svg>

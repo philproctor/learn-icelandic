@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="800" height="600" viewBox="-400.0 -300.0 800 600">
+<defs>
+</defs>
+<rect x="-390.0" y="-290.0" width="780" height="580" rx="20" ry="20" stroke="black" fill="#dddddd" stroke-width="2" />
+<text x="0" y="-240.0" font-size="40" fill="black" text-anchor="middle">næði</text>
+<text x="0" y="-190.0" font-size="30" fill="black" text-anchor="middle">the state of being left undisturbed; peace, rest, quiet</text>
+<text x="-200.0" y="-130.0" font-size="30" fill="black" text-anchor="middle">singular</text>
+<text x="200.0" y="-130.0" font-size="30" fill="black" text-anchor="middle">plural</text>
+<path d="M0,-115.0 L0,270.0" stroke="black" />
+<path d="M-360.0,-115.0 L360.0,-115.0" stroke="black" />
+<text x="-200.0" y="-80.0" font-size="24" fill="black" text-anchor="middle">indef.</text>
+<text x="200.0" y="-80.0" font-size="24" fill="black" text-anchor="middle">indef.</text>
+<text x="-300.0" y="-46.0" font-size="24" fill="black" text-anchor="end" font-style="italic">nom.</text>
+<text x="-290.0" y="-46.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">næði</text>
+<text x="100.0" y="-46.0" font-size="24" fill="black" text-anchor="end" font-style="italic">nom.</text>
+<text x="110.0" y="-46.0" font-size="24" fill="black" text-anchor="start" font-weight="bold"></text>
+<text x="-300.0" y="-17.0" font-size="24" fill="black" text-anchor="end" font-style="italic">dat.</text>
+<text x="-290.0" y="-17.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">næði</text>
+<text x="100.0" y="-17.0" font-size="24" fill="black" text-anchor="end" font-style="italic">dat.</text>
+<text x="110.0" y="-17.0" font-size="24" fill="black" text-anchor="start" font-weight="bold"></text>
+<text x="-300.0" y="12.0" font-size="24" fill="black" text-anchor="end" font-style="italic">acc.</text>
+<text x="-290.0" y="12.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">næði</text>
+<text x="100.0" y="12.0" font-size="24" fill="black" text-anchor="end" font-style="italic">acc.</text>
+<text x="110.0" y="12.0" font-size="24" fill="black" text-anchor="start" font-weight="bold"></text>
+<text x="-300.0" y="41.0" font-size="24" fill="black" text-anchor="end" font-style="italic">gen.</text>
+<text x="-290.0" y="41.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">næðis</text>
+<text x="100.0" y="41.0" font-size="24" fill="black" text-anchor="end" font-style="italic">gen.</text>
+<text x="110.0" y="41.0" font-size="24" fill="black" text-anchor="start" font-weight="bold"></text>
+<path d="M-360.0,80.0 L360.0,80.0" stroke="black" />
+<text x="-200.0" y="120.0" font-size="24" fill="black" text-anchor="middle">def.</text>
+<text x="200.0" y="120.0" font-size="24" fill="black" text-anchor="middle">def.</text>
+<text x="-300.0" y="154.0" font-size="24" fill="black" text-anchor="end" font-style="italic">nom.</text>
+<text x="-290.0" y="154.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">næðið</text>
+<text x="100.0" y="154.0" font-size="24" fill="black" text-anchor="end" font-style="italic">nom.</text>
+<text x="110.0" y="154.0" font-size="24" fill="black" text-anchor="start" font-weight="bold"></text>
+<text x="-300.0" y="183.0" font-size="24" fill="black" text-anchor="end" font-style="italic">dat.</text>
+<text x="-290.0" y="183.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">næðið</text>
+<text x="100.0" y="183.0" font-size="24" fill="black" text-anchor="end" font-style="italic">dat.</text>
+<text x="110.0" y="183.0" font-size="24" fill="black" text-anchor="start" font-weight="bold"></text>
+<text x="-300.0" y="212.0" font-size="24" fill="black" text-anchor="end" font-style="italic">acc.</text>
+<text x="-290.0" y="212.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">næðinu</text>
+<text x="100.0" y="212.0" font-size="24" fill="black" text-anchor="end" font-style="italic">acc.</text>
+<text x="110.0" y="212.0" font-size="24" fill="black" text-anchor="start" font-weight="bold"></text>
+<text x="-300.0" y="241.0" font-size="24" fill="black" text-anchor="end" font-style="italic">gen.</text>
+<text x="-290.0" y="241.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">næðisins</text>
+<text x="100.0" y="241.0" font-size="24" fill="black" text-anchor="end" font-style="italic">gen.</text>
+<text x="110.0" y="241.0" font-size="24" fill="black" text-anchor="start" font-weight="bold"></text>
+</svg>

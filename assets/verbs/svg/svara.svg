@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="800" height="600" viewBox="-400.0 -300.0 800 600">
+<defs>
+</defs>
+<rect x="-390.0" y="-290.0" width="780" height="580" rx="20" ry="20" stroke="black" fill="#dddddd" stroke-width="2" />
+<text x="0" y="-240.0" font-size="40" fill="black" text-anchor="middle">svara</text>
+<text x="0" y="-190.0" font-size="30" fill="black" text-anchor="middle">to answer, to respond, to reply</text>
+<text x="-200.0" y="-130.0" font-size="30" fill="black" text-anchor="middle">present</text>
+<text x="200.0" y="-130.0" font-size="30" fill="black" text-anchor="middle">past</text>
+<path d="M0,-115.0 L0,270.0" stroke="black" />
+<path d="M-360.0,-115.0 L360.0,-115.0" stroke="black" />
+<text x="-300.0" y="-63.0" font-size="24" fill="black" text-anchor="end" font-style="italic">ég</text>
+<text x="-290.0" y="-63.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svara</text>
+<text x="100.0" y="-63.0" font-size="24" fill="black" text-anchor="end" font-style="italic">ég</text>
+<text x="110.0" y="-63.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svaraði</text>
+<text x="-300.0" y="0.0" font-size="24" fill="black" text-anchor="end" font-style="italic">þú</text>
+<text x="-290.0" y="0.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svarar</text>
+<text x="100.0" y="0.0" font-size="24" fill="black" text-anchor="end" font-style="italic">þú</text>
+<text x="110.0" y="0.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svaraðir</text>
+<text x="-300.0" y="63.0" font-size="24" fill="black" text-anchor="end" font-style="italic">það</text>
+<text x="-290.0" y="63.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svarar</text>
+<text x="100.0" y="63.0" font-size="24" fill="black" text-anchor="end" font-style="italic">það</text>
+<text x="110.0" y="63.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svaraði</text>
+<text x="-300.0" y="126.0" font-size="24" fill="black" text-anchor="end" font-style="italic">við</text>
+<text x="-290.0" y="126.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svörum</text>
+<text x="100.0" y="126.0" font-size="24" fill="black" text-anchor="end" font-style="italic">við</text>
+<text x="110.0" y="126.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svöruðum</text>
+<text x="-300.0" y="189.0" font-size="24" fill="black" text-anchor="end" font-style="italic">þið</text>
+<text x="-290.0" y="189.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svarið</text>
+<text x="100.0" y="189.0" font-size="24" fill="black" text-anchor="end" font-style="italic">þið</text>
+<text x="110.0" y="189.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svöruðuð</text>
+<text x="-300.0" y="252.0" font-size="24" fill="black" text-anchor="end" font-style="italic">þau</text>
+<text x="-290.0" y="252.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svara</text>
+<text x="100.0" y="252.0" font-size="24" fill="black" text-anchor="end" font-style="italic">þau</text>
+<text x="110.0" y="252.0" font-size="24" fill="black" text-anchor="start" font-weight="bold">svöruðu</text>
+</svg>
